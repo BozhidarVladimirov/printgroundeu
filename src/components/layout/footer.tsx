@@ -41,7 +41,6 @@ export function Footer() {
   const [email, setEmail] = useState('')
   const [subscribed, setSubscribed] = useState(false)
 
-export function Footer() {
   return (
     <footer className="bg-gray-900 text-white">
       {/* Main footer */}
