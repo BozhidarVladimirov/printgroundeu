@@ -1,18 +1,19 @@
 'use client'
 
+import { useState } from 'react'
 import Link from 'next/link'
 import { Facebook, Twitter, Instagram, Linkedin, Mail, Phone, MapPin, Clock, Send } from 'lucide-react'
 
 const footerLinks = {
   products: [
-    { label: 'Technology', href: '/catalog?category=Technology' },
-    { label: 'Bags & Backpacks', href: '/catalog?category=Bags' },
-    { label: 'Drinkware', href: '/catalog?category=Drinkware' },
-    { label: 'Textile & Apparel', href: '/catalog?category=Textile' },
-    { label: 'Office Supplies', href: '/catalog?category=Office' },
-    { label: 'Sports & Outdoor', href: '/catalog?category=Sports & Outdoor' },
-    { label: 'Writing Instruments', href: '/catalog?category=Write' },
-    { label: 'Keychains & Tools', href: '/catalog?category=Keychains & Tools' },
+    { label: 'Technology', href: '/catalog?category=technology' },
+    { label: 'Bags & Backpacks', href: '/catalog?category=bags' },
+    { label: 'Drinkware', href: '/catalog?category=drinkware' },
+    { label: 'Textile & Apparel', href: '/catalog?category=textile' },
+    { label: 'Office Supplies', href: '/catalog?category=office' },
+    { label: 'Sports & Outdoor', href: '/catalog?category=sports-&-outdoor' },
+    { label: 'Writing Instruments', href: '/catalog?category=write' },
+    { label: 'Keychains & Tools', href: '/catalog?category=keychains-&-tools' },
   ],
   services: [
     { label: 'Printing Services', href: '/printing' },
@@ -35,6 +36,10 @@ const footerLinks = {
     { label: 'Cookie Policy', href: '/cookies' },
   ],
 }
+
+export function Footer() {
+  const [email, setEmail] = useState('')
+  const [subscribed, setSubscribed] = useState(false)
 
 export function Footer() {
   return (
@@ -148,16 +153,25 @@ export function Footer() {
             <p className="text-sm text-gray-400 mb-4">
               Subscribe for exclusive offers and new products
             </p>
-            <form className="flex gap-2" onSubmit={(e) => e.preventDefault()}>
-              <input 
-                type="email" 
-                placeholder="Your email"
-                className="flex-1 px-4 py-2 rounded-lg bg-white/10 border border-white/20 text-white placeholder-gray-500 focus:outline-none focus:border-accent text-sm"
-              />
-              <button className="px-4 py-2 bg-accent hover:bg-accent/90 rounded-lg transition-colors">
-                <Send className="w-5 h-5" />
-              </button>
-            </form>
+            {subscribed ? (
+              <p className="text-sm text-green-400 mt-3">✓ Thank you for subscribing!</p>
+            ) : (
+              <div className="flex gap-2">
+                <input
+                  type="email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  placeholder="your@email.com"
+                  className="flex-1 px-3 py-2 text-sm rounded bg-white/10 border border-white/20 text-white placeholder:text-white/50 focus:outline-none focus:border-white/40"
+                />
+                <button
+                  onClick={() => { if (email) setSubscribed(true); }}
+                  className="px-4 py-2 text-sm bg-white text-gray-900 rounded font-medium hover:bg-gray-100 transition-colors"
+                >
+                  Subscribe
+                </button>
+              </div>
+            )}
             
             {/* Trust Badges */}
             <div className="mt-8 pt-6 border-t border-white/10">

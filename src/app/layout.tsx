@@ -4,9 +4,9 @@ import { Header } from '@/components/layout/header'
 import { Footer } from '@/components/layout/footer'
 
 export const metadata: Metadata = {
-  title: 'EU PrintGround - Premium Corporate Merchandise',
-  description: 'Your trusted partner for corporate merchandise across Europe. 1500+ products, 21+ printing techniques, delivery to 27 EU countries.',
-  keywords: 'corporate merchandise, branded merchandise, promotional products, EU delivery, bulk orders, printing services',
+  title: 'PrintGround | Premium Corporate Merchandise & Branded Products EU',
+  description: 'Order branded corporate merchandise with 21+ printing techniques. Fast delivery to 27 EU countries. 1500+ products — T-shirts, bags, drinkware, tech & more.',
+  keywords: 'corporate merchandise, branded products, promotional items, EU delivery, screen printing, embroidery',
   icons: {
     icon: '/logo.png',
     apple: '/logo.png',
