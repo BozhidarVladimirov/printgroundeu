@@ -7,6 +7,10 @@ export const metadata: Metadata = {
   title: 'EU PrintGround - Premium Corporate Merchandise',
   description: 'Your trusted partner for corporate merchandise across Europe. 1500+ products, 21+ printing techniques, delivery to 27 EU countries.',
   keywords: 'corporate merchandise, branded merchandise, promotional products, EU delivery, bulk orders, printing services',
+  icons: {
+    icon: '/logo.png',
+    apple: '/logo.png',
+  },
 }
 
 export default function RootLayout({

@@ -46,13 +46,7 @@ export function Footer() {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center gap-3 mb-6">
-              <div className="bg-gradient-to-br from-primary to-accent rounded-lg p-2">
-                <span className="text-white font-bold text-xl">PG</span>
-              </div>
-              <div>
-                <span className="font-bold text-xl">PrintGround</span>
-                <p className="text-xs text-gray-400">Corporate Merchandise</p>
-              </div>
+              <img src="/logo.png" alt="PrintGround" className="h-14 w-auto" />
             </Link>
             <p className="text-gray-400 mb-6 max-w-sm">
               Your trusted partner for premium corporate merchandise and branded products across Europe. 

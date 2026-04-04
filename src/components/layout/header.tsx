@@ -101,13 +101,7 @@ export function Header() {
         <div className="flex h-16 lg:h-20 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <div className="bg-gradient-to-br from-primary to-accent rounded-lg p-2">
-              <span className="text-white font-bold text-xl">PG</span>
-            </div>
-            <div className="hidden sm:block">
-              <span className="font-bold text-xl text-primary">PrintGround</span>
-              <p className="text-xs text-gray-500">Corporate Merchandise</p>
-            </div>
+            <img src="/logo.png" alt="PrintGround" className="h-12 lg:h-14 w-auto" />
           </Link>
 
           {/* Desktop Navigation with Catalog */}
