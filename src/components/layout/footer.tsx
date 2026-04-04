@@ -5,14 +5,14 @@ import { Facebook, Twitter, Instagram, Linkedin, Mail, Phone, MapPin, Clock, Sen
 
 const footerLinks = {
   products: [
-    { label: 'Technology', href: '/catalog?category=technology' },
-    { label: 'Bags & Backpacks', href: '/catalog?category=bags' },
-    { label: 'Drinkware', href: '/catalog?category=drinkware' },
-    { label: 'Textile & Apparel', href: '/catalog?category=textile' },
-    { label: 'Office Supplies', href: '/catalog?category=office' },
-    { label: 'Sports & Outdoor', href: '/catalog?category=sports-outdoor' },
-    { label: 'Writing Instruments', href: '/catalog?category=write' },
-    { label: 'Keychains & Tools', href: '/catalog?category=keychains-tools' },
+    { label: 'Technology', href: '/catalog?category=Technology' },
+    { label: 'Bags & Backpacks', href: '/catalog?category=Bags' },
+    { label: 'Drinkware', href: '/catalog?category=Drinkware' },
+    { label: 'Textile & Apparel', href: '/catalog?category=Textile' },
+    { label: 'Office Supplies', href: '/catalog?category=Office' },
+    { label: 'Sports & Outdoor', href: '/catalog?category=Sports & Outdoor' },
+    { label: 'Writing Instruments', href: '/catalog?category=Write' },
+    { label: 'Keychains & Tools', href: '/catalog?category=Keychains & Tools' },
   ],
   services: [
     { label: 'Printing Services', href: '/printing' },
@@ -24,19 +24,16 @@ const footerLinks = {
   company: [
     { label: 'About Us', href: '/about' },
     { label: 'Contact', href: '/contact' },
-    { label: 'Careers', href: '/contact' },
   ],
   support: [
     { label: 'FAQ', href: '/contact' },
     { label: 'Shipping Info', href: '/contact' },
-    { label: 'Track Order', href: '/contact' },
     { label: 'Returns', href: '/contact' },
     { label: 'File Upload', href: '/contact' },
   ],
   legal: [
     { label: 'Privacy Policy', href: '/contact' },
     { label: 'Terms of Service', href: '/contact' },
-    { label: 'Cookie Policy', href: '/contact' },
   ],
 }
 

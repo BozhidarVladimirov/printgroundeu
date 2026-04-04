@@ -24595,3 +24595,21 @@ export function searchProducts(query: string): Product[] {
     p.sku.toLowerCase().includes(lowerQuery)
   )
 }
+
+function sanitizeProductName(name: string): string {
+  const bgTranslitPattern = /bezzhichn|poliuretan|obiniink|gainkain|koritsa|izrabofena|ofpadatsi|lyuwithpi|inaglerodni|inlakna|tefter|poluk|butilka|karfiol|kapsula/i;
+  
+  if (bgTranslitPattern.test(name)) {
+    const codeMatch = name.match(/\d{4,}/);
+    return codeMatch ? `Product #${codeMatch[0]}` : 'Corporate Product';
+  }
+  
+  return name;
+}
+
+export function getSanitizedProducts(): Product[] {
+  return products.map(p => ({
+    ...p,
+    name: sanitizeProductName(p.name)
+  }))
+}
