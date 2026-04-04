@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { Minus, Plus } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
-import { getBulkDiscount, formatPrice } from '@/lib/utils'
+import { getBulkDiscount, formatPrice, sanitizeProductName } from '@/lib/utils'
 import type { Product } from '@/data/products'
 import { techniques } from '@/data/products'
 
@@ -29,7 +29,7 @@ export function ProductInfo({ product }: ProductInfoProps) {
       {/* Header */}
       <div>
         <p className="text-sm text-gray-500 font-mono mb-2">{product.sku}</p>
-        <h1 className="text-3xl font-bold text-primary mb-4">{product.name}</h1>
+        <h1 className="text-3xl font-bold text-primary mb-4">{sanitizeProductName(product.name)}</h1>
         <div className="flex flex-wrap gap-2 mb-4">
           {product.new && <Badge variant="success">New Arrival</Badge>}
           {product.onSale && <Badge variant="warning">On Sale</Badge>}

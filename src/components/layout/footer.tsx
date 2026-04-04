@@ -26,14 +26,13 @@ const footerLinks = {
     { label: 'Contact', href: '/contact' },
   ],
   support: [
-    { label: 'FAQ', href: '/contact' },
-    { label: 'Shipping Info', href: '/contact' },
-    { label: 'Returns', href: '/contact' },
-    { label: 'File Upload', href: '/contact' },
+    { label: 'FAQ', href: '/faq' },
+    { label: 'Shipping Info', href: '/shipping' },
   ],
   legal: [
-    { label: 'Privacy Policy', href: '/contact' },
-    { label: 'Terms of Service', href: '/contact' },
+    { label: 'Privacy Policy', href: '/privacy' },
+    { label: 'Terms of Service', href: '/terms' },
+    { label: 'Cookie Policy', href: '/cookies' },
   ],
 }
 

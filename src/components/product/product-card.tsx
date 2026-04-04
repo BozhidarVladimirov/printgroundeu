@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { motion } from 'framer-motion'
 import { ShoppingCart, Eye } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
-import { formatPrice } from '@/lib/utils'
+import { formatPrice, sanitizeProductName } from '@/lib/utils'
 import type { Product } from '@/data/products'
 
 interface ProductCardProps {
@@ -52,7 +52,7 @@ export function ProductCard({ product }: ProductCardProps) {
         <p className="text-xs text-gray-400 font-mono mb-1">{product.sku}</p>
         <Link href={`/product/${product.id}`}>
           <h3 className="font-semibold text-primary mb-2 line-clamp-2 hover:text-accent transition-colors cursor-pointer">
-            {product.name}
+            {sanitizeProductName(product.name)}
           </h3>
         </Link>
         

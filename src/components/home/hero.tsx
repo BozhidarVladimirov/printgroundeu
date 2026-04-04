@@ -153,7 +153,7 @@ export function PromotionsBanner() {
     },
     { 
       title: 'Express Delivery', 
-      subtitle: '7+ days production',
+      subtitle: '24-48 hours',
       badge: 'Popular',
       gradient: 'from-blue-500 to-indigo-600'
     },

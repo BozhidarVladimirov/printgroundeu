@@ -41,10 +41,14 @@ export function getBulkDiscount(quantity: number): number {
 }
 
 export function sanitizeProductName(name: string): string {
-  const bgTranslitPattern = /bezzhichn|poliuretan|obiniink|gainkain|koritsa|izrabofena|ofpadatsi|lyuwithpi|inaglerodni|inlakna|tefter|poluk|butilka|karfiol|kapsula/i;
+  const bgTranslitPattern = /bezzhichn|poliuretan|obiniink|gainkain|koritsa|izrabofena|ofpadatsi|lyuwithpi|inaglerodni|inlakna|tefter|poluk|butilka|karfiol|kapsula|navushnik|shlifer|yaketo|chanta|metalen/i;
   
   if (bgTranslitPattern.test(name)) {
+    const brandMatch = name.match(/^([A-Z][A-Z0-9]+(?:\.[A-Z0-9]+)?)\./);
     const codeMatch = name.match(/\d{4,}/);
+    if (brandMatch) {
+      return `${brandMatch[1]} Product${codeMatch ? ` #${codeMatch[0]}` : ''}`.trim();
+    }
     return codeMatch ? `Product #${codeMatch[0]}` : 'Corporate Product';
   }
   
