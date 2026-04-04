@@ -97,7 +97,7 @@ export function Benefits() {
               </div>
               <div className="grid grid-cols-2 gap-6 text-center">
                 <div className="bg-white/10 rounded-xl p-4">
-                  <p className="text-3xl font-bold text-accent">500+</p>
+                  <p className="text-3xl font-bold text-accent">1000+</p>
                   <p className="text-sm text-white/80">Happy Clients</p>
                 </div>
                 <div className="bg-white/10 rounded-xl p-4">

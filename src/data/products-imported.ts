@@ -19062,6 +19062,7 @@ export const promotions = [
 ]
 
 export const trustStats = [
+  { value: '1000+', label: 'Happy Clients' },
   { value: '10+', label: 'Years Experience' },
   { value: '1500+', label: 'Products Available' },
   { value: '21+', label: 'Printing Techniques' },

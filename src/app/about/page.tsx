@@ -54,7 +54,7 @@ export default function AboutPage() {
             {[
               { value: '10+', label: 'Years Experience' },
               { value: '1500+', label: 'Products' },
-              { value: '500+', label: 'Happy Clients' },
+              { value: '1000+', label: 'Happy Clients' },
               { value: '27', label: 'EU Countries' },
               { value: '21+', label: 'Techniques' },
               { value: '2-8', label: 'Days Delivery' },

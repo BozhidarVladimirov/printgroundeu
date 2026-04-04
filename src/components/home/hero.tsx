@@ -26,7 +26,7 @@ export function Hero() {
           >
             <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2 mb-6">
               <Sparkles className="w-4 h-4 text-accent" />
-              <span className="text-sm font-medium">Trusted by 500+ European Companies</span>
+              <span className="text-sm font-medium">Trusted by 1000+ Happy Clients</span>
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
@@ -126,7 +126,7 @@ export function Hero() {
             >
               <div className="flex items-center gap-2">
                 <Users className="w-5 h-5" />
-                <span className="font-bold">500+</span>
+                <span className="font-bold">1000+</span>
               </div>
               <p className="text-xs text-gray-500">Happy Clients</p>
             </motion.div>
