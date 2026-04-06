@@ -14,13 +14,15 @@ interface ProductInfoProps {
 
 export function ProductInfo({ product }: ProductInfoProps) {
   const [selectedColor, setSelectedColor] = useState(product.colors[0])
-  const [quantity, setQuantity] = useState(product.minOrderQuantity)
+  const [quantity, setQuantity] = useState(product.minOrderQuantity ?? 1)
   const [selectedTechnique, setSelectedTechnique] = useState(product.availableTechniques[0])
 
   const discount = getBulkDiscount(quantity)
+  const basePrice = product.basePrice ?? 0
+  const salePrice = product.salePrice ?? basePrice * 0.8
   const discountedPrice = product.onSale 
-    ? (product.salePrice || product.basePrice * 0.8) * (1 - discount / 100)
-    : product.basePrice * (1 - discount / 100)
+    ? salePrice * (1 - discount / 100)
+    : basePrice * (1 - discount / 100)
 
   const totalPrice = discountedPrice * quantity
 
@@ -157,7 +159,7 @@ export function ProductInfo({ product }: ProductInfoProps) {
         <div className="flex items-center gap-4">
           <div className="flex items-center border border-border rounded-lg">
             <button
-              onClick={() => setQuantity(Math.max(product.minOrderQuantity, quantity - 10))}
+              onClick={() => setQuantity(Math.max(product.minOrderQuantity ?? 1, quantity - 10))}
               className="p-3 hover:bg-gray-100 transition-colors"
             >
               <Minus className="w-4 h-4" />
@@ -165,7 +167,7 @@ export function ProductInfo({ product }: ProductInfoProps) {
             <input
               type="number"
               value={quantity}
-              onChange={(e) => setQuantity(Math.max(product.minOrderQuantity, parseInt(e.target.value) || product.minOrderQuantity))}
+              onChange={(e) => setQuantity(Math.max(product.minOrderQuantity ?? 1, parseInt(e.target.value) || (product.minOrderQuantity ?? 1)))}
               className="w-20 text-center border-x border-border py-2 font-medium"
             />
             <button

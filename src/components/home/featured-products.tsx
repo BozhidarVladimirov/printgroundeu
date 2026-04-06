@@ -17,7 +17,7 @@ const getFeaturedProducts = () => {
   
   for (const p of shuffled) {
     if (featured.length >= 8) break
-    if (!categorySet.has(p.category) && p.image && p.basePrice > 0) {
+    if (!categorySet.has(p.category) && p.image && (p.basePrice ?? 0) > 0) {
       categorySet.add(p.category)
       featured.push(p)
     }

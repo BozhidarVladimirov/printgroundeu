@@ -5,11 +5,11 @@ export interface Product {
     description: string
     category: string
     subcategory: string
-    basePrice: number
+    basePrice: number | null
     colors: string[]
     materials: string[]
     dimensions: string
-    minOrderQuantity: number
+    minOrderQuantity: number | null
     image: string
     images: string[]
     brandingZones: BrandingZone[]
@@ -17,7 +17,7 @@ export interface Product {
     featured?: boolean
     new?: boolean
     onSale?: boolean
-    salePrice?: number
+    salePrice?: number | null
 }
 
 export interface BrandingZone {
@@ -61546,5 +61546,3 @@ export const products: Product[] = [
         "featured": false
     }
 ]
-
-export { getProductsByCategory, getProductById, searchProducts }

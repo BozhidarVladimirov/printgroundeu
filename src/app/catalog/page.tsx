@@ -56,16 +56,17 @@ function CatalogContent() {
     }
 
     result = result.filter(p => {
-      const price = p.salePrice || p.basePrice
+      const price = p.salePrice ?? p.basePrice
+      if (price === null) return true
       return price >= priceRange[0] && price <= priceRange[1]
     })
 
     switch (sortBy) {
       case 'price-low':
-        result.sort((a, b) => (a.salePrice || a.basePrice) - (b.salePrice || b.basePrice))
+        result.sort((a, b) => ((a.salePrice ?? a.basePrice) ?? 0) - ((b.salePrice ?? b.basePrice) ?? 0))
         break
       case 'price-high':
-        result.sort((a, b) => (b.salePrice || b.basePrice) - (a.salePrice || a.basePrice))
+        result.sort((a, b) => ((b.salePrice ?? b.basePrice) ?? 0) - ((a.salePrice ?? a.basePrice) ?? 0))
         break
       case 'name':
         result.sort((a, b) => a.name.localeCompare(b.name))

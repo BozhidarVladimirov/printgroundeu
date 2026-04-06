@@ -5,7 +5,8 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 
-export function formatPrice(price: number): string {
+export function formatPrice(price: number | null | undefined): string {
+  if (price === null || price === undefined) return 'Price on request'
   return new Intl.NumberFormat('en-EU', {
     style: 'currency',
     currency: 'EUR',

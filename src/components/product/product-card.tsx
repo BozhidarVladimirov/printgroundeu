@@ -95,7 +95,7 @@ export function ProductCard({ product }: ProductCardProps) {
             {product.onSale ? (
               <div className="flex items-center gap-2">
                 <span className="text-lg font-bold text-accent">
-                  {formatPrice(product.salePrice || product.basePrice * 0.8)}
+                  {formatPrice(product.salePrice ?? (product.basePrice !== null ? (product.basePrice as number) * 0.8 : null))}
                 </span>
                 <span className="text-sm text-gray-400 line-through">
                   {formatPrice(product.basePrice)}
@@ -106,7 +106,7 @@ export function ProductCard({ product }: ProductCardProps) {
                 from {formatPrice(product.basePrice)}
               </span>
             )}
-            <p className="text-xs text-gray-400">Min. {product.minOrderQuantity} pcs</p>
+            <p className="text-xs text-gray-400">Min. {product.minOrderQuantity ?? 1} pcs</p>
           </div>
         </div>
       </div>
