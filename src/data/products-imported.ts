@@ -7596,7 +7596,7 @@ export const products: Product[] = [
         {
                 "id": "pg-30277",
                 "sku": "30277",
-                "name": "THC FAIR. 100%",
+                "name": "THC FAIR - 100% Organic Cotton T-Shirt",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Textile",
                 "subcategory": "",
@@ -9323,7 +9323,7 @@ export const products: Product[] = [
         {
                 "id": "pg-33202",
                 "sku": "33202",
-                "name": "STARTER KIT INFINITE PLANNER A5. , ,",
+                "name": "STARTER KIT INFINITE PLANNER A5 - Notebook & Marker Set",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Office",
                 "subcategory": "",
@@ -12383,7 +12383,7 @@ export const products: Product[] = [
         {
                 "id": "pg-36086",
                 "sku": "36086",
-                "name": "VL YAMA. (35%) (65%) (200 / )",
+                "name": "VL YAMA - Recycled Fleece Jacket (200g/m2)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Textile",
                 "subcategory": "",
@@ -40806,7 +40806,7 @@ export const products: Product[] = [
         {
                 "id": "pg-97070",
                 "sku": "97070",
-                "name": "DENE. ABS LCD",
+                "name": "DENE - Digital Alarm Clock",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Technology",
                 "subcategory": "",
@@ -63494,7 +63494,7 @@ export const products: Product[] = [
         {
                 "id": "pg-81198",
                 "sku": "81198",
-                "name": "Product 81198",
+                "name": "Giveaway",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Other",
                 "subcategory": "",
