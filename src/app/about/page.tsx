@@ -81,7 +81,7 @@ export default function AboutPage() {
                 </p>
                 <p>
                   What started as a small print shop in Sofia, Bulgaria has grown into a 
-                  pan-European operation serving over 500 companies in all 27 EU member states.
+                  pan-European operation serving over 1,000 companies in all 27 EU member states.
                 </p>
                 <p>
                   Today, we offer over 1,500 products with 21+ printing techniques, from 

@@ -21,12 +21,21 @@ function CatalogContent() {
   const [priceRange, setPriceRange] = useState<[number, number]>([0, 500])
   const [sortBy, setSortBy] = useState<string>('featured')
   const [showFilters, setShowFilters] = useState(false)
+  const [loading, setLoading] = useState(false)
+  const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
     if (categoryParam) {
       setSelectedCategory(decodeURIComponent(categoryParam))
     }
   }, [categoryParam])
+
+  useEffect(() => {
+    setLoading(true)
+    setError(null)
+    const timer = setTimeout(() => setLoading(false), 500)
+    return () => clearTimeout(timer)
+  }, [selectedCategory, selectedTechnique, searchQuery])
 
   const filteredProducts = useMemo(() => {
     let result = [...products]
@@ -309,14 +318,37 @@ function CatalogContent() {
               </div>
             </div>
 
+            {/* Loading Skeleton */}
+            {loading && (
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                {[...Array(8)].map((_, i) => (
+                  <div key={i} className="bg-white rounded-xl p-4 shadow-sm">
+                    <div className="h-48 bg-gray-200 animate-pulse rounded-lg mb-4" />
+                    <div className="h-4 bg-gray-200 animate-pulse rounded w-3/4 mb-2" />
+                    <div className="h-3 bg-gray-200 animate-pulse rounded w-1/2" />
+                  </div>
+                ))}
+              </div>
+            )}
+
+            {/* Error State */}
+            {error && (
+              <div className="bg-white rounded-xl shadow-sm p-12 text-center">
+                <p className="text-gray-500 mb-4">{error}</p>
+                <Button onClick={() => window.location.reload()}>
+                  Retry
+                </Button>
+              </div>
+            )}
+
             {/* Products */}
-            {filteredProducts.length > 0 ? (
+            {!loading && !error && filteredProducts.length > 0 ? (
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                 {filteredProducts.map((product) => (
                   <ProductCard key={product.id} product={product} />
                 ))}
               </div>
-            ) : (
+            ) : !loading && !error ? (
               <div className="bg-white rounded-xl shadow-sm p-12 text-center">
                 <div className="w-16 h-16 bg-gray-100 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Search className="w-8 h-8 text-gray-400" />
@@ -329,7 +361,7 @@ function CatalogContent() {
                   Clear Filters
                 </Button>
               </div>
-            )}
+            ) : null}
           </div>
         </div>
       </div>
