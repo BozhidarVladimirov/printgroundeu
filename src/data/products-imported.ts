@@ -63492,38 +63492,6 @@ export const products: Product[] = [
                 "featured": false
         },
         {
-                "id": "pg-81198",
-                "sku": "81198",
-                "name": "Giveaway",
-                "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
-                "subcategory": "",
-                "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
-                "materials": [],
-                "dimensions": "",
-                "minOrderQuantity": 25,
-                "image": "https://printground.net/wp-content/uploads/2023/11/81198_set.jpg",
-                "images": [
-                        "https://printground.net/wp-content/uploads/2023/11/81198_set.jpg",
-                        "https://printground.net/wp-content/uploads/2023/11/81198_103-b-logo.jpg",
-                        "https://printground.net/wp-content/uploads/2023/11/81198_103.jpg",
-                        "https://printground.net/wp-content/uploads/2023/11/81198_103-box.jpg",
-                        "https://printground.net/wp-content/uploads/2023/11/81198_103-b.jpg",
-                        "https://printground.net/wp-content/uploads/2023/11/81198_106.jpg",
-                        "https://printground.net/wp-content/uploads/2023/11/81198_106-a.jpg"
-                ],
-                "brandingZones": [],
-                "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
-                "featured": false
-        },
-        {
                 "id": "pg-81204",
                 "sku": "81204",
                 "name": "Product 81204",
