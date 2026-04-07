@@ -16,7 +16,7 @@ const printingTechniques = [
       'Works on most fabric types',
     ],
     bestFor: ['T-Shirts', 'Polo Shirts', 'Bags', 'Caps', 'Workwear'],
-    image: 'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/SCREEN-PRINTING-150x150.png',
     priceRange: 'From €0.20 per color per item',
   },
   {
@@ -31,7 +31,7 @@ const printingTechniques = [
       'Perfect for complex designs',
     ],
     bestFor: ['T-Shirts', 'Hoodies', 'Detailed Graphics', 'Photographs'],
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/DIRECT-TO-GARMENT-150x150.png',
     priceRange: 'From €3.50 per item',
   },
   {
@@ -46,7 +46,7 @@ const printingTechniques = [
       'Perfect for corporate branding',
     ],
     bestFor: ['Caps', 'Polo Shirts', 'Jackets', 'Bags', 'Workwear'],
-    image: 'https://images.unsplash.com/photo-1590564319088-4e2808adbae7?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/EMBROIDERY-150x150.jpg',
     priceRange: 'From €0.50 per stitch',
   },
   {
@@ -61,7 +61,7 @@ const printingTechniques = [
       'Works on metal and wood',
     ],
     bestFor: ['Pens', 'Keychains', 'USB Drives', 'Awards', 'Metal Items'],
-    image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/LASER-150x150.png',
     priceRange: 'From €0.30 per item',
   },
   {
@@ -76,7 +76,7 @@ const printingTechniques = [
       'Quick turnaround',
     ],
     bestFor: ['Sportswear', 'Synthetics', 'Number Printing', 'Team Uniforms'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/TRANSFER-150x150.png',
     priceRange: 'From €1.00 per item',
   },
   {
@@ -91,7 +91,7 @@ const printingTechniques = [
       'Colors won\'t crack or fade',
     ],
     bestFor: ['Sportswear', 'Drinkware', 'Mouse Pads', 'Flags', 'Polyester Items'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/SUBLIMATION-150x150.png',
     priceRange: 'From €5.00 per item',
   },
   {
@@ -106,7 +106,7 @@ const printingTechniques = [
       'Eco-friendly technology',
     ],
     bestFor: ['Pens', 'Keychains', 'Notebooks', 'Plastic Items'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/DIGITAL-UV-150x150.png',
     priceRange: 'From €0.80 per item',
   },
   {
@@ -121,7 +121,7 @@ const printingTechniques = [
       'Great for promotional pens',
     ],
     bestFor: ['Pens', 'USB Flash Drives', 'Keychains', 'Plastic Items'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/PAD-PRINTING-150x150.png',
     priceRange: 'From €0.15 per item',
   },
   {
@@ -136,7 +136,7 @@ const printingTechniques = [
       'Durable and long-lasting',
     ],
     bestFor: ['Keychains', 'Notebooks', 'Portfolios', 'Leather Items'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/HOT-STAMPING-150x150.png',
     priceRange: 'From €0.50 per item',
   },
   {
@@ -151,7 +151,7 @@ const printingTechniques = [
       'Professional appearance',
     ],
     bestFor: ['USB Flash Drives', 'Keychains', 'Promotional Items'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/DOMING-150x150.png',
     priceRange: 'From €0.40 per item',
   },
   {
@@ -161,12 +161,12 @@ const printingTechniques = [
     description: 'Elevated embroidery technique creating a three-dimensional, raised effect for maximum visual impact.',
     advantages: [
       'Striking 3D visual effect',
-      'High-quality texture',
+      'High quality texture',
       'Premium look and feel',
       'Excellent durability',
     ],
     bestFor: ['Caps', 'Towels', 'Jackets', 'Premium Apparel'],
-    image: 'https://images.unsplash.com/photo-1590564319088-4e2808adbae7?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/etd_47217433165a11556e66a6-150x150.jpg',
     priceRange: 'From €1.00 per item',
   },
   {
@@ -181,7 +181,7 @@ const printingTechniques = [
       'Perfect for aprons and bags',
     ],
     bestFor: ['Aprons', 'Polar Fleece Items', 'Non-Woven Bags'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/TEXTILE-PRINTING-150x150.png',
     priceRange: 'From €1.50 per item',
   },
   {
@@ -196,7 +196,7 @@ const printingTechniques = [
       'Works on various materials',
     ],
     bestFor: ['Folders', 'Bags', 'Non-Woven Items', 'Cork Products'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/dt_3196160495a7189cd89eb0-150x150.png',
     priceRange: 'From €1.20 per item',
   },
   {
@@ -211,7 +211,7 @@ const printingTechniques = [
       'Perfect for drinkware',
     ],
     bestFor: ['Glass', 'Ceramic', 'Porcelain', 'Mugs'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/FIRING-150x150.png',
     priceRange: 'From €1.00 per item',
   },
   {
@@ -226,7 +226,7 @@ const printingTechniques = [
       'Premium quality',
     ],
     bestFor: ['Glass', 'Ceramic', 'Porcelain Items'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/HYDROGLAZE-150x150.png',
     priceRange: 'From €1.50 per item',
   },
   {
@@ -241,7 +241,7 @@ const printingTechniques = [
       'Perfect for awards',
     ],
     bestFor: ['Glass', 'Crystal', 'Awards', 'Trophy Items'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/SANDBLASTING-150x150.png',
     priceRange: 'From €2.00 per item',
   },
   {
@@ -256,7 +256,7 @@ const printingTechniques = [
       'Outdoor durable',
     ],
     bestFor: ['Product Labels', 'Promotional Stickers', 'Bumper Stickers'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/STICKERS-150x150.png',
     priceRange: 'From €0.10 per sticker',
   },
   {
@@ -271,7 +271,7 @@ const printingTechniques = [
       'Perfect for cylindrical items',
     ],
     bestFor: ['Pens', 'Drinkware', 'Tumblers', 'Round Items'],
-    image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/ROTARY-LASER-150x150.png',
     priceRange: 'From €0.80 per item',
   },
   {
@@ -286,7 +286,7 @@ const printingTechniques = [
       'Fast production',
     ],
     bestFor: ['Pens', 'Tumblers', 'Cylindrical Items', 'Drinkware'],
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/CIRCULAR-UV-360-150x150.png',
     priceRange: 'From €1.20 per item',
   },
   {
@@ -301,7 +301,7 @@ const printingTechniques = [
       'Perfect for pens',
     ],
     bestFor: ['Pens', 'Pencils', 'Cylindrical Items'],
-    image: 'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600',
+    image: 'https://printground.net/wp-content/uploads/2024/01/ROTARY-SCREEN-PRINTING-150x150.png',
     priceRange: 'From €0.25 per item',
   },
 ]
