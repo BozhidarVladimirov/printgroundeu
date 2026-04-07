@@ -126,7 +126,7 @@ export function Categories() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
           {displayCategories.map((category, index) => {
             const IconComponent = categoryIcons[category.name] || Gift
-            const slug = category.name.toLowerCase().replace(/[^a-z]/g, '-')
+            const slug = category.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '')
             const colorClass = categoryColors[index % categoryColors.length]
             
             return (

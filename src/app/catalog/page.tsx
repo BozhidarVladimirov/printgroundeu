@@ -42,11 +42,18 @@ function CatalogContent() {
     }
 
     if (selectedCategory) {
-      const catLower = selectedCategory.toLowerCase().replace(/-/g, ' ')
-      result = result.filter(p => 
-        p.category.toLowerCase() === catLower ||
-        p.category.toLowerCase().replace(/&/g, '').includes(catLower)
-      )
+      const catSlug = selectedCategory.toLowerCase()
+        .replace(/-/g, ' ')
+        .replace(/&/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+      result = result.filter(p => {
+        const pCat = p.category.toLowerCase()
+          .replace(/&/g, ' ')
+          .replace(/\s+/g, ' ')
+          .trim()
+        return pCat === catSlug || pCat.includes(catSlug) || catSlug.includes(pCat)
+      })
     }
 
     if (selectedTechnique) {
