@@ -7,56 +7,16 @@ import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 
 const categories = [
-  { 
-    name: 'Technology', 
-    slug: 'technology',
-    items: ['Powerbanks', 'Speakers', 'Headphones', 'USB Drives', 'Wireless Chargers', 'Phone Holders']
-  },
-  { 
-    name: 'Bags', 
-    slug: 'bags',
-    items: ['Backpacks', 'Laptop Bags', 'Tote Bags', 'Shopping Bags', 'Travel Bags', 'Cooler Bags']
-  },
-  { 
-    name: 'Drinkware', 
-    slug: 'drinkware',
-    items: ['Water Bottles', 'Travel Mugs', 'Coffee Mugs', 'Thermo Cups', 'Sports Bottles', 'Barware']
-  },
-  { 
-    name: 'Textile', 
-    slug: 'textile',
-    items: ['T-Shirts', 'Polo Shirts', 'Hoodies', 'Caps', 'Jackets', 'Scarves']
-  },
-  { 
-    name: 'Office', 
-    slug: 'office',
-    items: ['Notebooks', 'Pens', 'Desk Accessories', 'Calendars', 'Mouse Pads', 'Document Folders']
-  },
-  { 
-    name: 'Sports & Outdoor', 
-    slug: 'sports-outdoor',
-    items: ['Sports Bottles', 'Fitness Gear', 'Umbrellas', 'Picnic Sets', 'Beach Items', 'Travel Accessories']
-  },
-  { 
-    name: 'Personal & Travel', 
-    slug: 'personal-travel',
-    items: ['Travel Accessories', 'Toiletry Bags', 'Luggage Tags', 'Pillow & Eyeshadows', 'Cosmetic Bags', 'Passport Holders']
-  },
-  { 
-    name: 'Kids & Xmas', 
-    slug: 'kids-xmas',
-    items: ['Kids Toys', 'Coloring Books', 'Christmas Decorations', 'Christmas Stockings', 'Xmas Gift Sets', 'Party Supplies']
-  },
-  { 
-    name: 'Keychains & Tools', 
-    slug: 'keychains-tools',
-    items: ['Keychains', 'Pocket Knives', 'Tools', 'Torches', 'Multi-tools', 'Carabiners']
-  },
-  { 
-    name: 'Write', 
-    slug: 'write',
-    items: ['Pens', 'Pencils', 'Highlighters', 'Marker Sets', 'Writing Sets', 'Notepads']
-  },
+  { name: 'Technology', slug: 'technology', icon: '💻' },
+  { name: 'Bags', slug: 'bags', icon: '🎒' },
+  { name: 'Drinkware', slug: 'drinkware', icon: '☕' },
+  { name: 'Textile', slug: 'textile', icon: '👕' },
+  { name: 'Office', slug: 'office', icon: '📎' },
+  { name: 'Sports & Outdoor', slug: 'sports-outdoor', icon: '⚽' },
+  { name: 'Personal & Travel', slug: 'personal-travel', icon: '✈️' },
+  { name: 'Kids & Xmas', slug: 'kids-xmas', icon: '🎁' },
+  { name: 'Keychains & Tools', slug: 'keychains-tools', icon: '🔑' },
+  { name: 'Write', slug: 'write', icon: '✏️' },
 ]
 
 const navItems = [
@@ -70,8 +30,6 @@ const navItems = [
 
 export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
-  const [isCatalogOpen, setIsCatalogOpen] = useState(false)
-  const [activeCategory, setActiveCategory] = useState<string | null>(null)
 
   return (
     <header className="sticky top-0 z-50 w-full bg-white shadow-sm">
@@ -104,7 +62,7 @@ export function Header() {
             <img src="/logo.png" alt="PrintGround" className="h-12 lg:h-14 w-auto" />
           </Link>
 
-          {/* Desktop Navigation with Catalog */}
+          {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center gap-6">
             {navItems.filter(item => item.label !== 'Get Quote').map((item) => (
               <Link
@@ -116,58 +74,12 @@ export function Header() {
               </Link>
             ))}
             
-            {/* Catalog Dropdown */}
-            <div className="relative">
-              <button
-                onMouseEnter={() => setIsCatalogOpen(true)}
-                onMouseLeave={() => setIsCatalogOpen(false)}
-                className="flex items-center gap-1 text-sm font-medium text-gray-700 hover:text-primary transition-colors"
-              >
-                Catalog
-                <ChevronDown className={cn("w-4 h-4 transition-transform", isCatalogOpen && "rotate-180")} />
-              </button>
-              
-              {isCatalogOpen && (
-                <div 
-                  className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-[800px] bg-white rounded-xl shadow-2xl border border-gray-100 p-6"
-                  onMouseEnter={() => setIsCatalogOpen(true)}
-                  onMouseLeave={() => setIsCatalogOpen(false)}
-                >
-                  <div className="grid grid-cols-4 gap-6">
-                    {categories.map((cat) => (
-                      <div key={cat.slug}>
-                        <Link 
-                          href={`/catalog?category=${encodeURIComponent(cat.name)}`}
-                          className="font-semibold text-primary hover:text-accent transition-colors block mb-2"
-                        >
-                          {cat.name}
-                        </Link>
-                        <ul className="space-y-1">
-                          {cat.items.slice(0, 4).map((item) => (
-                            <li key={item}>
-                              <Link 
-                                href={`/catalog?category=${encodeURIComponent(cat.name)}&search=${encodeURIComponent(item)}`}
-                                className="text-xs text-gray-500 hover:text-primary transition-colors"
-                              >
-                                {item}
-                              </Link>
-                            </li>
-                          ))}
-                        </ul>
-                        {cat.items.length > 4 && (
-                          <Link 
-                            href={`/catalog?category=${encodeURIComponent(cat.name)}`}
-                            className="text-xs text-accent hover:underline mt-1 block"
-                          >
-                            +{cat.items.length - 4} more
-                          </Link>
-                        )}
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
-            </div>
+            {/* Categories Grid Button */}
+            <Link href="/catalog">
+              <Button variant="outline" className="border-primary text-primary hover:bg-primary hover:text-white">
+                All Categories
+              </Button>
+            </Link>
           </nav>
 
           {/* Actions */}
@@ -223,10 +135,10 @@ export function Header() {
                   <Link
                     key={cat.slug}
                     href={`/catalog?category=${encodeURIComponent(cat.name)}`}
-                    className="text-sm text-gray-600 hover:text-primary py-1"
+                    className="text-sm text-gray-600 hover:text-primary py-1 flex items-center gap-2"
                     onClick={() => setIsMobileMenuOpen(false)}
                   >
-                    {cat.name}
+                    <span>{cat.icon}</span> {cat.name}
                   </Link>
                 ))}
               </div>
