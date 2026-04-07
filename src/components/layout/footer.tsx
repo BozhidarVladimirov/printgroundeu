@@ -53,7 +53,7 @@ export function Footer() {
             </Link>
             <p className="text-gray-400 mb-6 max-w-sm">
               Your trusted partner for premium corporate merchandise and branded products across Europe. 
-              More than 1000+ happy clients across Europe.
+              Trusted by 1000+ happy clients across Europe.
             </p>
             
             {/* Contact Info */}
