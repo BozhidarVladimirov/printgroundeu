@@ -67,7 +67,7 @@ function CatalogContent() {
 
     if (selectedTechnique) {
       result = result.filter(p => 
-        p.availableTechniques.some(t => t.toLowerCase().includes(selectedTechnique.toLowerCase()))
+        p.availableTechniques.some((t: string) => t.toLowerCase().includes(selectedTechnique.toLowerCase()))
       )
     }
 

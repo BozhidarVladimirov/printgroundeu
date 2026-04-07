@@ -109,7 +109,7 @@ export default function ProductPage({ params }: { params: { id: string } }) {
                   <div className="mb-6">
                     <h4 className="font-medium text-gray-700 mb-3">Available Colors</h4>
                     <div className="flex flex-wrap gap-2">
-                      {product.colors.map((color) => (
+                      {product.colors.map((color: string) => (
                         <Badge key={color} variant="secondary" className="px-3 py-1">
                           {color}
                         </Badge>
@@ -123,7 +123,7 @@ export default function ProductPage({ params }: { params: { id: string } }) {
                   <div className="mb-6">
                     <h4 className="font-medium text-gray-700 mb-3">Materials</h4>
                     <div className="flex flex-wrap gap-2">
-                      {product.materials.map((material) => (
+                      {product.materials.map((material: string) => (
                         <Badge key={material} variant="outline">
                           {material}
                         </Badge>
@@ -149,7 +149,7 @@ export default function ProductPage({ params }: { params: { id: string } }) {
                 <div className="mb-8">
                   <h4 className="font-medium text-gray-700 mb-4">Available Printing Techniques</h4>
                   <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-                    {product.availableTechniques.map((tech, index) => {
+                    {product.availableTechniques.map((tech: string, index: number) => {
                       const IconComponent = getTechniqueIcon(tech)
                       return (
                         <Card key={index} className="hover:border-primary transition-colors">
@@ -177,7 +177,7 @@ export default function ProductPage({ params }: { params: { id: string } }) {
                   <div className="mb-8">
                     <h4 className="font-medium text-gray-700 mb-4">Branding Areas</h4>
                     <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-                      {product.brandingZones.map((zone) => (
+                      {product.brandingZones.map((zone: { id: string; name: string; dimensions: string; maxColors: number }) => (
                         <Card key={zone.id} className="bg-gray-50">
                           <CardContent className="p-4">
                             <h5 className="font-medium text-sm mb-2">{zone.name}</h5>
