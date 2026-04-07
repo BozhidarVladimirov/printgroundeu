@@ -131,7 +131,7 @@ export const categories: Category[] = [
         "name": "Technology",
         "slug": "technology",
         "icon": "Laptop",
-        "productCount": 249,
+        "productCount": 251,
         "image": ""
     },
     {
@@ -139,7 +139,7 @@ export const categories: Category[] = [
         "name": "Bags",
         "slug": "bags",
         "icon": "ShoppingBag",
-        "productCount": 0,
+        "productCount": 89,
         "image": ""
     },
     {
@@ -147,7 +147,7 @@ export const categories: Category[] = [
         "name": "Drinkware",
         "slug": "drinkware",
         "icon": "Coffee",
-        "productCount": 107,
+        "productCount": 124,
         "image": ""
     },
     {
@@ -155,7 +155,7 @@ export const categories: Category[] = [
         "name": "Textile",
         "slug": "textile",
         "icon": "Shirt",
-        "productCount": 271,
+        "productCount": 295,
         "image": ""
     },
     {
@@ -171,7 +171,7 @@ export const categories: Category[] = [
         "name": "Sports & Outdoor",
         "slug": "sports-outdoor",
         "icon": "Dumbbell",
-        "productCount": 114,
+        "productCount": 121,
         "image": ""
     },
     {
@@ -179,7 +179,7 @@ export const categories: Category[] = [
         "name": "Personal & Travel",
         "slug": "personal-travel",
         "icon": "Luggage",
-        "productCount": 0,
+        "productCount": 208,
         "image": ""
     },
     {
@@ -187,7 +187,7 @@ export const categories: Category[] = [
         "name": "Kids & Xmas",
         "slug": "kids-xmas",
         "icon": "Gift",
-        "productCount": 96,
+        "productCount": 72,
         "image": ""
     },
     {
@@ -195,7 +195,7 @@ export const categories: Category[] = [
         "name": "Keychains & Tools",
         "slug": "keychains-tools",
         "icon": "Key",
-        "productCount": 97,
+        "productCount": 95,
         "image": ""
     },
     {
@@ -203,7 +203,7 @@ export const categories: Category[] = [
         "name": "Write",
         "slug": "write",
         "icon": "Pen",
-        "productCount": 131,
+        "productCount": 147,
         "image": ""
     },
     {
@@ -211,7 +211,7 @@ export const categories: Category[] = [
         "name": "Other",
         "slug": "other",
         "icon": "Package",
-        "productCount": 757,
+        "productCount": 420,
         "image": ""
     }
 ]
@@ -250,7 +250,7 @@ export const techniques: Technique[] = [
 ]
 
 export const trustStats: TrustStat[] = [
-    { "value": "1896+", "label": "Products Available" },
+    { "value": "1903+", "label": "Products Available" },
     { "value": "1000+", "label": "Happy Clients" },
     { "value": "24-48h", "label": "Express Delivery" },
     { "value": "15+", "label": "Years Experience" }
@@ -274,7 +274,7 @@ export const products: Product[] = [
                 "sku": "11003",
                 "name": "Product 11003",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -713,7 +713,7 @@ export const products: Product[] = [
                 "sku": "23200",
                 "name": "OREN.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -12079,7 +12079,7 @@ export const products: Product[] = [
                 "sku": "36077",
                 "name": "VL VENUS. (130 g/m ), (100%)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Textile",
+                "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 500,
                 "colors": [
@@ -12119,7 +12119,7 @@ export const products: Product[] = [
                 "sku": "36078",
                 "name": "VL SEDNA. (225 g/m ), , (100%) PVC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Textile",
+                "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 460,
                 "colors": [
@@ -14306,7 +14306,7 @@ export const products: Product[] = [
                 "sku": "53844",
                 "name": "KABSA. ,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -14348,7 +14348,7 @@ export const products: Product[] = [
                 "sku": "54139",
                 "name": "SALSA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -14382,7 +14382,7 @@ export const products: Product[] = [
                 "sku": "54142",
                 "name": "FLARE. 5",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -14725,7 +14725,7 @@ export const products: Product[] = [
                 "sku": "70080",
                 "name": "DRINKIT SHOWCASE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -14843,7 +14843,7 @@ export const products: Product[] = [
                 "sku": "73018",
                 "name": "DRUSILA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -17958,7 +17958,7 @@ export const products: Product[] = [
                 "sku": "91746",
                 "name": "CROCO. 12",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -17993,7 +17993,7 @@ export const products: Product[] = [
                 "sku": "91747",
                 "name": "COLOURED. 12",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -18025,7 +18025,7 @@ export const products: Product[] = [
                 "sku": "91750",
                 "name": "BIRD. 6",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -18058,7 +18058,7 @@ export const products: Product[] = [
                 "sku": "91751",
                 "name": "ROLS. 6",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -18092,7 +18092,7 @@ export const products: Product[] = [
                 "sku": "91752",
                 "name": "CYLINDER. 12",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -18122,7 +18122,7 @@ export const products: Product[] = [
                 "sku": "91754",
                 "name": "EAGLE. 6",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -18154,7 +18154,7 @@ export const products: Product[] = [
                 "sku": "91755",
                 "name": "JAGUAR. ,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -18185,7 +18185,7 @@ export const products: Product[] = [
                 "sku": "91756",
                 "name": "DOODLE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -18246,7 +18246,7 @@ export const products: Product[] = [
                 "sku": "91758",
                 "name": "ANIM.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -18307,7 +18307,7 @@ export const products: Product[] = [
                 "sku": "91767",
                 "name": "MEMLING. 6",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -19353,7 +19353,7 @@ export const products: Product[] = [
                 "sku": "91940",
                 "name": "PARROT. 4",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -19534,7 +19534,7 @@ export const products: Product[] = [
                 "sku": "91947",
                 "name": "TROPICAL. 3 ,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": 19020,
                 "colors": [
@@ -19710,7 +19710,7 @@ export const products: Product[] = [
                 "sku": "92061",
                 "name": "TRUFFLE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -19928,7 +19928,7 @@ export const products: Product[] = [
                 "sku": "92077",
                 "name": "MILLIE. (70%) (30% rPET) (140 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -19962,7 +19962,7 @@ export const products: Product[] = [
                 "sku": "92078",
                 "name": "REPURPOSE BAG. 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -20129,7 +20129,7 @@ export const products: Product[] = [
                 "sku": "92083",
                 "name": "ISTANBUL. , (70%) (30% rPET) (150 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Keychains & Tools",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 7829,
                 "colors": [
@@ -20223,7 +20223,7 @@ export const products: Product[] = [
                 "sku": "92086",
                 "name": "GENOA. Padded laptop bag in 600D high-density recycled polyester 15",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 3413,
                 "colors": [
@@ -20380,7 +20380,7 @@ export const products: Product[] = [
                 "sku": "92094",
                 "name": "DENIM BPACK. (300 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -20618,7 +20618,7 @@ export const products: Product[] = [
                 "sku": "92132",
                 "name": "AIRLINE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -20764,7 +20764,7 @@ export const products: Product[] = [
                 "sku": "92148",
                 "name": "MILLI. 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -20835,7 +20835,7 @@ export const products: Product[] = [
                 "sku": "92170",
                 "name": "SHADES BPACK. 14'' 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -20867,7 +20867,7 @@ export const products: Product[] = [
                 "sku": "92171",
                 "name": "SHADES LAPTOP. 14'' 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -20901,7 +20901,7 @@ export const products: Product[] = [
                 "sku": "92174",
                 "name": "ADVENTURE. 15'6''",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -21713,7 +21713,7 @@ export const products: Product[] = [
                 "sku": "92318",
                 "name": "DALLAS. High-density recycled 600D polyester travel backpack for 17'3 laptop",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 121,
                 "colors": [
@@ -21758,7 +21758,7 @@ export const products: Product[] = [
                 "sku": "92323",
                 "name": "MEXICO. , (70%) (30% rPET) (150 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1921,
                 "colors": [
@@ -22057,7 +22057,7 @@ export const products: Product[] = [
                 "sku": "92332",
                 "name": "BEIRUT. (50%), (30%) (20% rPET) (140 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -22131,7 +22131,7 @@ export const products: Product[] = [
                 "sku": "92357",
                 "name": "KAYL. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -22198,7 +22198,7 @@ export const products: Product[] = [
                 "sku": "92369",
                 "name": "GIZA. 100% (140 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 33574,
                 "colors": [
@@ -22230,7 +22230,7 @@ export const products: Product[] = [
                 "sku": "92370",
                 "name": "BEJA. 100% (180 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 73883,
                 "colors": [
@@ -22423,7 +22423,7 @@ export const products: Product[] = [
                 "sku": "92381",
                 "name": "MALLORCA. (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 443,
                 "colors": [
@@ -22467,7 +22467,7 @@ export const products: Product[] = [
                 "sku": "92382",
                 "name": "FELPY. , (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -23018,7 +23018,7 @@ export const products: Product[] = [
                 "sku": "92399",
                 "name": "LIVINGSTON. 100% (220 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 7899,
                 "colors": [
@@ -23054,7 +23054,7 @@ export const products: Product[] = [
                 "sku": "92414",
                 "name": "REGENT. 100% (100 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -23122,7 +23122,7 @@ export const products: Product[] = [
                 "sku": "92456",
                 "name": "HANOVER. 100% (103 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -23738,7 +23738,7 @@ export const products: Product[] = [
                 "sku": "92614",
                 "name": "ROCKET.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -23775,7 +23775,7 @@ export const products: Product[] = [
                 "sku": "92617",
                 "name": "BISSAYA. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -23811,7 +23811,7 @@ export const products: Product[] = [
                 "sku": "92619",
                 "name": "DRAWS. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -23991,7 +23991,7 @@ export const products: Product[] = [
                 "sku": "92667",
                 "name": "BERNA. 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24035,7 +24035,7 @@ export const products: Product[] = [
                 "sku": "92668",
                 "name": "GRAPHS BPACK. 600D 15'6",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24120,7 +24120,7 @@ export const products: Product[] = [
                 "sku": "92670",
                 "name": "VOLGA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24153,7 +24153,7 @@ export const products: Product[] = [
                 "sku": "92671",
                 "name": "PURUS.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24353,7 +24353,7 @@ export const products: Product[] = [
                 "sku": "92717",
                 "name": "ANNIE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24388,7 +24388,7 @@ export const products: Product[] = [
                 "sku": "92720",
                 "name": "VALENTINA. PVC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24418,7 +24418,7 @@ export const products: Product[] = [
                 "sku": "92721",
                 "name": "MARIE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24473,7 +24473,7 @@ export const products: Product[] = [
                 "sku": "92722",
                 "name": "DENIRO. PVC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24506,7 +24506,7 @@ export const products: Product[] = [
                 "sku": "92724",
                 "name": "WILLIS.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24540,7 +24540,7 @@ export const products: Product[] = [
                 "sku": "92728",
                 "name": "KEVIN. 300D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24574,7 +24574,7 @@ export const products: Product[] = [
                 "sku": "92731",
                 "name": "ELIZA. 300D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24612,7 +24612,7 @@ export const products: Product[] = [
                 "sku": "92732",
                 "name": "WAYNE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24653,7 +24653,7 @@ export const products: Product[] = [
                 "sku": "92733",
                 "name": "INGRID.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24686,7 +24686,7 @@ export const products: Product[] = [
                 "sku": "92734",
                 "name": "MOORE. EVA",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24717,7 +24717,7 @@ export const products: Product[] = [
                 "sku": "92735",
                 "name": "BLANCHETT.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24750,7 +24750,7 @@ export const products: Product[] = [
                 "sku": "92737",
                 "name": "CHASTAIN. EVA",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -24795,7 +24795,7 @@ export const products: Product[] = [
                 "sku": "92741",
                 "name": "MARGOT. EVA",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25176,7 +25176,7 @@ export const products: Product[] = [
                 "sku": "92836",
                 "name": "MONCO. 100% (100 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25329,7 +25329,7 @@ export const products: Product[] = [
                 "sku": "92851",
                 "name": "GWENNO. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25362,7 +25362,7 @@ export const products: Product[] = [
                 "sku": "92853",
                 "name": "TOBOL. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25394,7 +25394,7 @@ export const products: Product[] = [
                 "sku": "92871",
                 "name": "CITADEL. (90 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25424,7 +25424,7 @@ export const products: Product[] = [
                 "sku": "92872",
                 "name": "CABAZON. (90 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25455,7 +25455,7 @@ export const products: Product[] = [
                 "sku": "92873",
                 "name": "GRANT. (100 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25486,7 +25486,7 @@ export const products: Product[] = [
                 "sku": "92874",
                 "name": "KELLY. (100 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25517,7 +25517,7 @@ export const products: Product[] = [
                 "sku": "92875",
                 "name": "LEIA. (115 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25550,7 +25550,7 @@ export const products: Product[] = [
                 "sku": "92876",
                 "name": "ELLEN. (115 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25580,7 +25580,7 @@ export const products: Product[] = [
                 "sku": "92877",
                 "name": "TAYLA. (115 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25612,7 +25612,7 @@ export const products: Product[] = [
                 "sku": "92878",
                 "name": "KIRA. (115 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -25683,7 +25683,7 @@ export const products: Product[] = [
                 "sku": "92883",
                 "name": "JEROME. 100% (180 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -27176,7 +27176,7 @@ export const products: Product[] = [
                 "sku": "93265",
                 "name": "POPPY. RFID",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -28116,7 +28116,7 @@ export const products: Product[] = [
                 "sku": "93307",
                 "name": "REEVES.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -28145,7 +28145,7 @@ export const products: Product[] = [
                 "sku": "93309",
                 "name": "SANDLER.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -28175,7 +28175,7 @@ export const products: Product[] = [
                 "sku": "93314",
                 "name": "TRAVOLTA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -28213,7 +28213,7 @@ export const products: Product[] = [
                 "sku": "93318",
                 "name": "LONE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -28245,7 +28245,7 @@ export const products: Product[] = [
                 "sku": "93319",
                 "name": "DANIEL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -28348,7 +28348,7 @@ export const products: Product[] = [
                 "sku": "93333",
                 "name": "MEITNER. RFID",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -28441,7 +28441,7 @@ export const products: Product[] = [
                 "sku": "93339",
                 "name": "BERRY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -29347,7 +29347,7 @@ export const products: Product[] = [
                 "sku": "93607",
                 "name": "SCHOOLI. 100% (290 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -29379,7 +29379,7 @@ export const products: Product[] = [
                 "sku": "93614",
                 "name": "HUMMINGBIRD.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30205,7 +30205,7 @@ export const products: Product[] = [
                 "sku": "93827",
                 "name": "GARCIA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30242,7 +30242,7 @@ export const products: Product[] = [
                 "sku": "93828",
                 "name": "PISANI.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30278,7 +30278,7 @@ export const products: Product[] = [
                 "sku": "93830",
                 "name": "WOODS. 2",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30313,7 +30313,7 @@ export const products: Product[] = [
                 "sku": "93831",
                 "name": "SESAME.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30714,7 +30714,7 @@ export const products: Product[] = [
                 "sku": "93847",
                 "name": "SAFFRON. . PP 640",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30749,7 +30749,7 @@ export const products: Product[] = [
                 "sku": "93848",
                 "name": "DILL. . PP (480 760 )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30789,7 +30789,7 @@ export const products: Product[] = [
                 "sku": "93851",
                 "name": "SAMOURA. PP 380",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30824,7 +30824,7 @@ export const products: Product[] = [
                 "sku": "93853",
                 "name": "BOCUSE. . PP PS 680",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30860,7 +30860,7 @@ export const products: Product[] = [
                 "sku": "93861",
                 "name": "MUSTARD.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30891,7 +30891,7 @@ export const products: Product[] = [
                 "sku": "93870",
                 "name": "TOKEV.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30925,7 +30925,7 @@ export const products: Product[] = [
                 "sku": "93872",
                 "name": "MIKUS. PP",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -30992,7 +30992,7 @@ export const products: Product[] = [
                 "sku": "93880",
                 "name": "BANON.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31274,7 +31274,7 @@ export const products: Product[] = [
                 "sku": "93966",
                 "name": "CAPERS.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31304,7 +31304,7 @@ export const products: Product[] = [
                 "sku": "93967",
                 "name": "GAUTHIER.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31342,7 +31342,7 @@ export const products: Product[] = [
                 "sku": "93968",
                 "name": "PEPPER.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31371,7 +31371,7 @@ export const products: Product[] = [
                 "sku": "93969",
                 "name": "SALVY. 2",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31402,7 +31402,7 @@ export const products: Product[] = [
                 "sku": "93989",
                 "name": "SMARTPEPPER.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31465,7 +31465,7 @@ export const products: Product[] = [
                 "sku": "93995",
                 "name": "BURDOCK. . 2",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31502,7 +31502,7 @@ export const products: Product[] = [
                 "sku": "93996",
                 "name": "ARNICA. . 4",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31535,7 +31535,7 @@ export const products: Product[] = [
                 "sku": "93998",
                 "name": "SOARES. 3",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31746,7 +31746,7 @@ export const products: Product[] = [
                 "sku": "94025",
                 "name": "SHINO. . 800",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -31782,7 +31782,7 @@ export const products: Product[] = [
                 "sku": "94028",
                 "name": "CAPPERO.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32115,7 +32115,7 @@ export const products: Product[] = [
                 "sku": "94043",
                 "name": "BRAMBLE. 6",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32402,7 +32402,7 @@ export const products: Product[] = [
                 "sku": "94077",
                 "name": "SUYA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32476,7 +32476,7 @@ export const products: Product[] = [
                 "sku": "94079",
                 "name": "SPICE 700. 700",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32512,7 +32512,7 @@ export const products: Product[] = [
                 "sku": "94097",
                 "name": "COCKTAIL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32547,7 +32547,7 @@ export const products: Product[] = [
                 "sku": "94098",
                 "name": "LAMONE. 10",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32578,7 +32578,7 @@ export const products: Product[] = [
                 "sku": "94114",
                 "name": "CARIN.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32612,7 +32612,7 @@ export const products: Product[] = [
                 "sku": "94115",
                 "name": "MALTE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32646,7 +32646,7 @@ export const products: Product[] = [
                 "sku": "94116",
                 "name": "FUNFAYE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32680,7 +32680,7 @@ export const products: Product[] = [
                 "sku": "94117",
                 "name": "MALBEC.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32726,7 +32726,7 @@ export const products: Product[] = [
                 "sku": "94118",
                 "name": "BARLEY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32758,7 +32758,7 @@ export const products: Product[] = [
                 "sku": "94119",
                 "name": "MORETO. 4",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32866,7 +32866,7 @@ export const products: Product[] = [
                 "sku": "94134",
                 "name": "HOLZ.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -32971,7 +32971,7 @@ export const products: Product[] = [
                 "sku": "94189",
                 "name": "SYRAH. ,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33005,7 +33005,7 @@ export const products: Product[] = [
                 "sku": "94190",
                 "name": "CABERNET. ,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33040,7 +33040,7 @@ export const products: Product[] = [
                 "sku": "94191",
                 "name": "BARREL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33073,7 +33073,7 @@ export const products: Product[] = [
                 "sku": "94193",
                 "name": "MACABEU.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33104,7 +33104,7 @@ export const products: Product[] = [
                 "sku": "94194",
                 "name": "COLOMBIA. PVC 1",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33468,7 +33468,7 @@ export const products: Product[] = [
                 "sku": "94245",
                 "name": "GIMLET. 550",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33547,7 +33547,7 @@ export const products: Product[] = [
                 "sku": "94247",
                 "name": "BLEND.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33581,7 +33581,7 @@ export const products: Product[] = [
                 "sku": "94249",
                 "name": "MERLOT.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33691,7 +33691,7 @@ export const products: Product[] = [
                 "sku": "94252",
                 "name": "GLACIER.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33872,7 +33872,7 @@ export const products: Product[] = [
                 "sku": "94259",
                 "name": "CARAWAY ROUND.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33908,7 +33908,7 @@ export const products: Product[] = [
                 "sku": "94261",
                 "name": "MARJORAM.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -33972,7 +33972,7 @@ export const products: Product[] = [
                 "sku": "94265",
                 "name": "PYRUS. . PP 1000",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -34275,7 +34275,7 @@ export const products: Product[] = [
                 "sku": "94277",
                 "name": "ALLSPICE. . , (90% ) 750 mL",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -34312,7 +34312,7 @@ export const products: Product[] = [
                 "sku": "94278",
                 "name": "VIOGNIER.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -34793,7 +34793,7 @@ export const products: Product[] = [
                 "sku": "94289",
                 "name": "CAPER.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 702,
                 "colors": [
@@ -34835,7 +34835,7 @@ export const products: Product[] = [
                 "sku": "94290",
                 "name": "SAGE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 667,
                 "colors": [
@@ -34880,7 +34880,7 @@ export const products: Product[] = [
                 "sku": "94291",
                 "name": "BATALI.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1721,
                 "colors": [
@@ -34921,7 +34921,7 @@ export const products: Product[] = [
                 "sku": "94292",
                 "name": "BOULUD. 3",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4757,
                 "colors": [
@@ -34957,7 +34957,7 @@ export const products: Product[] = [
                 "sku": "94293",
                 "name": "CASSIA. , FSC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 908,
                 "colors": [
@@ -35073,7 +35073,7 @@ export const products: Product[] = [
                 "sku": "94305",
                 "name": "JIMMY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -35105,7 +35105,7 @@ export const products: Product[] = [
                 "sku": "94306",
                 "name": "ROBERTS.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -35142,7 +35142,7 @@ export const products: Product[] = [
                 "sku": "94307",
                 "name": "NERO.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -35175,7 +35175,7 @@ export const products: Product[] = [
                 "sku": "94312",
                 "name": "HEISENBERG.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -35211,7 +35211,7 @@ export const products: Product[] = [
                 "sku": "94314",
                 "name": "MORIMOTO.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -35387,7 +35387,7 @@ export const products: Product[] = [
                 "sku": "94320",
                 "name": "SHANDY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -35419,7 +35419,7 @@ export const products: Product[] = [
                 "sku": "94321",
                 "name": "PASSARD.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -35588,7 +35588,7 @@ export const products: Product[] = [
                 "sku": "94335",
                 "name": "SHOW METALLIC. 510",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3853,
                 "colors": [
@@ -35724,7 +35724,7 @@ export const products: Product[] = [
                 "sku": "94347",
                 "name": "QUORIN. 1 L",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -35794,7 +35794,7 @@ export const products: Product[] = [
                 "sku": "94356",
                 "name": "LOVELY. PVC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -35925,7 +35925,7 @@ export const products: Product[] = [
                 "sku": "94368",
                 "name": "PLYCORK. 6",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 8104,
                 "colors": [
@@ -36384,7 +36384,7 @@ export const products: Product[] = [
                 "sku": "94573",
                 "name": "AMCHUR.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -36416,7 +36416,7 @@ export const products: Product[] = [
                 "sku": "94574",
                 "name": "DUCASSE. (260g/m ) (120g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -36448,7 +36448,7 @@ export const products: Product[] = [
                 "sku": "94575",
                 "name": "RICKEY. (60% )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -37216,7 +37216,7 @@ export const products: Product[] = [
                 "sku": "94665",
                 "name": "NOVAK.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -37582,7 +37582,7 @@ export const products: Product[] = [
                 "sku": "94684",
                 "name": "MUSE. 180",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38357,7 +38357,7 @@ export const products: Product[] = [
                 "sku": "94781",
                 "name": "PORTOBELLO. . 1000",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38469,7 +38469,7 @@ export const products: Product[] = [
                 "sku": "94800",
                 "name": "PIAF.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38500,7 +38500,7 @@ export const products: Product[] = [
                 "sku": "94843",
                 "name": "NADIA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38534,7 +38534,7 @@ export const products: Product[] = [
                 "sku": "94849",
                 "name": "DIAZ.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38565,7 +38565,7 @@ export const products: Product[] = [
                 "sku": "94851",
                 "name": "JOLIE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38607,7 +38607,7 @@ export const products: Product[] = [
                 "sku": "94853",
                 "name": "STREEP.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38643,7 +38643,7 @@ export const products: Product[] = [
                 "sku": "94855",
                 "name": "HARPER. PP",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38675,7 +38675,7 @@ export const products: Product[] = [
                 "sku": "94860",
                 "name": "SHIMMER.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38707,7 +38707,7 @@ export const products: Product[] = [
                 "sku": "94861",
                 "name": "RASPERA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38747,7 +38747,7 @@ export const products: Product[] = [
                 "sku": "94879",
                 "name": "BILBO.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38785,7 +38785,7 @@ export const products: Product[] = [
                 "sku": "94880",
                 "name": "SCARLETT.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38821,7 +38821,7 @@ export const products: Product[] = [
                 "sku": "94882",
                 "name": "ALBA. ABS",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38854,7 +38854,7 @@ export const products: Product[] = [
                 "sku": "94891",
                 "name": "ERIC.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38893,7 +38893,7 @@ export const products: Product[] = [
                 "sku": "94897",
                 "name": "ZENA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38930,7 +38930,7 @@ export const products: Product[] = [
                 "sku": "94898",
                 "name": "TILBURY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38962,7 +38962,7 @@ export const products: Product[] = [
                 "sku": "94899",
                 "name": "FLORENCE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -38994,7 +38994,7 @@ export const products: Product[] = [
                 "sku": "94913",
                 "name": "REFLASK 500. PET PP 500",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39023,7 +39023,7 @@ export const products: Product[] = [
                 "sku": "94942",
                 "name": "BOXIE WOOD L.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39057,7 +39057,7 @@ export const products: Product[] = [
                 "sku": "94945",
                 "name": "BOXIE CLEAR L.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39085,7 +39085,7 @@ export const products: Product[] = [
                 "sku": "94952",
                 "name": "MAURICE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39500,7 +39500,7 @@ export const products: Product[] = [
                 "sku": "94992",
                 "name": "BOXIE CAN L.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39638,7 +39638,7 @@ export const products: Product[] = [
                 "sku": "95053",
                 "name": "RUFFALO LARGE. (82%) (18%) (350 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39674,7 +39674,7 @@ export const products: Product[] = [
                 "sku": "95054",
                 "name": "ENOS.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39708,7 +39708,7 @@ export const products: Product[] = [
                 "sku": "95055",
                 "name": "DERN.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39745,7 +39745,7 @@ export const products: Product[] = [
                 "sku": "95056",
                 "name": "DELANY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39784,7 +39784,7 @@ export const products: Product[] = [
                 "sku": "95057",
                 "name": "ARKIN.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39819,7 +39819,7 @@ export const products: Product[] = [
                 "sku": "95063",
                 "name": "CONROY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39855,7 +39855,7 @@ export const products: Product[] = [
                 "sku": "95067",
                 "name": "YEUN.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39894,7 +39894,7 @@ export const products: Product[] = [
                 "sku": "95068",
                 "name": "RUFFALO. (350 g/m ), (82%) (18%)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -39932,7 +39932,7 @@ export const products: Product[] = [
                 "sku": "95069",
                 "name": "DANES.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -40006,7 +40006,7 @@ export const products: Product[] = [
                 "sku": "95075",
                 "name": "DUVAL. 180 g",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -40041,7 +40041,7 @@ export const products: Product[] = [
                 "sku": "95077",
                 "name": "ZEN 80. 80 g",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -40073,7 +40073,7 @@ export const products: Product[] = [
                 "sku": "95078",
                 "name": "ZEN 180. 180 g",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -40106,7 +40106,7 @@ export const products: Product[] = [
                 "sku": "95082",
                 "name": "BALI S / M.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -40136,7 +40136,7 @@ export const products: Product[] = [
                 "sku": "95083",
                 "name": "BALI L / XL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -40166,7 +40166,7 @@ export const products: Product[] = [
                 "sku": "95084",
                 "name": "MAUPITI S / M. PE PVC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -40211,7 +40211,7 @@ export const products: Product[] = [
                 "sku": "95085",
                 "name": "MAUPITI L / XL. PE PVC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -40255,7 +40255,7 @@ export const products: Product[] = [
                 "sku": "95088",
                 "name": "ORVYN. RFID 10",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 240,
                 "colors": [
@@ -40492,7 +40492,7 @@ export const products: Product[] = [
                 "sku": "95095",
                 "name": "JOLIE VEGAN. ABS (100% rABS) PP,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3,
                 "colors": [
@@ -40561,7 +40561,7 @@ export const products: Product[] = [
                 "sku": "95107",
                 "name": "GLESS.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -40692,7 +40692,7 @@ export const products: Product[] = [
                 "sku": "95817",
                 "name": "SWEET.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -43565,7 +43565,7 @@ export const products: Product[] = [
                 "sku": "97388",
                 "name": "CHECKIN.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -43595,7 +43595,7 @@ export const products: Product[] = [
                 "sku": "97389",
                 "name": "MONTIGNY. ABS",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -44779,7 +44779,7 @@ export const products: Product[] = [
                 "sku": "98001",
                 "name": "PLAYTIME. 4 1",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -44883,7 +44883,7 @@ export const products: Product[] = [
                 "sku": "98004",
                 "name": "MIGUEL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -44913,7 +44913,7 @@ export const products: Product[] = [
                 "sku": "98006",
                 "name": "MIKA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -44975,7 +44975,7 @@ export const products: Product[] = [
                 "sku": "98012",
                 "name": "DEEP. PU",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45040,7 +45040,7 @@ export const products: Product[] = [
                 "sku": "98035",
                 "name": "FILIPINAS.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45083,7 +45083,7 @@ export const products: Product[] = [
                 "sku": "98054",
                 "name": "CHILL. PU",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45121,7 +45121,7 @@ export const products: Product[] = [
                 "sku": "98059",
                 "name": "REDS. PU",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45152,7 +45152,7 @@ export const products: Product[] = [
                 "sku": "98067",
                 "name": "BLUS. PU",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45302,7 +45302,7 @@ export const products: Product[] = [
                 "sku": "98081",
                 "name": "JOHAN. 54",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45337,7 +45337,7 @@ export const products: Product[] = [
                 "sku": "98092",
                 "name": "RUGBY. PU",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45368,7 +45368,7 @@ export const products: Product[] = [
                 "sku": "98093",
                 "name": "NEESON. PU",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45503,7 +45503,7 @@ export const products: Product[] = [
                 "sku": "98111",
                 "name": "EMIL. ID",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45535,7 +45535,7 @@ export const products: Product[] = [
                 "sku": "98113",
                 "name": "DOZY. 190T",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45564,7 +45564,7 @@ export const products: Product[] = [
                 "sku": "98114",
                 "name": "TROYE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45598,7 +45598,7 @@ export const products: Product[] = [
                 "sku": "98117",
                 "name": "COBB.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45662,7 +45662,7 @@ export const products: Product[] = [
                 "sku": "98124",
                 "name": "FINDO. PP ID",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -45937,7 +45937,7 @@ export const products: Product[] = [
                 "sku": "98140",
                 "name": "SANIBEL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46036,7 +46036,7 @@ export const products: Product[] = [
                 "sku": "98144",
                 "name": "TAPIA. MDF",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46175,7 +46175,7 @@ export const products: Product[] = [
                 "sku": "98149",
                 "name": "FISCHER. 54 ,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 52379,
                 "colors": [
@@ -46244,7 +46244,7 @@ export const products: Product[] = [
                 "sku": "98171",
                 "name": "SEVENTH. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46279,7 +46279,7 @@ export const products: Product[] = [
                 "sku": "98180",
                 "name": "STRADA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46346,7 +46346,7 @@ export const products: Product[] = [
                 "sku": "98196",
                 "name": "FONTAINE. (70 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46375,7 +46375,7 @@ export const products: Product[] = [
                 "sku": "98197",
                 "name": "TRAVELX.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46414,7 +46414,7 @@ export const products: Product[] = [
                 "sku": "98219",
                 "name": "PECONIC.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46451,7 +46451,7 @@ export const products: Product[] = [
                 "sku": "98264",
                 "name": "PARAGUAI.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46546,7 +46546,7 @@ export const products: Product[] = [
                 "sku": "98274",
                 "name": "CRUISE. PVC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46589,7 +46589,7 @@ export const products: Product[] = [
                 "sku": "98293",
                 "name": "TIMOR.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46627,7 +46627,7 @@ export const products: Product[] = [
                 "sku": "98313",
                 "name": "CELEBES.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46665,7 +46665,7 @@ export const products: Product[] = [
                 "sku": "98317",
                 "name": "NIGER. PC 3",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46696,7 +46696,7 @@ export const products: Product[] = [
                 "sku": "98319",
                 "name": "MEKONG. PC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46729,7 +46729,7 @@ export const products: Product[] = [
                 "sku": "98320",
                 "name": "PARANA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46776,7 +46776,7 @@ export const products: Product[] = [
                 "sku": "98324",
                 "name": "VARADERO.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46808,7 +46808,7 @@ export const products: Product[] = [
                 "sku": "98332",
                 "name": "DERING.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46859,7 +46859,7 @@ export const products: Product[] = [
                 "sku": "98349",
                 "name": "SALEMA. (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -46901,7 +46901,7 @@ export const products: Product[] = [
                 "sku": "98377",
                 "name": "CALIFORNIA. (250 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -47302,7 +47302,7 @@ export const products: Product[] = [
                 "sku": "98423",
                 "name": "MAYFAIR.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -47542,7 +47542,7 @@ export const products: Product[] = [
                 "sku": "98491",
                 "name": "FLIK. 54",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -47791,7 +47791,7 @@ export const products: Product[] = [
                 "sku": "98519",
                 "name": "BACTOUT. UV",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -47963,7 +47963,7 @@ export const products: Product[] = [
                 "sku": "99011",
                 "name": "JASON. (200 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48001,7 +48001,7 @@ export const products: Product[] = [
                 "sku": "99016",
                 "name": "THOM.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48030,7 +48030,7 @@ export const products: Product[] = [
                 "sku": "99021",
                 "name": "CHARLOTTE. (130 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48101,7 +48101,7 @@ export const products: Product[] = [
                 "sku": "99029",
                 "name": "RUFAI. 100%",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48152,7 +48152,7 @@ export const products: Product[] = [
                 "sku": "99031",
                 "name": "LAPONIA. a e",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48274,7 +48274,7 @@ export const products: Product[] = [
                 "sku": "99038",
                 "name": "CARL. rPET",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48314,7 +48314,7 @@ export const products: Product[] = [
                 "sku": "99039",
                 "name": "HAWK. (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48356,7 +48356,7 @@ export const products: Product[] = [
                 "sku": "99041",
                 "name": "CIMONE. 190T (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48408,7 +48408,7 @@ export const products: Product[] = [
                 "sku": "99044",
                 "name": "SMOOTH. 100% (270 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48447,7 +48447,7 @@ export const products: Product[] = [
                 "sku": "99045",
                 "name": "CAPLAN. (260 g/m ), (90%) (10%)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48501,7 +48501,7 @@ export const products: Product[] = [
                 "sku": "99046",
                 "name": "MALEK. (350 / ), (85%) (15%)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48555,7 +48555,7 @@ export const products: Product[] = [
                 "sku": "99047",
                 "name": "BARDEM L. (500 g/m ) (82%) (18%)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48598,7 +48598,7 @@ export const products: Product[] = [
                 "sku": "99048",
                 "name": "BARDEM M. (500 g/m ) (82%) (18%)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48636,7 +48636,7 @@ export const products: Product[] = [
                 "sku": "99049",
                 "name": "BARDEM S. (350 g/m ) (82%) (18%)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48674,7 +48674,7 @@ export const products: Product[] = [
                 "sku": "99051",
                 "name": "SULENA. (180 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48756,7 +48756,7 @@ export const products: Product[] = [
                 "sku": "99075",
                 "name": "DYLEAF. (240 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48827,7 +48827,7 @@ export const products: Product[] = [
                 "sku": "99078",
                 "name": "HEIDEN. (190 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -48867,7 +48867,7 @@ export const products: Product[] = [
                 "sku": "99079",
                 "name": "GALLIOT. (180 g/m ) (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49131,7 +49131,7 @@ export const products: Product[] = [
                 "sku": "99090",
                 "name": "RYAN. (65% )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49187,7 +49187,7 @@ export const products: Product[] = [
                 "sku": "99091",
                 "name": "GAVIN. 27'5 umbrella in 190T pongee with automatic opening",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49237,7 +49237,7 @@ export const products: Product[] = [
                 "sku": "99094",
                 "name": "SKYLAR. 2 1",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 4182,
                 "colors": [
@@ -49306,7 +49306,7 @@ export const products: Product[] = [
                 "sku": "99095",
                 "name": "GUSTAVO. P (100% rPET) 190T pongee umbrella with automatic opening and closing",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49345,7 +49345,7 @@ export const products: Product[] = [
                 "sku": "99096",
                 "name": "CELINE. (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1022,
                 "colors": [
@@ -49428,7 +49428,7 @@ export const products: Product[] = [
                 "sku": "99098",
                 "name": "ZANE. 190T",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1751,
                 "colors": [
@@ -49498,7 +49498,7 @@ export const products: Product[] = [
                 "sku": "99100",
                 "name": "BETSEY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49548,7 +49548,7 @@ export const products: Product[] = [
                 "sku": "99116",
                 "name": "PATTI.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49608,7 +49608,7 @@ export const products: Product[] = [
                 "sku": "99126",
                 "name": "GUIL. 12",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49650,7 +49650,7 @@ export const products: Product[] = [
                 "sku": "99131",
                 "name": "ALBERT.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49693,7 +49693,7 @@ export const products: Product[] = [
                 "sku": "99133",
                 "name": "BAMBI.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49735,7 +49735,7 @@ export const products: Product[] = [
                 "sku": "99134",
                 "name": "MICHAEL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49780,7 +49780,7 @@ export const products: Product[] = [
                 "sku": "99136",
                 "name": "HEDI. 16",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49823,7 +49823,7 @@ export const products: Product[] = [
                 "sku": "99137",
                 "name": "JENNA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49870,7 +49870,7 @@ export const products: Product[] = [
                 "sku": "99138",
                 "name": "MARIA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49923,7 +49923,7 @@ export const products: Product[] = [
                 "sku": "99139",
                 "name": "TOMAS. 190T",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -49978,7 +49978,7 @@ export const products: Product[] = [
                 "sku": "99143",
                 "name": "NICHOLAS.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50011,7 +50011,7 @@ export const products: Product[] = [
                 "sku": "99144",
                 "name": "JACOBS.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50054,7 +50054,7 @@ export const products: Product[] = [
                 "sku": "99145",
                 "name": "ALBERTA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50097,7 +50097,7 @@ export const products: Product[] = [
                 "sku": "99146",
                 "name": "ANGELA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50141,7 +50141,7 @@ export const products: Product[] = [
                 "sku": "99149",
                 "name": "APOLO. (100% rPET) pongee",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50191,7 +50191,7 @@ export const products: Product[] = [
                 "sku": "99151",
                 "name": "CAMPANELA. 190T pongee",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50238,7 +50238,7 @@ export const products: Product[] = [
                 "sku": "99157",
                 "name": "CUMIN. (180 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7109,
                 "colors": [
@@ -50285,7 +50285,7 @@ export const products: Product[] = [
                 "sku": "99159",
                 "name": "SARDENHA. (70% ) (30% ) (180 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 7264,
                 "colors": [
@@ -50325,7 +50325,7 @@ export const products: Product[] = [
                 "sku": "99160",
                 "name": "BENEDICT. (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": 3302,
                 "colors": [
@@ -50419,7 +50419,7 @@ export const products: Product[] = [
                 "sku": "99213",
                 "name": "SANDRA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50452,7 +50452,7 @@ export const products: Product[] = [
                 "sku": "99214",
                 "name": "ISABEL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50710,7 +50710,7 @@ export const products: Product[] = [
                 "sku": "99336",
                 "name": "FAUNE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50817,7 +50817,7 @@ export const products: Product[] = [
                 "sku": "99410",
                 "name": "BAILEY. 100%",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50859,7 +50859,7 @@ export const products: Product[] = [
                 "sku": "99412",
                 "name": "CHRISTOPHE. (260 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -50905,7 +50905,7 @@ export const products: Product[] = [
                 "sku": "99415",
                 "name": "MIUCCIA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51060,7 +51060,7 @@ export const products: Product[] = [
                 "sku": "99426",
                 "name": "NICOLA. (150 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51198,7 +51198,7 @@ export const products: Product[] = [
                 "sku": "99456",
                 "name": "CHILKA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51244,7 +51244,7 @@ export const products: Product[] = [
                 "sku": "99457",
                 "name": "PHOEBE. (300 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51291,7 +51291,7 @@ export const products: Product[] = [
                 "sku": "99458",
                 "name": "MAGALEY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51320,7 +51320,7 @@ export const products: Product[] = [
                 "sku": "99547",
                 "name": "CAMPBEL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51374,7 +51374,7 @@ export const products: Product[] = [
                 "sku": "99568",
                 "name": "CLAIRE. 100%",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51451,7 +51451,7 @@ export const products: Product[] = [
                 "sku": "99800",
                 "name": "CHILLI. 100%",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51493,7 +51493,7 @@ export const products: Product[] = [
                 "sku": "99811",
                 "name": "CURRY. (180 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51532,7 +51532,7 @@ export const products: Product[] = [
                 "sku": "99812",
                 "name": "ZIMBRO. (140 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51577,7 +51577,7 @@ export const products: Product[] = [
                 "sku": "99815",
                 "name": "HOLM. 100% (320 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51619,7 +51619,7 @@ export const products: Product[] = [
                 "sku": "99816",
                 "name": "VESPER. 100% (300 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51665,7 +51665,7 @@ export const products: Product[] = [
                 "sku": "99822",
                 "name": "CHIVES. (150 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51711,7 +51711,7 @@ export const products: Product[] = [
                 "sku": "99826",
                 "name": "LAVENDER. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51744,7 +51744,7 @@ export const products: Product[] = [
                 "sku": "99830",
                 "name": "GINGER.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51783,7 +51783,7 @@ export const products: Product[] = [
                 "sku": "99831",
                 "name": "ROSEMARY. (150 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51821,7 +51821,7 @@ export const products: Product[] = [
                 "sku": "99832",
                 "name": "CELERY. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51855,7 +51855,7 @@ export const products: Product[] = [
                 "sku": "99834",
                 "name": "NILO. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Write",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -51888,7 +51888,7 @@ export const products: Product[] = [
                 "sku": "99835",
                 "name": "CHICORY. (260 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -52943,7 +52943,7 @@ export const products: Product[] = [
                 "sku": "92315",
                 "name": "BELFAST. 2 1 ,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 961,
                 "colors": [
@@ -52982,7 +52982,7 @@ export const products: Product[] = [
                 "sku": "92361",
                 "name": "CIES. , , , 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 163,
                 "colors": [
@@ -53019,7 +53019,7 @@ export const products: Product[] = [
                 "sku": "92393",
                 "name": "YANGON BPACK. , 600D, 17'3",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -53058,7 +53058,7 @@ export const products: Product[] = [
                 "sku": "92529",
                 "name": "Newcastle. 14 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 16,
                 "colors": [
@@ -53096,7 +53096,7 @@ export const products: Product[] = [
                 "sku": "92570",
                 "name": "YANGON. - 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -53127,7 +53127,7 @@ export const products: Product[] = [
                 "sku": "92571",
                 "name": "OSASCO BPACK. , , , 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -53166,7 +53166,7 @@ export const products: Product[] = [
                 "sku": "92572",
                 "name": "NIAMEY. 15.6 300D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1689,
                 "colors": [
@@ -53208,7 +53208,7 @@ export const products: Product[] = [
                 "sku": "92573",
                 "name": "OSASCO SPORT. 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 807,
                 "colors": [
@@ -53244,7 +53244,7 @@ export const products: Product[] = [
                 "sku": "92574",
                 "name": "Newcastle BAG. , 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -53460,7 +53460,7 @@ export const products: Product[] = [
                 "sku": "94370",
                 "name": "CLOVES. (275 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 11844,
                 "colors": [
@@ -53628,7 +53628,7 @@ export const products: Product[] = [
                 "sku": "94374",
                 "name": "LAGREIN. ABS",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 926,
                 "colors": [
@@ -53662,7 +53662,7 @@ export const products: Product[] = [
                 "sku": "94375",
                 "name": "MOCHI. 900 mL",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 629,
                 "colors": [
@@ -53826,7 +53826,7 @@ export const products: Product[] = [
                 "sku": "95099",
                 "name": "GOSLING. , ,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Keychains & Tools",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2819,
                 "colors": [
@@ -53866,7 +53866,7 @@ export const products: Product[] = [
                 "sku": "95100",
                 "name": "VAUGHN. , , (30% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Keychains & Tools",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2438,
                 "colors": [
@@ -54482,7 +54482,7 @@ export const products: Product[] = [
                 "sku": "99163",
                 "name": "FINNLEY. 27 (100% rPET) pongee 190T",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -54523,7 +54523,7 @@ export const products: Product[] = [
                 "sku": "99164",
                 "name": "AIDEN. 21 (100% rPET) pongee 190T, 3",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 3905,
                 "colors": [
@@ -54730,7 +54730,7 @@ export const products: Product[] = [
                 "sku": "11061",
                 "name": "Product 11061",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55070,7 +55070,7 @@ export const products: Product[] = [
                 "sku": "54143",
                 "name": "POKE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55537,7 +55537,7 @@ export const products: Product[] = [
                 "sku": "92082",
                 "name": "MARACAY. (70%) (30% rPET) (140 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55578,7 +55578,7 @@ export const products: Product[] = [
                 "sku": "92197",
                 "name": "GARBI. 15'6''",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55607,7 +55607,7 @@ export const products: Product[] = [
                 "sku": "92375",
                 "name": "ROSARIO. 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 4009,
                 "colors": [
@@ -55658,7 +55658,7 @@ export const products: Product[] = [
                 "sku": "92499",
                 "name": "STRATFORD. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Textile",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55694,7 +55694,7 @@ export const products: Product[] = [
                 "sku": "92533",
                 "name": "SAINT. (380 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55736,7 +55736,7 @@ export const products: Product[] = [
                 "sku": "92534",
                 "name": "PORTLAND. PU 16-",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 7918,
                 "colors": [
@@ -55777,7 +55777,7 @@ export const products: Product[] = [
                 "sku": "92535",
                 "name": "SAINT SPORT. (380 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55817,7 +55817,7 @@ export const products: Product[] = [
                 "sku": "92536",
                 "name": "DAPHNE. 100% (340 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55856,7 +55856,7 @@ export const products: Product[] = [
                 "sku": "92537",
                 "name": "CHLOE. 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 5678,
                 "colors": [
@@ -55895,7 +55895,7 @@ export const products: Product[] = [
                 "sku": "92538",
                 "name": "HELSINQUE. (320 / ), (350 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55924,7 +55924,7 @@ export const products: Product[] = [
                 "sku": "92539",
                 "name": "ATHENS. (70%) (30%) (220 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55959,7 +55959,7 @@ export const products: Product[] = [
                 "sku": "92541",
                 "name": "COPENHAGEN. 17'3",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -55992,7 +55992,7 @@ export const products: Product[] = [
                 "sku": "92575",
                 "name": "FARO. 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1497,
                 "colors": [
@@ -56029,7 +56029,7 @@ export const products: Product[] = [
                 "sku": "92576",
                 "name": "LIVERPOOL. 600D, 15",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 2485,
                 "colors": [
@@ -56066,7 +56066,7 @@ export const products: Product[] = [
                 "sku": "92577",
                 "name": "HELSINQUE COLOUR. (320 / ), (350 / )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -56096,7 +56096,7 @@ export const products: Product[] = [
                 "sku": "92631",
                 "name": "OTTAWA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 9001,
                 "colors": [
@@ -56124,7 +56124,7 @@ export const products: Product[] = [
                 "sku": "92854",
                 "name": "MACY. (80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Textile",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -56150,7 +56150,7 @@ export const products: Product[] = [
                 "sku": "92997",
                 "name": "CARDINAL.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -56536,7 +56536,7 @@ export const products: Product[] = [
                 "sku": "93971",
                 "name": "BUCHANIO.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -56593,7 +56593,7 @@ export const products: Product[] = [
                 "sku": "94353",
                 "name": "CORDEN. PVC",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -56652,7 +56652,7 @@ export const products: Product[] = [
                 "sku": "94382",
                 "name": "LAWSON. 100%",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6911,
                 "colors": [
@@ -56694,7 +56694,7 @@ export const products: Product[] = [
                 "sku": "94383",
                 "name": "EDBERG.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 1543,
                 "colors": [
@@ -56726,7 +56726,7 @@ export const products: Product[] = [
                 "sku": "94384",
                 "name": "EWING. (90% )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3238,
                 "colors": [
@@ -56838,7 +56838,7 @@ export const products: Product[] = [
                 "sku": "94387",
                 "name": "WILEY. 3-",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -56869,7 +56869,7 @@ export const products: Product[] = [
                 "sku": "94388",
                 "name": "SAVORY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -56901,7 +56901,7 @@ export const products: Product[] = [
                 "sku": "94389",
                 "name": "ALCARAZ. (90% ),",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -56934,7 +56934,7 @@ export const products: Product[] = [
                 "sku": "94390",
                 "name": "MAHLEB. PP",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4888,
                 "colors": [
@@ -57021,7 +57021,7 @@ export const products: Product[] = [
                 "sku": "94392",
                 "name": "KELCE. 550",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 7343,
                 "colors": [
@@ -57054,7 +57054,7 @@ export const products: Product[] = [
                 "sku": "94393",
                 "name": "CHEESANO.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3867,
                 "colors": [
@@ -57084,7 +57084,7 @@ export const products: Product[] = [
                 "sku": "94395",
                 "name": "BAHARAT. 3",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -57803,7 +57803,7 @@ export const products: Product[] = [
                 "sku": "94668",
                 "name": "DHABI. 380",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -57835,7 +57835,7 @@ export const products: Product[] = [
                 "sku": "94782",
                 "name": "SENNA. PET (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Drinkware",
+                "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 7845,
                 "colors": [
@@ -57909,7 +57909,7 @@ export const products: Product[] = [
                 "sku": "95096",
                 "name": "ESSENCE. 50",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -57950,7 +57950,7 @@ export const products: Product[] = [
                 "sku": "95097",
                 "name": "KAYLA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 8726,
                 "colors": [
@@ -57986,7 +57986,7 @@ export const products: Product[] = [
                 "sku": "95111",
                 "name": "LINDEN. ,",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -58018,7 +58018,7 @@ export const products: Product[] = [
                 "sku": "95112",
                 "name": "FREYA. PU",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -58050,7 +58050,7 @@ export const products: Product[] = [
                 "sku": "95113",
                 "name": "ELISE. 3",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -58080,7 +58080,7 @@ export const products: Product[] = [
                 "sku": "95114",
                 "name": "REESE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -59189,7 +59189,7 @@ export const products: Product[] = [
                 "sku": "98375",
                 "name": "SARDEGNA.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -59325,7 +59325,7 @@ export const products: Product[] = [
                 "sku": "99168",
                 "name": "OLIVIA. 19 190T",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Kids & Xmas",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -59498,7 +59498,7 @@ export const products: Product[] = [
                 "sku": "99173",
                 "name": "GEORGE. 21- , (100% rPET) 190T",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -60704,7 +60704,7 @@ export const products: Product[] = [
                 "sku": "34048",
                 "name": "(80 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Textile",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 10002,
                 "colors": [
@@ -60732,7 +60732,7 @@ export const products: Product[] = [
                 "sku": "35600",
                 "name": "PATTI 15g. 15",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -60759,7 +60759,7 @@ export const products: Product[] = [
                 "sku": "35603",
                 "name": "LUSITANOS. (75 g)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -60787,7 +60787,7 @@ export const products: Product[] = [
                 "sku": "35607",
                 "name": "SPA. , (100 )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -60815,7 +60815,7 @@ export const products: Product[] = [
                 "sku": "35608",
                 "name": "FLORES. (150g)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -60844,7 +60844,7 @@ export const products: Product[] = [
                 "sku": "35610",
                 "name": "LAVANDA 20g. (20 )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -60872,7 +60872,7 @@ export const products: Product[] = [
                 "sku": "35614",
                 "name": "TROPICAL BLOSSOM. , (160g)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -61038,7 +61038,7 @@ export const products: Product[] = [
                 "sku": "92053",
                 "name": "DANNY. M",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1068,
                 "colors": [
@@ -61067,7 +61067,7 @@ export const products: Product[] = [
                 "sku": "92076",
                 "name": "GIBRALTAR. (70%), (30% rPET) (140 g/ )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -61098,7 +61098,7 @@ export const products: Product[] = [
                 "sku": "92091A",
                 "name": "DELFOS POUCH SHINY. 300D recycled polyester ( ) 600D recycled polyester",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 798,
                 "colors": [
@@ -61122,7 +61122,7 @@ export const products: Product[] = [
                 "sku": "92471A",
                 "name": "TURIM II. 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 3901,
                 "colors": [
@@ -61159,7 +61159,7 @@ export const products: Product[] = [
                 "sku": "92540",
                 "name": "UDINE. P , 300D , 16",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1017,
                 "colors": [
@@ -61193,7 +61193,7 @@ export const products: Product[] = [
                 "sku": "92621",
                 "name": "GLENCOE.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -61223,7 +61223,7 @@ export const products: Product[] = [
                 "sku": "92667A",
                 "name": "BERNA II. 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": 4353,
                 "colors": [
@@ -61258,7 +61258,7 @@ export const products: Product[] = [
                 "sku": "92850",
                 "name": "SAWGRASS. (90 g/m )",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Textile",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -61287,7 +61287,7 @@ export const products: Product[] = [
                 "sku": "92881",
                 "name": "HARROD.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Textile",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -61406,7 +61406,7 @@ export const products: Product[] = [
                 "sku": "94258",
                 "name": "CARAWAY LONG.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -61440,7 +61440,7 @@ export const products: Product[] = [
                 "sku": "94260",
                 "name": "CARAWAY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -61542,7 +61542,7 @@ export const products: Product[] = [
                 "sku": "95058",
                 "name": "DOWNEY.",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
@@ -61691,7 +61691,7 @@ export const products: Product[] = [
                 "sku": "99040",
                 "name": "RIVER. 190T (100% rPET)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
-                "category": "Other",
+                "category": "Bags",
                 "subcategory": "",
                 "basePrice": null,
                 "colors": [
