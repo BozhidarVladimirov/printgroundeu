@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Link from 'next/link'
 import { Minus, Plus } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
@@ -204,12 +205,11 @@ export function ProductInfo({ product }: ProductInfoProps) {
 
       {/* Actions */}
       <div className="flex gap-4">
-        <Button className="flex-1" size="lg">
-          Add to Quote
-        </Button>
-        <Button variant="outline" size="lg">
-          Request Sample
-        </Button>
+        <Link href="/contact" className="flex-1">
+          <Button className="w-full" size="lg">
+            Request a Quote
+          </Button>
+        </Link>
       </div>
 
       {/* Product Details */}
