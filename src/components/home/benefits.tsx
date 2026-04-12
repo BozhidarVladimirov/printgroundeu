@@ -59,7 +59,7 @@ export function Benefits() {
               Why Choose EU PrintGround?
             </h2>
             <p className="text-gray-500 mb-8 text-lg">
-              With over 15 years of experience serving businesses across Europe, we understand 
+              With over 10 years of experience serving businesses across Europe, we understand 
               what corporate clients need. Quality, reliability, and competitive pricing.
             </p>
             <div className="grid grid-cols-2 gap-4">
@@ -92,7 +92,7 @@ export function Benefits() {
           >
             <div className="bg-gradient-to-br from-primary via-blue-600 to-accent rounded-3xl p-8 text-white shadow-2xl">
               <div className="text-center mb-8">
-                <p className="text-7xl font-bold text-white mb-2">15+</p>
+                <p className="text-7xl font-bold text-white mb-2">10+</p>
                 <p className="text-xl text-white/90">Years Experience</p>
               </div>
               <div className="grid grid-cols-2 gap-6 text-center">

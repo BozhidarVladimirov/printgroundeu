@@ -102,7 +102,7 @@ export function TrustedBy() {
             <StatCard value="1,000+" label="Happy Clients" delay={0.5} />
             <StatCard value="27" label="EU Countries" delay={0.6} />
             <StatCard value="1,500+" label="Products" delay={0.7} />
-            <StatCard value="15+" label="Years Experience" delay={0.8} />
+            <StatCard value="10+" label="Years Experience" delay={0.8} />
           </div>
         </motion.div>
       </div>
