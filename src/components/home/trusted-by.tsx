@@ -51,7 +51,7 @@ function StatCard({ value, label, delay }: { value: string; label: string; delay
       className="text-center p-6"
     >
       <p className="text-3xl md:text-4xl font-bold text-white mb-1">{value}</p>
-      <p className="text-sm text-white/70">{label}</p>
+      <p className="text-sm text-white">{label}</p>
     </motion.div>
   )
 }
