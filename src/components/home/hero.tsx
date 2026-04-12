@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { motion } from 'framer-motion'
-import { ArrowRight, Truck, Shield, Clock, Sparkles, Zap, Package, Users, Award, Globe, CheckCircle, Star } from 'lucide-react'
+import { ArrowRight, Truck, Shield, Clock, Sparkles, Zap, Package, Award, Globe, CheckCircle, Star } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 export function Hero() {
@@ -70,7 +70,7 @@ export function Hero() {
               </div>
               <div className="flex items-center gap-2">
                 <CheckCircle className="w-5 h-5 text-green-400" />
-                <span className="text-sm">1500+ Products</span>
+                <span className="text-sm">27 EU Countries</span>
               </div>
             </div>
           </motion.div>
@@ -115,20 +115,6 @@ export function Hero() {
               <p className="text-3xl font-bold">10%</p>
               <p className="text-sm">OFF First Order</p>
               <p className="text-xs opacity-80 mt-1">Code: WELCOME10</p>
-            </motion.div>
-
-            {/* Mini Badge */}
-            <motion.div
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.6, delay: 1 }}
-              className="absolute -left-4 bottom-1/4 bg-white text-primary rounded-xl shadow-xl p-3"
-            >
-              <div className="flex items-center gap-2">
-                <Users className="w-5 h-5" />
-                <span className="font-bold">1000+</span>
-              </div>
-              <p className="text-xs text-gray-500">Happy Clients</p>
             </motion.div>
           </motion.div>
         </div>
