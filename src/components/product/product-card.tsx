@@ -8,11 +8,27 @@ import { Badge } from '@/components/ui/badge'
 import { formatPrice, sanitizeProductName } from '@/lib/utils'
 import type { Product } from '@/data/products'
 
+const descriptions: Record<string, string> = {
+  write: "Smooth-writing instrument ideal for corporate branding and office use.",
+  bags: "Durable bag with ample storage, perfect for everyday corporate use.",
+  textile: "Premium quality apparel for events, workwear and brand promotion.",
+  technology: "Modern tech accessory — practical, stylish and memorable.",
+  office: "Professional office essential with elegant branding possibilities.",
+  drinkware: "Quality drinkware that keeps your brand top-of-mind all day.",
+  "keychains & tools": "Compact and practical — a cost-effective branded giveaway.",
+  "personal & travel": "Essential travel companion with premium branding options.",
+  "kids & xmas": "Fun and memorable gift item perfect for seasonal campaigns.",
+  "sports & outdoor": "Active lifestyle product ideal for sports events and outdoor promotions.",
+}
+
 interface ProductCardProps {
   product: Product
 }
 
 export function ProductCard({ product }: ProductCardProps) {
+  const description = descriptions[product.category?.toLowerCase()] 
+    ?? "High-quality branded merchandise for corporate use."
+
   return (
     <motion.div
       whileHover={{ y: -4 }}
@@ -60,7 +76,7 @@ export function ProductCard({ product }: ProductCardProps) {
         </Link>
         
         <p className="text-sm text-gray-500 mb-3 line-clamp-2">
-          {product.description}
+          {description}
         </p>
 
         {/* Colors */}
