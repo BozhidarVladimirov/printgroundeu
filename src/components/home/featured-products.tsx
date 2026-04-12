@@ -7,6 +7,15 @@ import { ProductCard } from '@/components/product/product-card'
 import { products, categories } from '@/data/products'
 import { Button } from '@/components/ui/button'
 
+function cleanProductName(name: string): string {
+  return name
+    .replace(/\s*\.\s*$/, '')
+    .replace(/[^\x00-\x7F]+/g, ' ')
+    .replace(/\s{2,}/g, ' ')
+    .replace(/\(\s*\)/g, '')
+    .trim()
+}
+
 const categoryDescriptions: Record<string, string> = {
   'Technology': 'Modern tech accessory with your logo — practical and memorable.',
   'Bags': 'Durable bag with ample storage, perfect for everyday corporate use.',
@@ -29,6 +38,7 @@ const getFeaturedProducts = () => {
     .filter((p): p is NonNullable<typeof p> => p !== undefined)
     .map(p => ({
       ...p,
+      name: cleanProductName(p.name),
       description: categoryDescriptions[p.category] || 'Premium corporate merchandise for your brand.',
     }))
 }
