@@ -41,7 +41,7 @@ export default function AboutPage() {
             Your Trusted Partner for Corporate Merchandise
           </h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">
-            For over 10 years, EU PrintGround has been helping businesses across Europe 
+            For over 15 years, EU PrintGround has been helping businesses across Europe 
             create memorable branded merchandise that leaves lasting impressions.
           </p>
         </div>
@@ -52,7 +52,7 @@ export default function AboutPage() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 text-center">
             {[
-              { value: '10+', label: 'Years Experience' },
+              { value: '15+', label: 'Years Experience' },
               { value: '1500+', label: 'Products' },
               { value: '1000+', label: 'Happy Clients' },
               { value: '27', label: 'EU Countries' },
