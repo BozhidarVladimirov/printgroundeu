@@ -1,0 +1,125 @@
+const fs = require('fs');
+const path = require('path');
+
+const csvPath = path.join(__dirname, '../../wc-product-export-30-3-2026-1774877107115.csv');
+const productsPath = path.join(__dirname, '../src/data/products-imported.ts');
+const outputPath = path.join(__dirname, '../src/data/products-imported-new.ts');
+
+const colorCodeToName = {
+    '100': 'White', '102': 'Natural', '103': 'Cream', '104': 'Yellow', '105': 'Gold',
+    '106': 'Orange', '107': 'Red', '108': 'Pink', '109': 'Burgundy', '110': 'Purple',
+    '112': 'Navy Blue', '113': 'Royal Blue', '114': 'Sky Blue', '115': 'Aqua Blue',
+    '116': 'Turquoise', '117': 'Teal', '118': 'Green', '119': 'Lime Green',
+    '121': 'Mint Green', '122': 'Army Green', '123': 'Forest Green', '124': 'Dark Green',
+    '127': 'Brown', '128': 'Tan', '129': 'Beige', '131': 'Khaki', '132': 'Olive',
+    '133': 'Gray', '134': 'Dark Gray', '137': 'Charcoal', '138': 'Black', '139': 'Graphite',
+    '141': 'Silver', '142': 'Gun Metal', '144': 'Champagne', '146': 'Coral',
+    '148': 'Lavender', '149': 'Lilac', '150': 'Violet', '152': 'Magenta', '153': 'Coral',
+    '154': 'Salmon', '158': 'Mint', '159': 'Peach', '160': 'Light Blue',
+    '163': 'Ice Blue', '164': 'Powder Blue', '168': 'Denim', '169': 'Cobalt',
+    '173': 'Slate', '174': 'Steel Blue', '178': 'Sea Green', '179': 'Emerald',
+    '183': 'Olive Drab', '203': 'Black', '204': 'Navy Blue', '207': 'Gray',
+    '213': 'White', '214': 'Red', '301': 'Transparent', '304': 'Clear',
+    '351': 'Melange Gray', '352': 'Melange Black', '353': 'Melange Navy',
+    '354': 'Melange White', '357': 'Heather Gray', '361': 'Heather Blue',
+    '362': 'Heather Red', '366': 'Light Gray', '170': 'Dark Navy', '188': 'Medium Gray',
+};
+
+console.log('Reading CSV file...');
+const content = fs.readFileSync(csvPath, 'utf8');
+const lines = content.split('\n');
+console.log(`Total lines: ${lines.length}`);
+
+const productColors = new Map();
+lines.forEach((line, idx) => {
+    if (idx === 0 || !line.trim()) return;
+    const cols = line.split(',');
+    const sku = cols[2] || '';
+    const skuMatch = sku.match(/^(\d+)-(\d+)$/);
+    if (skuMatch) {
+        const productCode = skuMatch[1];
+        const colorCode = skuMatch[2];
+        if (!productColors.has(productCode)) {
+            productColors.set(productCode, new Set());
+        }
+        productColors.get(productCode).add(colorCode);
+    }
+    const imagesCol = cols[33] || '';
+    const imgMatches = imagesCol.match(/\/(\d+)_(\d+)\./g);
+    if (imgMatches) {
+        imgMatches.forEach(match => {
+            const match2 = match.match(/\/(\d+)_(\d+)\./);
+            if (match2) {
+                const productCode = match2[1];
+                const colorCode = match2[2];
+                if (!productColors.has(productCode)) {
+                    productColors.set(productCode, new Set());
+                }
+                productColors.get(productCode).add(colorCode);
+            }
+        });
+    }
+});
+
+console.log(`Products with colors found: ${productColors.size}`);
+
+console.log('\nReading products-imported.ts...');
+let productsContent = fs.readFileSync(productsPath, 'utf8');
+
+let updateCount = 0;
+let multiCount = 0;
+
+const productEntries = Array.from(productColors.entries());
+
+productEntries.forEach(([sku, colorCodes]) => {
+    const colorNames = Array.from(colorCodes)
+        .map(code => colorCodeToName[code] || 'Multi')
+        .filter((name, idx, arr) => arr.indexOf(name) === idx)
+        .sort();
+    
+    if (colorNames.length > 0 && colorNames[0] !== 'Multi') {
+        const searchStr = `"sku": "${sku}"`;
+        const skuIndex = productsContent.indexOf(searchStr);
+        
+        if (skuIndex !== -1) {
+            const afterSku = productsContent.substring(skuIndex);
+            const colorsMatch = afterSku.match(/"colors":\s*\[([^\]]*)\]/);
+            
+            if (colorsMatch) {
+                const oldColors = colorsMatch[1].trim();
+                
+                if (oldColors.includes('"Multi"')) {
+                    const newColors = colorNames.map(c => `"${c}"`).join(', ');
+                    
+                    // Use replaceAll with the full pattern including SKU context
+                    const fullPattern = colorsMatch[0];
+                    const replacement = `"colors": [${newColors}]`;
+                    
+                    // Replace only at the correct position by including context
+                    const contextPattern = new RegExp(
+                        `"sku": "${sku}".*?"colors":\\s*\\[.*?\\]`,
+                        's'
+                    );
+                    
+                    productsContent = productsContent.replace(contextPattern, (match) => {
+                        return match.replace(fullPattern, replacement);
+                    });
+                    
+                    updateCount++;
+                    
+                    if (updateCount <= 10) {
+                        console.log(`  ${sku}: ${colorNames.slice(0, 4).join(', ')}${colorNames.length > 4 ? '...' : ''}`);
+                    }
+                } else {
+                    multiCount++;
+                }
+            }
+        }
+    }
+});
+
+console.log(`\nUpdated ${updateCount} products`);
+console.log(`Skipped (already has real colors): ${multiCount}`);
+
+fs.writeFileSync(outputPath, productsContent);
+console.log(`Saved to products-imported-new.ts`);

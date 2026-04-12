@@ -167,9 +167,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -201,9 +199,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.51,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -233,9 +229,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -267,9 +261,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 17.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -300,9 +292,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.68,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Dark Green", "Gold", "Natural", "Olive", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -343,9 +333,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -383,9 +371,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Champagne"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -417,9 +403,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.42,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -449,9 +433,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Heather Gray", "Melange White", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -498,9 +480,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Heather Gray", "Melange Gray", "Melange White", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -548,9 +528,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Heather Gray", "Melange White", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -598,9 +576,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -630,9 +606,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -664,9 +638,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 4.88,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -707,9 +679,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 5.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -853,9 +823,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 6.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -896,9 +864,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1038,9 +1004,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 4.88,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1081,9 +1045,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 5.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1264,9 +1226,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1394,9 +1354,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1437,9 +1395,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 8.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1546,9 +1502,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 9.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1589,9 +1543,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 9.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1697,9 +1649,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1741,9 +1691,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 8.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1839,9 +1787,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1881,9 +1827,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1939,9 +1883,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -1981,9 +1923,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 8.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -2039,9 +1979,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 5.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -2080,9 +2018,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 6.96,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -2175,9 +2111,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 9.15,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -2227,9 +2161,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 9.88,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -2468,9 +2400,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -2527,9 +2457,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 14.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -2578,9 +2506,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 14.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -2918,9 +2844,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 14.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -3101,9 +3025,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 12.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -3197,9 +3119,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 22.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -3451,9 +3371,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 22.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -3615,9 +3533,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 37.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -3671,9 +3587,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 37.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -3727,9 +3641,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 36.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -3781,9 +3693,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 36.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -3837,9 +3747,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 28.9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4037,9 +3945,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 29.57,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4172,9 +4078,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 36.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4250,9 +4154,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 36.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4325,9 +4227,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 40.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4395,9 +4295,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 31.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4451,9 +4349,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 31.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4511,9 +4407,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 27.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4562,9 +4456,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 4.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4715,9 +4607,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 6.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4885,9 +4775,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 13.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -4956,9 +4844,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 29.57,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5043,9 +4929,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 18.53,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5091,9 +4975,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 20.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5170,9 +5052,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 40.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5219,9 +5099,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 68.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5298,9 +5176,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 68.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5375,9 +5251,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 96.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Medium Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5418,9 +5292,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 65.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5469,9 +5341,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 20.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5610,9 +5480,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 39.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5683,9 +5551,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 37.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5729,9 +5595,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 37.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5774,9 +5638,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 36.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5820,9 +5682,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 36.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5864,9 +5724,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 30.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5908,9 +5766,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 30.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -5952,9 +5808,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 24.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6049,9 +5903,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 29.57,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6096,9 +5948,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 23.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6160,9 +6010,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 23.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6208,9 +6056,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 55.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6261,9 +6107,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 42.9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6306,9 +6150,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 40.82,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6407,9 +6249,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 58.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6461,9 +6301,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 43.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6570,9 +6408,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 121.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6609,9 +6445,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 36.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6697,9 +6531,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 39.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6858,9 +6690,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 20.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6905,9 +6735,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 23.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -6993,9 +6821,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 18.53,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7112,9 +6938,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 26.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7362,9 +7186,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 9.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7414,9 +7236,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 45.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7461,9 +7281,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 45.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7507,9 +7325,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 71.41,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7608,9 +7424,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 8.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7645,9 +7459,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7706,9 +7518,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7745,9 +7555,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 11.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7801,9 +7609,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 11.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7856,9 +7662,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 8.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7942,9 +7746,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 35.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -7998,9 +7800,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 22.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8062,9 +7862,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 22.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8107,9 +7905,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 8.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8206,9 +8002,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 19.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8311,9 +8105,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 19.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8357,9 +8149,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 32.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8415,9 +8205,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 32.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8457,9 +8245,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 10.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8502,9 +8288,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 10.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8535,9 +8319,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 15.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8580,9 +8362,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 15.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8613,9 +8393,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 29.61,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8664,9 +8442,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 27.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8776,9 +8552,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 9.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8825,9 +8599,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 9.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8863,9 +8635,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8910,9 +8680,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -8987,9 +8755,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 38.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9062,9 +8828,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 33.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9155,9 +8919,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9195,9 +8957,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 91.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9238,9 +8998,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 91.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9281,9 +9039,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 74.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9320,9 +9076,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 7.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9362,9 +9116,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 8.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9417,9 +9169,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 15.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9499,9 +9249,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 15.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9548,9 +9296,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 35.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9617,9 +9363,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 32.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9669,9 +9413,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9706,9 +9448,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 3.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9741,9 +9481,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9785,9 +9523,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9818,9 +9554,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9862,9 +9596,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 29.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9906,9 +9638,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 35.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9950,9 +9680,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 12.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -9996,9 +9724,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 17.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -10041,9 +9767,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 16.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -10086,9 +9810,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 29.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -10129,9 +9851,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -10173,9 +9893,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -10217,9 +9935,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 29.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -10261,9 +9977,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -10294,9 +10008,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 18.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -10739,9 +10451,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 34.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Navy Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -11214,9 +10924,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 28.71,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Black"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -11427,9 +11135,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 34.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Navy Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -12479,9 +12185,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 30.57,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Black"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -12710,9 +12414,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 36.03,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -13100,9 +12802,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 34.42,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Navy Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -13438,9 +13138,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 17.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -13484,9 +13182,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 17.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -13688,9 +13384,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 37.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -13779,9 +13473,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 8.9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Burgundy", "Champagne", "Cream", "Denim", "Forest Green", "Gold", "Graphite", "Gun Metal", "Mint", "Natural", "Orange", "Powder Blue", "Sky Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -13870,9 +13562,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 16.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -13910,9 +13600,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 16.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14026,9 +13714,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 24.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14539,9 +14225,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 34.42,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Navy Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14592,9 +14276,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Olive", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14632,9 +14314,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 2.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14671,9 +14351,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14705,9 +14383,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 54.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14749,9 +14425,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 7.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14785,9 +14459,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 18.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14823,9 +14495,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Cream", "Dark Gray", "Lilac"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14861,9 +14531,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Lime Green", "Navy Blue", "Pink", "Purple", "Salmon", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14898,9 +14566,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.99,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14937,9 +14603,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -14977,9 +14641,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15014,9 +14676,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Red", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15050,9 +14710,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 20,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15083,9 +14741,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15113,9 +14769,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 138,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15148,9 +14802,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 158,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15184,9 +14836,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15228,9 +14878,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15272,9 +14920,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.68,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15303,9 +14949,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Blue", "Heather Gray", "Heather Red", "Light Gray", "Melange Black", "Melange Gray", "Melange Navy", "Melange White", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15346,9 +14990,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Blue", "Heather Gray", "Heather Red", "Light Gray", "Melange Black", "Melange Gray", "Melange Navy", "Melange White", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15393,9 +15035,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Gray", "Melange Black", "Melange White", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15433,9 +15073,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Gray", "Melange Black", "Melange White", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15473,9 +15111,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Blue", "Heather Gray", "Heather Red", "Light Gray", "Melange Black", "Melange Gray", "Melange Navy", "Melange White", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15547,9 +15183,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Heather Blue", "Melange Gray", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15585,9 +15219,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Heather Blue", "Melange Gray", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15624,9 +15256,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Heather Blue", "Melange Gray", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15663,9 +15293,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Lime Green", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15712,9 +15340,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Gold", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15754,9 +15380,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.41,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15790,9 +15414,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15826,9 +15448,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15862,9 +15482,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.52,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Lime Green", "Sky Blue", "Tan", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15906,9 +15524,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Orange", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15943,9 +15559,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Natural", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -15987,9 +15601,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Army Green", "Cream", "Gold", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16028,9 +15640,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16075,9 +15685,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16116,9 +15724,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Royal Blue", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16169,9 +15775,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Pink", "Royal Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16212,9 +15816,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Charcoal", "Multi", "Navy Blue", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16259,9 +15861,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 11.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16303,9 +15903,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16345,9 +15943,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Charcoal", "Cream", "Multi", "Navy Blue", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16388,9 +15984,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16428,9 +16022,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Navy Blue", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16479,9 +16071,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16523,9 +16113,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16563,9 +16151,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Brown", "Cream", "Dark Green", "Gold", "Multi", "Orange", "Red", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16604,9 +16190,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Sky Blue", "Tan", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16645,9 +16229,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Dark Green", "Gold", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16694,9 +16276,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16735,9 +16315,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16768,9 +16346,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Burgundy", "Cream", "Dark Green", "Forest Green", "Gold", "Olive", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16820,9 +16396,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Multi", "Orange", "Red", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16866,9 +16440,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16932,9 +16504,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Lime Green", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -16975,9 +16545,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 17.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17018,9 +16586,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 18.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17060,9 +16626,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 9.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17101,9 +16665,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 10.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17140,9 +16702,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 3.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17182,9 +16742,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Lime Green", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17220,9 +16778,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 7.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17260,9 +16816,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Natural", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17323,9 +16877,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17380,9 +16932,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Navy Blue", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17434,9 +16984,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Gold", "Lime Green", "Natural", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17480,9 +17028,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Gold", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17521,9 +17067,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Brown", "Burgundy", "Cream", "Dark Green", "Forest Green", "Gold", "Multi", "Navy Blue", "Olive", "Orange", "Red", "Sky Blue", "Tan", "Teal", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17573,9 +17117,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 2.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17614,9 +17156,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 3.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17650,9 +17190,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17698,9 +17236,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Multi", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17739,9 +17275,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17792,9 +17326,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17828,9 +17360,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Dark Green", "Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17862,9 +17392,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Lime Green", "Multi", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17908,9 +17436,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Gold", "Orange", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17955,9 +17481,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Natural", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -17998,9 +17522,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18039,9 +17561,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18075,9 +17595,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Black", "Burgundy", "Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18116,9 +17634,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Natural", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18162,9 +17678,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.61,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Red", "Sky Blue", "Teal"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18203,9 +17717,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18243,9 +17755,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18285,9 +17795,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18318,9 +17826,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18350,9 +17856,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18386,9 +17890,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18423,9 +17925,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Lime Green", "Natural", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18467,9 +17967,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18507,9 +18005,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18541,9 +18037,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18578,9 +18072,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18612,9 +18104,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18647,9 +18137,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18683,9 +18171,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18715,9 +18201,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18749,9 +18233,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18782,9 +18264,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 3.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18816,9 +18296,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18847,9 +18325,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.67,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18880,9 +18356,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.06,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18912,9 +18386,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.61,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18949,9 +18421,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -18985,9 +18455,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19061,9 +18529,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Olive", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19113,9 +18579,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19148,9 +18612,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 4.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19190,9 +18652,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.42,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Brown", "Cream", "Gold", "Multi", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19254,9 +18714,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 4.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Burgundy", "Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19324,9 +18782,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 3.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19366,9 +18822,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 2.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19407,9 +18861,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 6.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19452,9 +18904,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 5.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19495,9 +18945,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 5.47,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19538,9 +18986,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 4.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19578,9 +19024,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.99,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19620,9 +19064,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Purple", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19669,9 +19111,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Lime Green", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19710,9 +19150,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.53,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Dark Gray", "Dark Green", "Gold", "Orange", "Royal Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19758,9 +19196,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 7.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19800,9 +19236,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 7.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19838,9 +19272,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 24.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19872,9 +19304,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Multi", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19936,9 +19366,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -19969,9 +19397,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20008,9 +19434,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20042,9 +19466,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Beige", "Cream", "Orange", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20097,9 +19519,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Gray", "Gold", "Orange", "Peach", "Powder Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20149,9 +19569,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20197,9 +19615,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 3.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20239,9 +19655,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.61,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20274,9 +19688,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 11.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Forest Green", "Gold", "Lime Green", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20315,9 +19727,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 16.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20350,9 +19760,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20383,9 +19791,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20417,9 +19823,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 11.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20455,9 +19859,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 13.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20493,9 +19895,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 14.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20533,9 +19933,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Cream", "Dark Gray", "Dark Green", "Forest Green", "Gold", "Gray", "Lilac", "Lime Green", "Multi", "Natural", "Orange", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20579,9 +19977,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 18.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20613,9 +20009,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Light Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20649,9 +20043,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20687,9 +20079,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 16.96,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20737,9 +20127,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 23.67,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20783,9 +20171,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 29.88,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20824,9 +20210,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Gold", "Lilac", "Lime Green", "Natural", "Orange", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20871,9 +20255,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Gray", "Dark Green", "Forest Green", "Gold", "Lime Green", "Natural", "Orange", "Pink", "Sky Blue", "Tan", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20922,9 +20304,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 18.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -20964,9 +20344,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 6.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21003,9 +20381,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 34.88,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21051,9 +20427,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21087,9 +20461,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 4.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21127,9 +20499,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 9.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21165,9 +20535,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 25.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21208,9 +20576,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 15.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21246,9 +20612,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 27.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21292,9 +20656,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 26.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21337,9 +20699,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.51,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21375,9 +20735,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 62.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21415,9 +20773,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21453,9 +20809,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Khaki"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21491,9 +20845,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 7.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21526,9 +20878,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 24.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21566,9 +20916,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 17.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21600,9 +20948,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 11.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21677,9 +21023,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21717,9 +21061,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 58.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21757,9 +21099,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 19.38,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21802,9 +21142,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 84.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21840,9 +21178,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 37.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Steel Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21879,9 +21215,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 62.06,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21918,9 +21252,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 23.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -21971,9 +21303,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 9.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22010,9 +21340,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 14.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22051,9 +21379,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 40.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22093,9 +21419,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 46.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22160,9 +21484,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 6.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Khaki", "Navy Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22213,9 +21535,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Khaki", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22259,9 +21579,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 7.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22306,9 +21624,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 15.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22339,9 +21655,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 40.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22376,9 +21690,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 16.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22411,9 +21723,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 12.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Khaki", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22446,9 +21756,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22488,9 +21796,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 56.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22535,9 +21841,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Dark Green", "Forest Green", "Gold", "Lilac", "Lime Green", "Natural", "Orange", "Pink", "Sky Blue", "Tan", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22582,9 +21886,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Dark Green", "Lime Green", "Natural", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22637,9 +21939,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Dark Green", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22687,9 +21987,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22731,9 +22029,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 30.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22768,9 +22064,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22807,9 +22101,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22848,9 +22140,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22889,9 +22179,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22926,9 +22214,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.53,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22960,9 +22246,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 42.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -22997,9 +22281,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23031,9 +22313,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23066,9 +22346,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23099,9 +22377,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 28.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23142,9 +22418,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 33.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23180,9 +22454,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23234,9 +22506,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.42,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Forest Green", "Gray", "Natural", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23280,9 +22550,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Forest Green", "Gray", "Natural", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23326,9 +22594,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23366,9 +22632,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 11.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Gold", "Royal Blue", "Sky Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23421,9 +22685,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 36.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23464,9 +22726,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23505,9 +22765,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 38.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23548,9 +22806,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.67,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23585,9 +22841,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Dark Gray", "Dark Green", "Forest Green", "Gold", "Orange", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23628,9 +22882,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23664,9 +22916,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.52,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23700,9 +22950,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 7.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23746,9 +22994,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Dark Green", "Gold", "Gray", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23784,9 +23030,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.52,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23822,9 +23066,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23859,9 +23101,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 2.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23897,9 +23137,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23932,9 +23170,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -23969,9 +23205,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24005,9 +23239,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 6.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24073,9 +23305,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 13.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24124,9 +23354,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 24.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24165,9 +23393,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 16.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Royal Blue", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24206,9 +23432,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 26.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24243,9 +23467,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 41.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24286,9 +23508,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24322,9 +23542,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24358,9 +23576,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24395,9 +23611,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.61,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24432,9 +23646,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24470,9 +23682,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24508,9 +23718,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 3.61,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24541,9 +23749,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 3.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24575,9 +23781,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 9.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24617,9 +23821,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 6.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24656,9 +23858,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.96,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Lime Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24694,9 +23894,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24732,9 +23930,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24769,9 +23965,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 16.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24810,9 +24004,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 15.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24847,9 +24039,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 29.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Royal Blue", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24884,9 +24074,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 4.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Forest Green", "Gold", "Khaki", "Lime Green", "Pink", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24930,9 +24118,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 19.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Forest Green", "Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -24972,9 +24158,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 3.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25019,9 +24203,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25054,9 +24236,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25093,9 +24273,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 43.65,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25144,9 +24322,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 47.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25186,9 +24362,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 103.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25225,9 +24399,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 26.87,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25264,9 +24436,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Lime Green", "Natural", "Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25301,9 +24471,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25333,9 +24501,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Khaki", "Lime Green", "Navy Blue", "Sky Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25390,9 +24556,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25425,9 +24589,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25461,9 +24623,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.41,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25497,9 +24657,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Champagne", "Forest Green", "Natural"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25537,9 +24695,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25580,9 +24736,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25615,9 +24769,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25648,9 +24800,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25683,9 +24833,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Lime Green", "Natural", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25730,9 +24878,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.87,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Lime Green", "Natural", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25776,9 +24922,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 3.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25814,9 +24958,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 3.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25854,9 +24996,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25893,9 +25033,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25937,9 +25075,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -25975,9 +25111,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 7.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Violet", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26019,9 +25153,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26054,9 +25186,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26091,9 +25221,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.99,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26131,9 +25259,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26167,9 +25293,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Dark Green", "Gold", "Khaki", "Lime Green", "Natural", "Olive", "Orange", "Pink", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26215,9 +25339,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Khaki", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26253,9 +25375,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26292,9 +25412,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26327,9 +25445,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 0.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26361,9 +25477,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26393,9 +25507,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.47,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26426,9 +25538,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.53,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26459,9 +25569,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26492,9 +25600,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26527,9 +25633,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26559,9 +25663,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.52,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26593,9 +25695,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.51,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26626,9 +25726,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26668,9 +25766,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26702,9 +25798,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Khaki", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26742,9 +25836,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Forest Green", "Gold", "Lime Green", "Natural", "Orange", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26793,9 +25885,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.51,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Dark Green", "Gold", "Lime Green", "Mint Green", "Natural", "Olive", "Orange", "Pink", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26841,9 +25931,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Dark Green", "Gold", "Lime Green", "Orange", "Pink", "Royal Blue", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26893,9 +25981,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Gray", "Dark Green", "Forest Green", "Gold", "Lime Green", "Natural", "Olive", "Orange", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26951,9 +26037,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -26992,9 +26076,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Orange", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27041,9 +26123,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27080,9 +26160,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Forest Green", "Gold", "Light Blue", "Lime Green", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27129,9 +26207,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27173,9 +26249,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Orange", "Pink", "Royal Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27234,9 +26308,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27275,9 +26347,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27313,9 +26383,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Light Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27358,9 +26426,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27401,9 +26467,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27447,9 +26511,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27491,9 +26553,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.87,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27527,9 +26587,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27562,9 +26620,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Light Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27607,9 +26663,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27645,9 +26699,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 9.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27683,9 +26735,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27729,9 +26779,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 30.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27770,9 +26818,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green", "Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27811,9 +26857,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27845,9 +26889,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 3.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27883,9 +26925,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27926,9 +26966,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Multi", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -27968,9 +27006,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28005,9 +27041,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 3.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28045,9 +27079,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Burgundy", "Cream", "Gold", "Multi", "Pink", "Red", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28085,9 +27117,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28123,9 +27153,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28157,9 +27185,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 2.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28194,9 +27220,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28235,9 +27259,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28270,9 +27292,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 5.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28309,9 +27329,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Lime Green", "Natural", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28358,9 +27376,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28403,9 +27419,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28437,9 +27451,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28473,9 +27485,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 9.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28511,9 +27521,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green", "Gold", "Gray", "Khaki", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28552,9 +27560,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 3.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Dark Green", "Gray", "Lime Green", "Violet", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28607,9 +27613,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 4.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28640,9 +27644,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28672,9 +27674,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28709,9 +27709,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 3.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28755,9 +27753,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 4.99,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28803,9 +27799,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 4.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28841,9 +27835,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 4.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28876,9 +27868,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 4.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28911,9 +27901,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.65,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28946,9 +27934,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -28982,9 +27968,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29018,9 +28002,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 5.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29053,9 +28035,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 6.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29089,9 +28069,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 5.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29124,9 +28102,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Gold", "Lime Green", "Natural", "Olive", "Pink", "Royal Blue", "Sky Blue", "Tan", "Turquoise", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29223,9 +28199,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29254,9 +28228,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29286,9 +28258,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 7.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29326,9 +28296,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29360,9 +28328,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29396,9 +28362,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.38,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29432,9 +28396,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29469,9 +28431,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29504,9 +28464,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 4.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Multi", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29566,9 +28524,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29597,9 +28553,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 2.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29632,9 +28586,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29664,9 +28616,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29697,9 +28647,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 2.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29732,9 +28680,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29763,9 +28709,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 2.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29798,9 +28742,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Light Blue", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29829,9 +28771,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29869,9 +28809,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Natural", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29920,9 +28858,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Light Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29956,9 +28892,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.03,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -29993,9 +28927,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 0.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30027,9 +28959,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30064,9 +28994,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30094,9 +29022,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Dark Green", "Gold", "Lime Green", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30148,9 +29074,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 5.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30186,9 +29110,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Olive", "Orange", "Pink", "Royal Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30234,9 +29156,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Mint Green", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30277,9 +29197,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.99,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Gold", "Royal Blue", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30316,9 +29234,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30350,9 +29266,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 4.87,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30394,9 +29308,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 20.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30435,9 +29347,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 13.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30473,9 +29383,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Lime Green", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30522,9 +29430,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30556,9 +29462,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30598,9 +29502,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30637,9 +29539,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 3.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30677,9 +29577,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 3.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30722,9 +29620,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30767,9 +29663,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30806,9 +29700,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30845,9 +29737,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30885,9 +29775,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Dark Green", "Gold", "Lime Green", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30922,9 +29810,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -30957,9 +29843,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 3.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Forest Green", "Gold", "Lime Green", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31005,9 +29889,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 11.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31048,9 +29930,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 4.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31087,9 +29967,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31121,9 +29999,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 3.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31157,9 +30033,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31191,9 +30065,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 5.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31231,9 +30103,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31267,9 +30137,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 14.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31310,9 +30178,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31349,9 +30215,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31393,9 +30257,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 4.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31426,9 +30288,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31465,9 +30325,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31503,9 +30361,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 10.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31540,9 +30396,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31574,9 +30428,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Dark Green", "Gold", "Lime Green", "Pink", "Royal Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31645,9 +30497,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Dark Green", "Gold", "Khaki", "Lime Green", "Pink", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31720,9 +30570,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31757,9 +30605,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Gold", "Khaki", "Lime Green", "Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31803,9 +30649,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31848,9 +30692,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 4.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31883,9 +30725,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 4.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31924,9 +30764,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 4.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31959,9 +30797,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.61,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Gold", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -31996,9 +30832,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 9.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32038,9 +30872,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32075,9 +30907,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32113,9 +30943,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32146,9 +30974,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32182,9 +31008,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32217,9 +31041,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 6.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32253,9 +31075,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32285,9 +31105,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Lime Green", "Natural", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32325,9 +31143,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32371,9 +31187,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32410,9 +31224,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 7.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32447,9 +31259,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32481,9 +31291,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32518,9 +31326,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32551,9 +31357,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32583,9 +31387,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32623,9 +31425,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 8.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32654,9 +31454,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32687,9 +31485,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32722,9 +31518,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32754,9 +31548,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 15.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32793,9 +31585,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 25.71,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32828,9 +31618,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 10.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32864,9 +31652,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32904,9 +31690,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 5.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32943,9 +31727,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 16.82,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -32978,9 +31760,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 19.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33014,9 +31794,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33051,9 +31829,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 8.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33089,9 +31865,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33126,9 +31900,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 10.71,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33160,9 +31932,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33195,9 +31965,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 7.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33230,9 +31998,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 8.96,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33265,9 +32031,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 9.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33299,9 +32063,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 7.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33336,9 +32098,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 7.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33374,9 +32134,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33411,9 +32169,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33442,9 +32198,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 20.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33481,9 +32235,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Army Green", "Champagne", "Cream", "Gold", "Natural", "Olive", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33532,9 +32284,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Army Green", "Champagne", "Cream", "Gold", "Graphite", "Lime Green", "Olive", "Orange", "Pink", "Royal Blue", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33584,9 +32334,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33620,9 +32368,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33661,9 +32407,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 4.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Lime Green", "Multi", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33704,9 +32448,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33743,9 +32485,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33775,9 +32515,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Burgundy", "Cream", "Gold", "Multi", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33821,9 +32559,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33859,9 +32595,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33896,9 +32630,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33929,9 +32661,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -33965,9 +32695,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34001,9 +32729,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34037,9 +32763,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34085,9 +32809,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34119,9 +32841,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 15.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34161,9 +32881,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Gold", "Orange", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34202,9 +32920,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34233,9 +32949,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.06,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34272,9 +32986,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34307,9 +33019,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34344,9 +33054,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 18.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34380,9 +33088,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 13.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34417,9 +33123,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34452,9 +33156,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34485,9 +33187,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34516,9 +33216,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Pink", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34556,9 +33254,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34586,9 +33282,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 4.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34617,9 +33311,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Pink", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34656,9 +33348,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 13.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34696,9 +33386,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 7.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Brown", "Cream", "Dark Gray", "Lilac", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34740,9 +33428,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34776,9 +33462,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34814,9 +33498,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Dark Green", "Gray", "Lime Green", "Navy Blue", "Tan", "Turquoise"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34869,9 +33551,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 15.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34909,9 +33589,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Gray", "Gold", "Gray", "Orange", "Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34952,9 +33630,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 9.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -34988,9 +33664,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 19.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35023,9 +33697,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35063,9 +33735,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35104,9 +33774,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35142,9 +33810,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 6.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Gray", "Turquoise"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35182,9 +33848,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 10.57,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35220,9 +33884,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 19.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Turquoise"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35256,9 +33918,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 12.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35295,9 +33955,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 7.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35333,9 +33991,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 11.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35369,9 +34025,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35401,9 +34055,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35444,9 +34096,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 4.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Gray", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35483,9 +34133,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 7.51,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35518,9 +34166,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 7.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35558,9 +34204,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lilac", "Royal Blue", "Turquoise", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35604,9 +34248,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35643,9 +34285,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35678,9 +34318,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35720,9 +34358,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 9.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35759,9 +34395,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.97,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35792,9 +34426,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35827,9 +34459,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 5.41,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35860,9 +34490,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Gray", "Lime Green", "Tan", "Turquoise"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35947,9 +34575,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 4.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -35987,9 +34613,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 14.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36037,9 +34661,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 7.06,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36083,9 +34705,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 9.51,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36132,9 +34752,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 5.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36168,9 +34786,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 8.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36205,9 +34821,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 7.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Burgundy", "Dark Gray", "Gold", "Multi", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36262,9 +34876,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36306,9 +34918,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 22.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36353,9 +34963,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36396,9 +35004,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36434,9 +35040,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 14.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36479,9 +35083,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36515,9 +35117,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Purple", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36556,9 +35156,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36590,9 +35188,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Lime Green", "Orange", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36629,9 +35225,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.88,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36664,9 +35258,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 12.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36702,9 +35294,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36740,9 +35330,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36778,9 +35366,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 8.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36817,9 +35403,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36854,9 +35438,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36888,9 +35470,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36922,9 +35502,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 16.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36959,9 +35537,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 1.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Gray", "Orange", "Turquoise", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -36992,9 +35568,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 0.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37025,9 +35599,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37063,9 +35635,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 5.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Lime Green", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37101,9 +35671,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Charcoal", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37138,9 +35706,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Purple", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37176,9 +35742,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 10.22,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37213,9 +35777,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37245,9 +35807,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.71,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37280,9 +35840,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 10.67,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37319,9 +35877,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37351,9 +35907,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 11.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37387,9 +35941,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37423,9 +35975,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37458,9 +36008,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37499,9 +36047,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 10.38,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37532,9 +36078,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37574,9 +36118,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37624,9 +36166,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Forest Green", "Gold", "Lime Green", "Natural", "Orange", "Pink", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37671,9 +36211,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.65,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37708,9 +36246,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37744,9 +36280,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37778,9 +36312,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37821,9 +36353,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37861,9 +36391,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37897,9 +36425,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Lime Green", "Multi", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37941,9 +36467,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.96,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -37975,9 +36499,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38009,9 +36531,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Royal Blue", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38048,9 +36568,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.06,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Charcoal", "Cream", "Dark Gray", "Dark Green", "Gold", "Lilac", "Lime Green", "Multi", "Natural", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38092,9 +36610,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Gray", "Gold", "Lilac", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38143,9 +36659,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Beige", "Cream", "Dark Gray", "Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38187,9 +36701,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38222,9 +36734,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 17.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38261,9 +36771,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38297,9 +36805,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 0.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Natural", "Orange", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38348,9 +36854,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.38,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38382,9 +36886,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38421,9 +36923,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Lime Green", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38458,9 +36958,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38492,9 +36990,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.06,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38529,9 +37025,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38564,9 +37058,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 4.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Lime Green", "Multi", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38609,9 +37101,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Forest Green", "Gold", "Lime Green", "Navy Blue", "Olive", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38658,9 +37148,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 13.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38704,9 +37192,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 13.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38746,9 +37232,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38781,9 +37265,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38817,9 +37299,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 9.68,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38893,9 +37373,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Champagne", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38935,9 +37413,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -38974,9 +37450,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 7.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39013,9 +37487,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 10.9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39050,9 +37522,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39086,9 +37556,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 11.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39124,9 +37592,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39165,9 +37631,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39203,9 +37667,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39238,9 +37700,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 0.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39273,9 +37733,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Purple", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39309,9 +37767,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39349,9 +37805,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39387,9 +37841,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Lime Green", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39431,9 +37883,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39466,9 +37916,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Multi", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39503,9 +37951,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 5.57,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39535,9 +37981,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 20.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39570,9 +38014,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 4.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39605,9 +38047,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 5.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39639,9 +38079,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 1.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39671,9 +38109,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 6.38,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39706,9 +38142,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 6.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39744,9 +38178,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 8.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39781,9 +38213,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.67,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39818,9 +38248,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Dark Green", "Forest Green", "Gold", "Lime Green", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39858,9 +38286,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39899,9 +38325,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39940,9 +38364,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Multi", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -39982,9 +38404,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Gray", "Gray", "Lilac", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40022,9 +38442,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 9.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40057,9 +38475,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Gold", "Lime Green", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40103,9 +38519,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40140,9 +38554,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40173,9 +38585,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.67,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Navy Blue", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40209,9 +38619,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40242,9 +38650,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Lime Green", "Natural", "Olive", "Orange", "Pink", "Royal Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40286,9 +38692,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Natural", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40324,9 +38728,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.52,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40358,9 +38760,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40392,9 +38792,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Natural", "Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40434,9 +38832,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.87,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40547,9 +38943,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40588,9 +38982,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.25,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40627,9 +39019,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40661,9 +39051,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40695,9 +39083,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40726,9 +39112,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 15.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40762,9 +39146,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 15.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40792,9 +39174,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40829,9 +39209,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 8.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40868,9 +39246,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 4.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40901,9 +39277,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40935,9 +39309,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 4.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -40980,9 +39352,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Navy Blue", "Orange", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41028,9 +39398,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41057,9 +39425,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41086,9 +39452,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41116,9 +39480,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41146,9 +39508,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41175,9 +39535,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41204,9 +39562,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41233,9 +39589,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41267,9 +39621,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 2.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41306,9 +39658,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.15,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41344,9 +39694,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41379,9 +39727,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 34.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41417,9 +39763,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.88,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41453,9 +39797,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41492,9 +39834,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41533,9 +39873,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41570,9 +39908,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41608,9 +39944,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 13.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41649,9 +39983,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 34.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41689,9 +40021,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41729,9 +40059,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41767,9 +40095,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41804,9 +40130,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41838,9 +40162,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 7.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41873,9 +40195,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41905,9 +40225,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41937,9 +40255,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Natural", "Orange", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -41984,9 +40300,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Natural", "Orange", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42030,9 +40344,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 11.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42065,9 +40377,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42099,9 +40409,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Burgundy", "Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42134,9 +40442,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42169,9 +40475,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Burgundy", "Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42212,9 +40516,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42246,9 +40548,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42281,9 +40581,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.61,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Lime Green", "Natural", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42318,9 +40616,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42354,9 +40650,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42387,9 +40681,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 3.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42425,9 +40717,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 5.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42493,9 +40783,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42523,9 +40811,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42554,9 +40840,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 3.57,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42586,9 +40870,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.53,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42617,9 +40899,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 7.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42652,9 +40932,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 13.97,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Gold", "Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42699,9 +40977,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.15,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42736,9 +41012,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 3.67,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42776,9 +41050,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42812,9 +41084,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42848,9 +41118,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 12.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42882,9 +41150,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 17.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42918,9 +41184,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42957,9 +41221,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 9.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -42995,9 +41257,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 11.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43030,9 +41290,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 9.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43070,9 +41328,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 10.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43108,9 +41364,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 33.15,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43150,9 +41404,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 7.99,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43185,9 +41437,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 9.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43219,9 +41469,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 15.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43257,9 +41505,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43293,9 +41539,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 10.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43329,9 +41573,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43367,9 +41609,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 18.41,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43401,9 +41641,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 9.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43443,9 +41681,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 7.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43477,9 +41713,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 6.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43513,9 +41747,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 16.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43549,9 +41781,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 32.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43586,9 +41816,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 17.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43624,9 +41852,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 35.87,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43662,9 +41888,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43698,9 +41922,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 26.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43732,9 +41954,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 11.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43770,9 +41990,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.87,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43806,9 +42024,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43840,9 +42056,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43874,9 +42088,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 9.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43918,9 +42130,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 10.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43957,9 +42167,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 17.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -43995,9 +42203,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 17.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44032,9 +42238,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 22.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44069,9 +42273,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 13.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44104,9 +42306,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 24.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44145,9 +42345,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44181,9 +42379,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 7.57,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44222,9 +42418,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 14.53,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44261,9 +42455,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 9.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Royal Blue", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44303,9 +42495,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 28.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44351,9 +42541,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 21.77,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44390,9 +42578,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 13.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44428,9 +42614,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44463,9 +42647,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44500,9 +42682,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 14.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44536,9 +42716,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44570,9 +42748,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44606,9 +42782,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 19.15,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44651,9 +42825,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 13.42,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44690,9 +42862,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 15.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44733,9 +42903,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 21.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44773,9 +42941,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44806,9 +42972,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 17.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44844,9 +43008,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 12.03,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44878,9 +43040,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 38.97,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44920,9 +43080,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44958,9 +43116,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 25.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -44994,9 +43150,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45031,9 +43185,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45066,9 +43218,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 3.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45102,9 +43252,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45138,9 +43286,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 7.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45179,9 +43325,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 11.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45221,9 +43365,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45258,9 +43400,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45304,9 +43444,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45341,9 +43479,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45379,9 +43515,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 3.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45413,9 +43547,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 4.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45451,9 +43583,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 12.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45486,9 +43616,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45528,9 +43656,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45560,9 +43686,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.47,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45591,9 +43715,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 12.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45626,9 +43748,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 19.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45673,9 +43793,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45714,9 +43832,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45752,9 +43868,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45787,9 +43901,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45827,9 +43939,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45863,9 +43973,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45898,9 +44006,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.87,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45931,9 +44037,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -45968,9 +44072,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Green", "Gold", "Lime Green", "Natural", "Orange", "Royal Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46013,9 +44115,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46053,9 +44153,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46083,9 +44181,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46116,9 +44212,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 7.47,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46151,9 +44245,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 13.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46182,9 +44274,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 16.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46221,9 +44311,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 12.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46257,9 +44345,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 16.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46295,9 +44381,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 6.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46330,9 +44414,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 14.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46367,9 +44449,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 11.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46405,9 +44485,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 25.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46443,9 +44521,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 10.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46478,9 +44554,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 8.15,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46513,9 +44587,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 15.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46549,9 +44621,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46585,9 +44655,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 15.42,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46622,9 +44690,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 0.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46656,9 +44722,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 22.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46694,9 +44758,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 17.96,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46732,9 +44794,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 26.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46773,9 +44833,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 34.82,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46812,9 +44870,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46845,9 +44901,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46882,9 +44936,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 5.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46922,9 +44974,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46954,9 +45004,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -46986,9 +45034,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 9.68,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47020,9 +45066,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47056,9 +45100,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 3.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47089,9 +45131,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.52,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47134,9 +45174,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Gold", "Lime Green", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47174,9 +45212,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47207,9 +45243,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47241,9 +45275,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 3.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47279,9 +45311,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 0.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Natural", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47329,9 +45359,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47365,9 +45393,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47402,9 +45428,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47435,9 +45459,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47468,9 +45490,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47505,9 +45525,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47542,9 +45560,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Lime Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47578,9 +45594,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47612,9 +45626,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47643,9 +45655,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47679,9 +45689,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.42,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47713,9 +45721,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47747,9 +45753,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Gold", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47787,9 +45791,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 20.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47822,9 +45824,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 6.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47857,9 +45857,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47893,9 +45891,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 6.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47926,9 +45922,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 6.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47960,9 +45954,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 9.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -47998,9 +45990,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 25.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48038,9 +46028,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 13.97,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48076,9 +46064,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48108,9 +46094,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 9.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48143,9 +46127,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Navy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48185,9 +46167,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48219,9 +46199,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 14.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48258,9 +46236,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48290,9 +46266,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48328,9 +46302,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48363,9 +46335,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48400,9 +46370,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48438,9 +46406,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48471,9 +46437,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48502,9 +46466,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48543,9 +46505,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 1.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48582,9 +46542,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 1.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48613,9 +46571,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48649,9 +46605,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 6.17,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48683,9 +46637,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 0.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Dark Green", "Gold", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48728,9 +46680,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 0.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Orange", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48768,9 +46718,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 0.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48808,9 +46756,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 1.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48841,9 +46787,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 1.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48876,9 +46820,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 11.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48925,9 +46867,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -48959,9 +46899,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 9.9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Lime Green", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49012,9 +46950,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 1.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49056,9 +46992,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 6.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Gray", "Lime Green", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49097,9 +47031,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49159,9 +47091,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 7.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green", "Gold", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49210,9 +47140,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49271,9 +47199,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 2.89,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Lime Green", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49311,9 +47237,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49358,9 +47282,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49396,9 +47318,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 11.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49475,9 +47395,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 3.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Gold", "Lime Green", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49526,9 +47444,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 13.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49575,9 +47491,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 21.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49616,9 +47530,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49657,9 +47569,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Gold", "Orange", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49694,9 +47604,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.76,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49727,9 +47635,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.15,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49765,9 +47671,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49806,9 +47710,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49850,9 +47752,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.57,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49884,9 +47784,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.38,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49920,9 +47818,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49956,9 +47852,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.67,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -49990,9 +47884,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 12.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50026,9 +47918,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50061,9 +47951,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50094,9 +47982,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Red", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50132,9 +48018,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50172,9 +48056,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Khaki", "Lime Green", "Natural", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50212,9 +48094,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50243,9 +48123,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 0.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Natural", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50281,9 +48159,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50318,9 +48194,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Dark Green", "Forest Green", "Gold", "Lilac", "Lime Green", "Natural", "Orange", "Pink", "Sky Blue", "Tan", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50371,9 +48245,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50411,9 +48283,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 0.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50452,9 +48322,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 1.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50499,9 +48367,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 3.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50541,9 +48407,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.79,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50585,9 +48449,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 9.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50639,9 +48501,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 31.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50680,9 +48540,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 19.38,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Forest Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50736,9 +48594,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 21.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Forest Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50792,9 +48648,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 14.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Dark Green", "Orange", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50837,9 +48691,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Dark Green", "Orange", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50877,9 +48729,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.55,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Dark Green", "Orange", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50917,9 +48767,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 5.96,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Khaki", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -50963,9 +48811,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 6.63,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Khaki", "Lime Green", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51003,9 +48849,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 11.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Khaki", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51037,9 +48881,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 11.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51078,9 +48920,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 19.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Khaki", "Royal Blue", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51120,9 +48960,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 7.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Gold", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51166,9 +49004,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51199,9 +49035,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 2.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51231,9 +49065,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51261,9 +49093,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 2.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51293,9 +49123,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51324,9 +49152,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 1.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Natural", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51361,9 +49187,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 11.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51400,9 +49224,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 3.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Khaki", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51458,9 +49280,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 11.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51510,9 +49330,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 13.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51581,9 +49399,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 10.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51622,9 +49438,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 22.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Khaki"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51660,9 +49474,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 6.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51709,9 +49521,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 9.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51781,9 +49591,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 4.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Dark Green", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51833,9 +49641,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 5.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Beige", "Cream", "Gold", "Lime Green", "Olive", "Orange", "Pink", "Royal Blue", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51895,9 +49701,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 11.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51939,9 +49743,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 11.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -51984,9 +49786,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 4.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52028,9 +49828,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52075,9 +49873,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 14.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52120,9 +49916,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 6.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Gold", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52169,9 +49963,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 4.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Orange", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52224,9 +50016,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 8.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52281,9 +50071,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 5.99,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52316,9 +50104,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 8.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52361,9 +50147,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 11.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52406,9 +50190,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 18.47,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52452,9 +50234,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 8.38,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52504,9 +50284,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 10.65,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52553,9 +50331,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 3.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Dark Gray", "Gold", "Khaki", "Natural", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52602,9 +50378,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 7.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Dark Green", "Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52644,9 +50418,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.23,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Gray", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52702,9 +50474,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 18.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52742,9 +50512,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 0.47,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold", "Pink", "Purple", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52777,9 +50545,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.03,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52817,9 +50583,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 0.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52850,9 +50614,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52883,9 +50645,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 0.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52915,9 +50675,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 0.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52950,9 +50708,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -52983,9 +50739,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 0.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53015,9 +50769,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53051,9 +50803,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.94,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53087,9 +50837,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 0.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53130,9 +50878,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 5.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Khaki"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53164,9 +50910,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53208,9 +50952,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Khaki", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53256,9 +50998,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53313,9 +51053,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53357,9 +51095,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 1.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53386,9 +51122,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 1.93,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53419,9 +51153,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Gray", "Gold", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53454,9 +51186,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 1.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Natural", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53491,9 +51221,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 0.19,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53528,9 +51256,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 1.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Gold", "Lime Green", "Orange", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53565,9 +51291,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Dark Green", "Gold", "Lime Green", "Orange", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53613,9 +51337,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53662,9 +51384,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53693,9 +51413,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.22,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Gray", "Dark Green", "Gold", "Lime Green", "Natural", "Orange", "Pink", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53749,9 +51467,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53796,9 +51512,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 3.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Khaki", "Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53830,9 +51544,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.97,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Tan", "Violet", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53874,9 +51586,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 3.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Multi", "Natural", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53915,9 +51625,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 3.65,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Light Blue", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -53962,9 +51670,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 10.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54006,9 +51712,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 12.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54054,9 +51758,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 4.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54102,9 +51804,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54137,9 +51837,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 3.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54178,9 +51876,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 3.51,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54218,9 +51914,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54254,9 +51948,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54289,9 +51981,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54325,9 +52015,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54358,9 +52046,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 6.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54393,9 +52079,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 5.99,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Khaki", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54438,9 +52122,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Natural", "Orange", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54481,9 +52163,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54528,9 +52208,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.86,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54681,9 +52359,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 36.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54718,9 +52394,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 34.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54755,9 +52429,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 20.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54792,9 +52464,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54827,9 +52497,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54862,9 +52530,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 19.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54896,9 +52562,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54931,9 +52595,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 35.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -54967,9 +52629,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 47.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55003,9 +52663,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 41.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55038,9 +52696,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 95.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55073,9 +52729,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 20.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55124,9 +52778,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 124,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55159,9 +52811,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 6.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55198,9 +52848,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55294,9 +52942,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 3.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55343,9 +52989,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 2.41,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55398,9 +53042,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 56.82,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55439,9 +53081,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 27.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55478,9 +53118,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 43.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55519,9 +53157,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 6.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55559,9 +53195,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 8.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55592,9 +53226,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 23.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55633,9 +53265,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 11.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55677,9 +53307,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 23.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55715,9 +53343,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 5.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55751,9 +53377,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55792,9 +53416,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 13.42,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55831,9 +53453,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 6.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55872,9 +53492,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 21.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55909,9 +53527,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.27,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55943,9 +53559,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -55980,9 +53594,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.99,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Turquoise"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56027,9 +53639,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.9,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56072,9 +53682,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 11.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56119,9 +53727,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 13.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56155,9 +53761,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Lilac", "Orange", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56201,9 +53805,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 13.97,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56240,9 +53842,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Lilac", "Orange", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56286,9 +53886,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 2.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56327,9 +53925,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 8.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56369,9 +53965,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 8.05,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56411,9 +54005,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 7.08,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56450,9 +54042,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56484,9 +54074,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 28.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56527,9 +54115,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 34.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56569,9 +54155,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 27.97,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56607,9 +54191,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 9.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56645,9 +54227,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 20.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56685,9 +54265,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 23.09,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56723,9 +54301,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 17.6,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56760,9 +54336,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 13.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56794,9 +54368,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 16.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56830,9 +54402,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 19.96,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56870,9 +54440,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 3.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56914,9 +54482,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56947,9 +54513,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.59,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -56981,9 +54545,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 3.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57019,9 +54581,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 14.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57062,9 +54622,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 7.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57114,9 +54672,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.33,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57157,9 +54713,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 27.39,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Khaki", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57202,9 +54756,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 4.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Dark Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57246,9 +54798,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 2.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57279,9 +54829,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57309,9 +54857,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Aqua Blue", "Brown", "Lime Green", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57347,9 +54893,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57379,9 +54923,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.68,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57410,9 +54952,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 1.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Forest Green", "Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57454,9 +54994,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Khaki"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57581,9 +55119,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57610,9 +55146,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 23.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57639,9 +55173,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 14.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57670,9 +55202,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Natural", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57710,9 +55240,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.32,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Olive"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57746,9 +55274,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.15,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57781,9 +55307,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57825,9 +55349,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57856,9 +55378,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 2.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57889,9 +55409,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.13,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Navy Blue", "Olive", "Orange", "Pink", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57948,9 +55466,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.78,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -57980,9 +55496,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Lime Green", "Navy Blue", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58016,9 +55530,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58053,9 +55565,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58084,9 +55594,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58132,9 +55640,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.66,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Dark Green", "Forest Green", "Gold", "Gray", "Lime Green", "Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58175,9 +55681,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 10.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58206,9 +55710,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 6.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Forest Green", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58259,9 +55761,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Natural", "Orange", "Pink", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58297,9 +55797,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 11.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Light Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58341,9 +55839,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 11.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58384,9 +55880,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 7.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Light Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58426,9 +55920,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.73,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Pink", "Violet", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58467,9 +55959,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Khaki", "Natural", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58508,9 +55998,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 3.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58539,9 +56027,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Violet", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58576,9 +56062,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 52.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58611,9 +56095,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 15.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58650,9 +56132,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 9.12,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58689,9 +56169,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 3.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58721,9 +56199,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58751,9 +56227,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.68,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Khaki", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58779,9 +56253,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.85,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58827,9 +56299,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58858,9 +56328,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 0.83,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Lime Green", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58892,9 +56360,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 11.54,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58926,9 +56392,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.2,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58957,9 +56421,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.26,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -58988,9 +56450,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Violet"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59019,9 +56479,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59050,9 +56508,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 0.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59082,9 +56538,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59115,9 +56569,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 2.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59157,9 +56609,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.52,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59189,9 +56639,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59218,9 +56666,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 1.61,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Gray", "Gray", "Orange", "Turquoise"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59250,9 +56696,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59313,9 +56757,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.75,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Khaki", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59357,9 +56799,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59391,9 +56831,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 5.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Burgundy", "Cream", "Gold", "Orange", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59430,9 +56868,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Turquoise", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59468,9 +56904,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 3.53,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Orange", "Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59509,9 +56943,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59542,9 +56974,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59576,9 +57006,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 10.65,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59611,9 +57039,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.71,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Forest Green", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59657,9 +57083,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 4.15,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lilac", "Turquoise", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59702,9 +57126,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59737,9 +57159,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 8.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59769,9 +57189,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 12.51,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59803,9 +57221,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 8.87,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Forest Green"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59839,9 +57255,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 2.81,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Lime Green", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59874,9 +57288,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59905,9 +57317,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59934,9 +57344,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -59965,9 +57373,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60053,9 +57459,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60083,9 +57487,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60112,9 +57514,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60141,9 +57541,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60171,9 +57569,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Gray", "Heather Red", "Light Gray", "Melange Black", "Melange Gray", "Melange Navy", "Melange White", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60203,9 +57599,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Gray", "Heather Red", "Light Gray", "Melange Black", "Melange Gray", "Melange Navy", "Melange White", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60235,9 +57629,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Gray", "Heather Red", "Light Gray", "Melange Black", "Melange Gray", "Melange Navy", "Melange White", "Multi"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60267,9 +57659,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Gray", "Melange Black", "Melange White", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60299,9 +57689,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Gray", "Melange Black", "Melange White", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60330,9 +57718,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Clear", "Heather Gray", "Melange Black", "Melange White", "Multi", "Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60362,9 +57748,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60391,9 +57775,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60420,9 +57802,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60449,9 +57829,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Transparent"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60478,9 +57856,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 0.29,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60508,9 +57884,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 0.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60538,9 +57912,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60572,9 +57944,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 2.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Lime Green", "Purple", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60616,9 +57986,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.56,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60650,9 +58018,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60765,9 +58131,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.88,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60799,9 +58163,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.43,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60831,9 +58193,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 2.52,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60862,9 +58222,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.41,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange", "Purple"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60890,9 +58248,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.31,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60921,9 +58277,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60955,9 +58309,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -60987,9 +58339,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61021,9 +58371,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.18,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61054,9 +58402,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61088,9 +58434,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.35,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61116,9 +58460,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 0.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Dark Green", "Gold", "Lime Green", "Orange", "Pink", "Sky Blue", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61154,9 +58496,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61186,9 +58526,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 4.62,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61219,9 +58557,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 0.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61250,9 +58586,7 @@ const rawProducts = [
                 "category": "Technology",
                 "subcategory": "",
                 "basePrice": 1.91,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61280,9 +58614,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": null,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61312,9 +58644,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 7.72,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61344,9 +58674,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 6.01,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61378,9 +58706,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 8.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange", "Royal Blue", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61417,9 +58743,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 12.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61452,9 +58776,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 17.95,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61485,9 +58807,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 24.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61520,9 +58840,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 9.16,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61552,9 +58870,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 7.37,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61586,9 +58902,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown", "Cream", "Dark Green", "Gold", "Lime Green", "Natural", "Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61623,9 +58937,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 3.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61655,9 +58967,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 5.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Khaki"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61719,9 +59029,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 2.52,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61752,9 +59060,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Dark Green", "Gold"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61784,9 +59090,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 6.69,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61819,9 +59123,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 22.48,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61853,9 +59155,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.38,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61886,9 +59186,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61917,9 +59215,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 1.11,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61949,9 +59245,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 7.47,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -61981,9 +59275,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 3.65,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Royal Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62012,9 +59304,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 13.74,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Gold", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62051,9 +59341,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62082,9 +59370,7 @@ const rawProducts = [
                 "category": "Sports & Outdoor",
                 "subcategory": "",
                 "basePrice": 14.24,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Gold", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62122,9 +59408,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 6.21,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62156,9 +59440,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 5.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62188,9 +59470,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Forest Green", "Gold", "Khaki", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62251,9 +59531,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 2.64,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Gray", "Forest Green", "Gold", "Khaki", "Orange", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62308,9 +59586,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 1.92,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62337,9 +59613,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 8.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62373,9 +59647,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 0.02,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Khaki", "Lime Green", "Tan", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62409,9 +59681,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.68,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Natural", "Sky Blue", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -62441,9 +59711,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 3.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Brown"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63456,9 +60724,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 12.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63489,9 +60755,7 @@ const rawProducts = [
                 "category": "Textile",
                 "subcategory": "",
                 "basePrice": 12.98,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63617,9 +60881,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Pink", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63647,9 +60909,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 0.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63676,9 +60936,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.44,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Cream", "Gold", "Orange", "Pink", "Sky Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63706,9 +60964,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 4.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Khaki", "Natural", "Salmon"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63736,9 +60992,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 6.4,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Lime Green", "Natural", "Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63767,9 +61021,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 1.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63797,9 +61049,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 9.14,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63826,9 +61076,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 14.8,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63852,9 +61100,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 1.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63878,9 +61124,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.07,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Olive", "Tan"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63911,9 +61155,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 3.3,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red", "Teal"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63943,9 +61185,7 @@ const rawProducts = [
                 "category": "Write",
                 "subcategory": "",
                 "basePrice": 0.46,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Burgundy", "Pink", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -63975,9 +61215,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.7,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64006,9 +61244,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.68,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64104,9 +61340,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 19.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64140,9 +61374,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Orange"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64209,9 +61441,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 1.28,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Red", "Teal"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64240,9 +61470,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 0.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Pink"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64273,9 +61501,7 @@ const rawProducts = [
                 "category": "Keychains & Tools",
                 "subcategory": "",
                 "basePrice": 1.36,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Dark Green", "Gold", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64307,9 +61533,7 @@ const rawProducts = [
                 "category": "Office",
                 "subcategory": "",
                 "basePrice": 1.06,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64367,9 +61591,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 8.34,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64403,9 +61625,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 7.04,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64438,9 +61658,7 @@ const rawProducts = [
                 "category": "Drinkware",
                 "subcategory": "",
                 "basePrice": 10.5,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Beige", "Cream", "Khaki"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64479,9 +61697,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 5.49,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64511,9 +61727,7 @@ const rawProducts = [
                 "category": "Personal & Travel",
                 "subcategory": "",
                 "basePrice": 3.84,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64570,9 +61784,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 27.1,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64601,9 +61813,7 @@ const rawProducts = [
                 "category": "Other",
                 "subcategory": "",
                 "basePrice": 7.58,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Light Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64634,9 +61844,7 @@ const rawProducts = [
                 "category": "Kids & Xmas",
                 "subcategory": "",
                 "basePrice": 1.68,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["White"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
@@ -64670,9 +61878,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 12.45,
-                "colors": [
-                        "Multi"
-                ],
+                "colors": ["Cream", "Forest Green", "Yellow"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
