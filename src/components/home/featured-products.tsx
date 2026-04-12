@@ -7,13 +7,30 @@ import { ProductCard } from '@/components/product/product-card'
 import { products, categories } from '@/data/products'
 import { Button } from '@/components/ui/button'
 
-// Static featured products with proper English names
+const categoryDescriptions: Record<string, string> = {
+  'Technology': 'Modern tech accessory with your logo — practical and memorable.',
+  'Bags': 'Durable bag with ample storage, perfect for everyday corporate use.',
+  'Textile': 'Premium quality apparel for events, workwear and brand promotion.',
+  'Office': 'Professional office essential with elegant branding possibilities.',
+  'Drinkware': 'Quality drinkware that keeps your brand top-of-mind all day.',
+  'Keychains & Tools': 'Compact and practical — a cost-effective branded giveaway.',
+  'Write': 'Smooth-writing instrument, ideal for corporate branding and office use.',
+  'Sports & Outdoor': 'Performance gear for active lifestyles — your brand on the move.',
+  'Personal & Travel': 'Travel companion that represents your brand wherever you go.',
+  'Kids & Xmas': 'Fun and festive items perfect for seasonal promotions and events.',
+  'Other': 'Unique branded merchandise to make your business stand out.',
+}
+
+const featuredSkus = ['92083', '11078', '11031', '36004', '11061', '13212', '30102', '30106']
+
 const getFeaturedProducts = () => {
-  const featuredSkus = ['92083', '11078', '11031', '36004', '11061', '13212', '30102', '30106']
-  
   return featuredSkus
     .map(sku => products.find(p => p.sku === sku))
     .filter((p): p is NonNullable<typeof p> => p !== undefined)
+    .map(p => ({
+      ...p,
+      description: categoryDescriptions[p.category] || 'Premium corporate merchandise for your brand.',
+    }))
 }
 
 const featuredProducts = getFeaturedProducts()
