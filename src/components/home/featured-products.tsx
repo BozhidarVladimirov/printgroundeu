@@ -7,23 +7,13 @@ import { ProductCard } from '@/components/product/product-card'
 import { products, categories } from '@/data/products'
 import { Button } from '@/components/ui/button'
 
-// Get featured products - one from each category with an image
+// Static featured products with proper English names
 const getFeaturedProducts = () => {
-  const featured: typeof products = []
-  const categorySet = new Set<string>()
+  const featuredSkus = ['92083', '11078', '11031', '36004', '11061', '13212', '30102', '30106']
   
-  // Shuffle products and pick one from each category
-  const shuffled = [...products].sort(() => Math.random() - 0.5)
-  
-  for (const p of shuffled) {
-    if (featured.length >= 8) break
-    if (!categorySet.has(p.category) && p.image && (p.basePrice ?? 0) > 0) {
-      categorySet.add(p.category)
-      featured.push(p)
-    }
-  }
-  
-  return featured
+  return featuredSkus
+    .map(sku => products.find(p => p.sku === sku))
+    .filter((p): p is NonNullable<typeof p> => p !== undefined)
 }
 
 const featuredProducts = getFeaturedProducts()

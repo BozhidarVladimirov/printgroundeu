@@ -194,7 +194,7 @@ const rawProducts = [
         {
                 "id": "pg-11031",
                 "sku": "11031",
-                "name": "Product 11031",
+                "name": "Drawstring Sports Bag",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Sports & Outdoor",
                 "subcategory": "",
@@ -256,7 +256,7 @@ const rawProducts = [
         {
                 "id": "pg-11078",
                 "sku": "11078",
-                "name": "Product 11078",
+                "name": "Wireless Bluetooth Headphones",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Technology",
                 "subcategory": "",
@@ -398,7 +398,7 @@ const rawProducts = [
         {
                 "id": "pg-13212",
                 "sku": "13212",
-                "name": "ADOLIA. 2",
+                "name": "ADOLIA Pen Case",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Write",
                 "subcategory": "",
@@ -674,7 +674,7 @@ const rawProducts = [
         {
                 "id": "pg-30102",
                 "sku": "30102",
-                "name": "THC LUANDA.",
+                "name": "THC LUANDA Premium Polo Shirt",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Textile",
                 "subcategory": "",
@@ -1040,7 +1040,7 @@ const rawProducts = [
         {
                 "id": "pg-30106",
                 "sku": "30106",
-                "name": "THC SOFIA.",
+                "name": "THC SOFIA Classic Polo Shirt",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Textile",
                 "subcategory": "",
@@ -10129,7 +10129,7 @@ const rawProducts = [
         {
                 "id": "pg-36004",
                 "sku": "36004",
-                "name": "VL HYPNOS. (200 / ), (35%) (65%)",
+                "name": "VL HYPNOS Cargo Pants",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Textile",
                 "subcategory": "",
@@ -20201,7 +20201,7 @@ const rawProducts = [
         {
                 "id": "pg-92083",
                 "sku": "92083",
-                "name": "ISTANBUL. , (70%) (30% rPET) (150 / )",
+                "name": "ISTANBUL Tote Bag - Organic Cotton & rPET (150g/m²)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Bags",
                 "subcategory": "",
@@ -54806,7 +54806,7 @@ const rawProducts = [
         {
                 "id": "pg-11061",
                 "sku": "11061",
-                "name": "Product 11061",
+                "name": "Multi-function Pocket Tool",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Personal & Travel",
                 "subcategory": "",
