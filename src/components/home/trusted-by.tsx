@@ -3,12 +3,12 @@
 import { motion } from 'framer-motion'
 
 const companies = [
-  { name: 'Siemens', sector: 'Technology' },
-  { name: 'Bosch', sector: 'Industrial' },
-  { name: 'Volkswagen', sector: 'Automotive' },
-  { name: 'Schneider Electric', sector: 'Energy' },
-  { name: 'ABB', sector: 'Industrial' },
-  { name: 'Philips', sector: 'Healthcare' },
+  { name: 'TechStart GmbH', sector: 'Technology' },
+  { name: 'Innovate France', sector: 'Events' },
+  { name: 'GlobalTech', sector: 'Technology' },
+  { name: 'Euro Brands', sector: 'Retail' },
+  { name: 'Industrie AG', sector: 'Industrial' },
+  { name: 'Messe Frankfurt', sector: 'Events' },
 ]
 
 function CompanyLogo({ name, sector, index }: { name: string; sector: string; index: number }) {
@@ -17,9 +17,8 @@ function CompanyLogo({ name, sector, index }: { name: string; sector: string; in
   const colors: Record<string, string> = {
     Technology: 'from-blue-500 to-blue-600',
     Industrial: 'from-slate-600 to-slate-700',
-    Automotive: 'from-red-500 to-red-600',
-    Energy: 'from-green-500 to-green-600',
-    Healthcare: 'from-cyan-500 to-cyan-600',
+    Events: 'from-purple-500 to-purple-600',
+    Retail: 'from-orange-500 to-orange-600',
   }
   
   return (
