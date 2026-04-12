@@ -3,7 +3,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { motion } from 'framer-motion'
-import { ShoppingCart, Eye } from 'lucide-react'
+import { Eye, FileText } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
 import { formatPrice, sanitizeProductName } from '@/lib/utils'
 import type { Product } from '@/data/products'
@@ -41,9 +41,12 @@ export function ProductCard({ product }: ProductCardProps) {
           >
             <Eye className="w-5 h-5" />
           </Link>
-          <button className="bg-accent text-white rounded-full p-3 hover:bg-accent/90 transition-colors">
-            <ShoppingCart className="w-5 h-5" />
-          </button>
+          <Link
+            href={`/quote?product=${product.id}`}
+            className="bg-accent text-white rounded-full p-3 hover:bg-accent/90 transition-colors"
+          >
+            <FileText className="w-5 h-5" />
+          </Link>
         </div>
       </div>
 
