@@ -1,3 +1,5 @@
-import { Categories } from './featured-products'
+import { Categories, FeaturedProducts } from './featured-products'
+import { TrustedBy } from './trusted-by'
+import { Benefits } from './benefits'
 
-export { Categories }
+export { Categories, FeaturedProducts, TrustedBy, Benefits }

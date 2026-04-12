@@ -1,9 +1,8 @@
 'use client'
 
 import Link from 'next/link'
-import { motion } from 'framer-motion'
 import { Hero, PromotionsBanner } from '@/components/home/hero'
-import { BrandLogos, ClientLogos, Benefits, Categories, FeaturedProducts } from '@/components/home/categories'
+import { TrustedBy, Benefits, Categories, FeaturedProducts } from '@/components/home/categories'
 import { Button } from '@/components/ui/button'
 import { ArrowRight } from 'lucide-react'
 
@@ -12,7 +11,7 @@ export default function HomePage() {
     <>
       <Hero />
       <PromotionsBanner />
-      <BrandLogos />
+      <TrustedBy />
       <Categories />
       <FeaturedProducts />
       
@@ -42,7 +41,6 @@ export default function HomePage() {
       </section>
 
       <Benefits />
-      <ClientLogos />
     </>
   )
 }
