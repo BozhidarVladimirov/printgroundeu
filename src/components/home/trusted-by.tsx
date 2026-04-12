@@ -3,12 +3,12 @@
 import { motion } from 'framer-motion'
 
 const companies = [
-  { name: 'TechStart GmbH', sector: 'Technology' },
-  { name: 'Innovate France', sector: 'Events' },
-  { name: 'GlobalTech', sector: 'Technology' },
-  { name: 'Euro Brands', sector: 'Retail' },
-  { name: 'Industrie AG', sector: 'Industrial' },
-  { name: 'Messe Frankfurt', sector: 'Events' },
+  { name: 'Nordic Solutions', sector: 'Technology' },
+  { name: 'TechStart GmbH', sector: 'Industrial' },
+  { name: 'Milano Events', sector: 'Events' },
+  { name: 'Euro Brands SA', sector: 'Retail' },
+  { name: 'GlobalTech PL', sector: 'Manufacturing' },
+  { name: 'Innovate France', sector: 'Consulting' },
 ]
 
 function CompanyLogo({ name, sector, index }: { name: string; sector: string; index: number }) {
@@ -19,6 +19,8 @@ function CompanyLogo({ name, sector, index }: { name: string; sector: string; in
     Industrial: 'from-slate-600 to-slate-700',
     Events: 'from-purple-500 to-purple-600',
     Retail: 'from-orange-500 to-orange-600',
+    Manufacturing: 'from-green-600 to-green-700',
+    Consulting: 'from-cyan-500 to-cyan-600',
   }
   
   return (
