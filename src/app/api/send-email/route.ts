@@ -14,29 +14,48 @@ const transporter = nodemailer.createTransport({
 export async function POST(request: Request) {
   try {
     const body = await request.json()
-    const { name, email, company, phone, product, quantity, colors, technique, message } = body
+    const { 
+      contactName, 
+      companyName, 
+      email, 
+      phone, 
+      country,
+      productCategory,
+      productInterest,
+      quantity,
+      brandingTechnique,
+      deadline,
+      budget,
+      additionalInfo
+    } = body
 
     const htmlContent = `
       <h2>New Quote Request</h2>
-      <p><strong>From:</strong> ${name} (${email})</p>
-      <p><strong>Company:</strong> ${company || 'N/A'}</p>
+      <hr />
+      <h3>Contact Information</h3>
+      <p><strong>Name:</strong> ${contactName || 'N/A'}</p>
+      <p><strong>Company:</strong> ${companyName || 'N/A'}</p>
+      <p><strong>Email:</strong> ${email || 'N/A'}</p>
       <p><strong>Phone:</strong> ${phone || 'N/A'}</p>
+      <p><strong>Country:</strong> ${country || 'N/A'}</p>
       <hr />
-      <h3>Product Details</h3>
-      <p><strong>Product:</strong> ${product || 'N/A'}</p>
+      <h3>Product Requirements</h3>
+      <p><strong>Category:</strong> ${productCategory || 'N/A'}</p>
+      <p><strong>Specific Product:</strong> ${productInterest || 'N/A'}</p>
       <p><strong>Quantity:</strong> ${quantity || 'N/A'}</p>
-      <p><strong>Colors:</strong> ${colors || 'N/A'}</p>
-      <p><strong>Branding Technique:</strong> ${technique || 'N/A'}</p>
+      <p><strong>Branding Technique:</strong> ${brandingTechnique || 'N/A'}</p>
+      <p><strong>Deadline:</strong> ${deadline || 'N/A'}</p>
+      <p><strong>Budget:</strong> ${budget || 'N/A'}</p>
       <hr />
-      <h3>Message</h3>
-      <p>${message || 'No message provided'}</p>
+      <h3>Additional Information</h3>
+      <p>${additionalInfo || 'No additional information provided'}</p>
     `
 
     await transporter.sendMail({
       from: `"PrintGround EU" <${process.env.SMTP_USER}>`,
       to: process.env.SMTP_TO || 'info@printground.net',
       replyTo: email,
-      subject: `New Quote Request from ${name}${company ? ` - ${company}` : ''}`,
+      subject: `New Quote Request from ${contactName}${companyName ? ` - ${companyName}` : ''}`,
       html: htmlContent,
     })
 
