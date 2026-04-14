@@ -1,16 +1,6 @@
 import { NextResponse } from 'next/server'
 import nodemailer from 'nodemailer'
 
-const transporter = nodemailer.createTransport({
-  host: process.env.SMTP_HOST,
-  port: Number(process.env.SMTP_PORT) || 465,
-  secure: true,
-  auth: {
-    user: process.env.SMTP_USER,
-    pass: process.env.SMTP_PASS,
-  },
-})
-
 export async function POST(request: Request) {
   try {
     const body = await request.json()
@@ -28,6 +18,33 @@ export async function POST(request: Request) {
       budget,
       additionalInfo
     } = body
+
+    // Check if SMTP is configured
+    if (!process.env.SMTP_HOST || !process.env.SMTP_USER || !process.env.SMTP_PASS) {
+      console.error('SMTP not configured:', {
+        hasHost: !!process.env.SMTP_HOST,
+        hasUser: !!process.env.SMTP_USER,
+        hasPass: !!process.env.SMTP_PASS,
+      })
+      return NextResponse.json({ 
+        error: 'Email service not configured',
+        debug: {
+          hasHost: !!process.env.SMTP_HOST,
+          hasUser: !!process.env.SMTP_USER,
+          hasPass: !!process.env.SMTP_PASS,
+        }
+      }, { status: 500 })
+    }
+
+    const transporter = nodemailer.createTransport({
+      host: process.env.SMTP_HOST,
+      port: Number(process.env.SMTP_PORT) || 465,
+      secure: true,
+      auth: {
+        user: process.env.SMTP_USER,
+        pass: process.env.SMTP_PASS,
+      },
+    })
 
     const htmlContent = `
       <h2>New Quote Request</h2>
@@ -60,8 +77,11 @@ export async function POST(request: Request) {
     })
 
     return NextResponse.json({ success: true })
-  } catch (error) {
+  } catch (error: any) {
     console.error('Email error:', error)
-    return NextResponse.json({ error: 'Failed to send email' }, { status: 500 })
+    return NextResponse.json({ 
+      error: 'Failed to send email',
+      details: error?.message 
+    }, { status: 500 })
   }
 }
