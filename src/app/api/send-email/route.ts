@@ -2,9 +2,6 @@ import { NextResponse } from 'next/server'
 
 export async function POST(request: Request) {
   try {
-    // eslint-disable-next-line @typescript-eslint/no-require-imports
-    const nodemailer = require('nodemailer')
-    
     const body = await request.json()
     const { 
       contactName, 
@@ -21,51 +18,59 @@ export async function POST(request: Request) {
       additionalInfo
     } = body
 
-    if (!process.env.SMTP_HOST || !process.env.SMTP_USER || !process.env.SMTP_PASS) {
+    if (!process.env.SENDGRID_API_KEY) {
       return NextResponse.json({ 
         error: 'Email service not configured'
       }, { status: 500 })
     }
 
-    const transporter = nodemailer.createTransport({
-      host: process.env.SMTP_HOST,
-      port: Number(process.env.SMTP_PORT) || 465,
-      secure: true,
-      auth: {
-        user: process.env.SMTP_USER,
-        pass: process.env.SMTP_PASS,
-      },
-    })
-
-    const htmlContent = `
-      <h2>New Quote Request</h2>
-      <hr />
-      <h3>Contact Information</h3>
-      <p><strong>Name:</strong> ${contactName || 'N/A'}</p>
-      <p><strong>Company:</strong> ${companyName || 'N/A'}</p>
-      <p><strong>Email:</strong> ${email || 'N/A'}</p>
-      <p><strong>Phone:</strong> ${phone || 'N/A'}</p>
-      <p><strong>Country:</strong> ${country || 'N/A'}</p>
-      <hr />
-      <h3>Product Requirements</h3>
-      <p><strong>Category:</strong> ${productCategory || 'N/A'}</p>
-      <p><strong>Specific Product:</strong> ${productInterest || 'N/A'}</p>
-      <p><strong>Quantity:</strong> ${quantity || 'N/A'}</p>
-      <p><strong>Branding Technique:</strong> ${brandingTechnique || 'N/A'}</p>
-      <p><strong>Deadline:</strong> ${deadline || 'N/A'}</p>
-      <p><strong>Budget:</strong> ${budget || 'N/A'}</p>
-      <hr />
-      <h3>Additional Information</h3>
-      <p>${additionalInfo || 'No additional information provided'}</p>
-    `
-
-    await transporter.sendMail({
-      from: `"PrintGround EU" <${process.env.SMTP_USER}>`,
-      to: process.env.SMTP_TO || 'info@printground.net',
-      replyTo: email,
+    const SENDGRID_ENDPOINT = 'https://api.sendgrid.com/v3/mail/send'
+    
+    const data = {
+      personalizations: [{
+        to: [{ email: process.env.SENDGRID_TO || 'info@printground.net' }],
+      }],
+      from: { email: process.env.SENDGRID_FROM || 'info@printground.net', name: 'PrintGround EU' },
+      reply_to: { email: email },
       subject: `New Quote Request from ${contactName}${companyName ? ` - ${companyName}` : ''}`,
-      html: htmlContent,
+      content: [{
+        type: 'text/html',
+        value: `
+          <h2>New Quote Request</h2>
+          <hr />
+          <h3>Contact Information</h3>
+          <p><strong>Name:</strong> ${contactName || 'N/A'}</p>
+          <p><strong>Company:</strong> ${companyName || 'N/A'}</p>
+          <p><strong>Email:</strong> ${email || 'N/A'}</p>
+          <p><strong>Phone:</strong> ${phone || 'N/A'}</p>
+          <p><strong>Country:</strong> ${country || 'N/A'}</p>
+          <hr />
+          <h3>Product Requirements</h3>
+          <p><strong>Category:</strong> ${productCategory || 'N/A'}</p>
+          <p><strong>Specific Product:</strong> ${productInterest || 'N/A'}</p>
+          <p><strong>Quantity:</strong> ${quantity || 'N/A'}</p>
+          <p><strong>Branding Technique:</strong> ${brandingTechnique || 'N/A'}</p>
+          <p><strong>Deadline:</strong> ${deadline || 'N/A'}</p>
+          <p><strong>Budget:</strong> ${budget || 'N/A'}</p>
+          <hr />
+          <h3>Additional Information</h3>
+          <p>${additionalInfo || 'No additional information provided'}</p>
+        `
+      }]
+    }
+
+    const response = await fetch(SENDGRID_ENDPOINT, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${process.env.SENDGRID_API_KEY}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data),
     })
+
+    if (!response.ok) {
+      throw new Error(`SendGrid error: ${response.status}`)
+    }
 
     return NextResponse.json({ success: true })
   } catch (error: any) {
