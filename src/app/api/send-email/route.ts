@@ -1,8 +1,10 @@
 import { NextResponse } from 'next/server'
-import nodemailer from 'nodemailer'
 
 export async function POST(request: Request) {
   try {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const nodemailer = require('nodemailer')
+    
     const body = await request.json()
     const { 
       contactName, 
@@ -19,20 +21,9 @@ export async function POST(request: Request) {
       additionalInfo
     } = body
 
-    // Check if SMTP is configured
     if (!process.env.SMTP_HOST || !process.env.SMTP_USER || !process.env.SMTP_PASS) {
-      console.error('SMTP not configured:', {
-        hasHost: !!process.env.SMTP_HOST,
-        hasUser: !!process.env.SMTP_USER,
-        hasPass: !!process.env.SMTP_PASS,
-      })
       return NextResponse.json({ 
-        error: 'Email service not configured',
-        debug: {
-          hasHost: !!process.env.SMTP_HOST,
-          hasUser: !!process.env.SMTP_USER,
-          hasPass: !!process.env.SMTP_PASS,
-        }
+        error: 'Email service not configured'
       }, { status: 500 })
     }
 
