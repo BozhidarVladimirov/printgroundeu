@@ -90,7 +90,19 @@ export default function QuotePage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setIsSubmitting(true)
-    await new Promise(resolve => setTimeout(resolve, 1500))
+    
+    try {
+      const response = await fetch('/api/send-email', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(form),
+      })
+      
+      if (!response.ok) throw new Error('Failed to send')
+    } catch (error) {
+      console.error('Error sending email:', error)
+    }
+    
     setIsSubmitting(false)
     setIsSubmitted(true)
   }
