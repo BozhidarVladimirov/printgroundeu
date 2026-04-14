@@ -1,3 +1,6 @@
 declare module 'nodemailer' {
-  export default function createTransport(config: any): any
+  const nodemailer: {
+    createTransport: (config: any) => any
+  }
+  export default nodemailer
 }
