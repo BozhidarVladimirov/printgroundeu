@@ -42,12 +42,17 @@ function CatalogContent() {
 
     if (searchQuery) {
       const query = searchQuery.toLowerCase()
-      result = result.filter(p => 
-        p.name.toLowerCase().includes(query) ||
-        p.description.toLowerCase().includes(query) ||
-        p.category.toLowerCase().includes(query) ||
-        p.sku.toLowerCase().includes(query)
-      )
+      result = result.filter(p => {
+        // Search in name and category (not description which has Bulgarian)
+        const nameMatch = p.name.toLowerCase().includes(query)
+        const categoryMatch = p.category.toLowerCase().includes(query)
+        const skuMatch = p.sku.toLowerCase().includes(query)
+        
+        // Search in searchTags if available
+        const tagsMatch = p.searchTags?.some((tag: string) => tag.toLowerCase().includes(query))
+        
+        return nameMatch || categoryMatch || skuMatch || tagsMatch
+      })
     }
 
     if (selectedCategory) {
