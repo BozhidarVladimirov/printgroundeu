@@ -43,13 +43,15 @@ function CatalogContent() {
     if (searchQuery) {
       const query = searchQuery.toLowerCase()
       result = result.filter(p => {
-        // Search in name and category (not description which has Bulgarian)
-        const nameMatch = p.name.toLowerCase().includes(query)
-        const categoryMatch = p.category.toLowerCase().includes(query)
-        const skuMatch = p.sku.toLowerCase().includes(query)
+        const nameLower = p.name.toLowerCase()
+        const categoryLower = p.category.toLowerCase()
+        const skuLower = p.sku.toLowerCase()
+        const tagsLower = (p.searchTags || []).map((t: string) => t.toLowerCase())
         
-        // Search in searchTags if available
-        const tagsMatch = p.searchTags?.some((tag: string) => tag.toLowerCase().includes(query))
+        const nameMatch = nameLower.includes(query)
+        const categoryMatch = categoryLower.includes(query)
+        const skuMatch = skuLower.includes(query)
+        const tagsMatch = tagsLower.some(tag => tag.includes(query))
         
         return nameMatch || categoryMatch || skuMatch || tagsMatch
       })
