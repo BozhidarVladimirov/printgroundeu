@@ -50,6 +50,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
           priority
           onClick={() => setShowLightbox(true)}
           sizes="(max-width: 768px) 100vw, 50vw"
+          unoptimized
         />
 
         {/* Zoom indicator */}
@@ -113,6 +114,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
                 alt={`${productName} thumbnail ${index + 1}`}
                 fill
                 className="object-cover"
+                unoptimized
               />
             </motion.button>
           ))}
@@ -172,6 +174,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
                 alt={`${productName} - Image ${selectedIndex + 1}`}
                 fill
                 className="object-contain"
+                unoptimized
               />
             </motion.div>
 
@@ -193,6 +196,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
                     alt={`Thumbnail ${index + 1}`}
                     fill
                     className="object-cover"
+                    unoptimized
                   />
                 </button>
               ))}
