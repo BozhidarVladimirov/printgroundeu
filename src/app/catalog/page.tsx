@@ -46,14 +46,12 @@ function CatalogContent() {
         const nameLower = p.name.toLowerCase()
         const categoryLower = p.category.toLowerCase()
         const skuLower = p.sku.toLowerCase()
-        const tagsLower = (p.searchTags || []).map((t: string) => t.toLowerCase())
         
         const nameMatch = nameLower.includes(query)
         const categoryMatch = categoryLower.includes(query)
         const skuMatch = skuLower.includes(query)
-        const tagsMatch = tagsLower.some(tag => tag.includes(query))
         
-        return nameMatch || categoryMatch || skuMatch || tagsMatch
+        return nameMatch || categoryMatch || skuMatch
       })
     }
 
