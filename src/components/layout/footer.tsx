@@ -11,9 +11,9 @@ const footerLinks = {
     { label: 'Drinkware', href: '/catalog?category=drinkware' },
     { label: 'Textile & Apparel', href: '/catalog?category=textile' },
     { label: 'Office Supplies', href: '/catalog?category=office' },
-    { label: 'Sports & Outdoor', href: '/catalog?category=sports-&-outdoor' },
+    { label: 'Sports & Outdoor', href: '/catalog?category=Sports%20%26%20Outdoor' },
     { label: 'Writing Instruments', href: '/catalog?category=write' },
-    { label: 'Keychains & Tools', href: '/catalog?category=keychains-&-tools' },
+    { label: 'Keychains & Tools', href: '/catalog?category=Keychains%20%26%20Tools' },
   ],
   services: [
     { label: 'Printing Services', href: '/printing' },
