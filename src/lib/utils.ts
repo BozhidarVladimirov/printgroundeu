@@ -44,7 +44,7 @@ export function getBulkDiscount(quantity: number): number {
 export function sanitizeProductName(name: string): string {
   return name
     .replace(/\s*\.\s*$/, '')
-    .replace(/[^\x00-\x7F]+/g, ' ')
+    .replace(/[^\x00-\x7F\u00B2\u00B3\u00AE]+/g, ' ')
     .replace(/\s{2,}/g, ' ')
     .replace(/\(\s*\)/g, '')
     .trim()
