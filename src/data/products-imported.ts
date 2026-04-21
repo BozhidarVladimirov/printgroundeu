@@ -185,10 +185,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -215,10 +216,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -248,10 +247,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -280,10 +282,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -322,10 +327,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -361,10 +364,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -394,10 +399,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -425,10 +431,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -472,10 +476,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -520,10 +524,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -568,10 +573,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -599,10 +604,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -632,10 +638,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -673,10 +679,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -818,10 +825,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -859,10 +866,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -999,10 +1007,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1040,10 +1048,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1178,10 +1187,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1222,10 +1231,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1350,10 +1360,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1391,10 +1401,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1498,10 +1511,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1539,10 +1554,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1645,10 +1662,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1687,10 +1707,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1783,10 +1805,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1823,10 +1847,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1879,10 +1906,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1919,10 +1949,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1975,10 +2007,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2014,10 +2048,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2067,10 +2104,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2107,10 +2146,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2157,10 +2195,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2197,10 +2234,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2277,10 +2316,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2319,10 +2360,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2396,10 +2439,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2453,10 +2498,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2502,10 +2549,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2625,10 +2674,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2674,10 +2725,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2792,10 +2845,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2840,10 +2895,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2949,10 +3006,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3021,10 +3080,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3067,10 +3125,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3115,10 +3172,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3199,10 +3255,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3247,10 +3304,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3319,10 +3376,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3367,10 +3425,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3435,10 +3493,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3484,10 +3545,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3529,10 +3592,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3583,10 +3648,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3637,10 +3705,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3689,10 +3759,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3743,10 +3812,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3789,10 +3860,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3836,10 +3908,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3941,10 +4012,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4074,10 +4144,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4150,10 +4223,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4223,10 +4298,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4291,10 +4368,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4345,10 +4425,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4403,10 +4486,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4452,10 +4538,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4493,10 +4582,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4603,10 +4694,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4644,10 +4738,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4724,10 +4821,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4771,10 +4871,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4840,10 +4942,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4925,10 +5029,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4971,10 +5078,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5048,10 +5154,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5095,10 +5200,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5172,10 +5277,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5247,10 +5354,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5289,10 +5395,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5338,10 +5445,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5384,10 +5490,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5477,10 +5585,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5548,10 +5658,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5592,10 +5701,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5635,10 +5743,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5679,10 +5788,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5721,10 +5833,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5763,10 +5877,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5805,10 +5922,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5851,10 +5970,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5900,10 +6022,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5945,10 +6069,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6007,10 +6133,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6053,10 +6179,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6104,10 +6230,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6147,10 +6273,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6196,10 +6321,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6246,10 +6370,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6298,10 +6421,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6351,10 +6473,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6405,10 +6527,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6442,10 +6564,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6483,10 +6605,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6528,10 +6649,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6579,10 +6702,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6631,10 +6756,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6687,10 +6812,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6732,10 +6859,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6818,10 +6947,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6864,10 +6995,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6935,10 +7068,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6981,10 +7116,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7061,10 +7198,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7109,10 +7245,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7183,10 +7318,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7233,10 +7367,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7278,10 +7411,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7322,10 +7453,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7359,10 +7488,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7421,10 +7551,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7456,10 +7587,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7515,10 +7647,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7552,10 +7683,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7606,10 +7736,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7659,10 +7790,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7700,10 +7832,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7743,10 +7876,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7797,10 +7931,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7859,10 +7993,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7902,10 +8036,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7940,10 +8073,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7999,10 +8131,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8043,10 +8174,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8102,10 +8234,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8146,10 +8278,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8202,10 +8333,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8242,10 +8374,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8285,10 +8416,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8316,10 +8445,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8359,10 +8487,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8390,10 +8517,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8439,10 +8564,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Lanyards - Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8488,10 +8611,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Lanyards - Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8549,10 +8670,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Lanyards - Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8596,10 +8715,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Lanyards - Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8632,10 +8749,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Lanyards - Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8677,10 +8792,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8711,10 +8826,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8752,10 +8866,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8784,10 +8898,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8825,10 +8937,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8857,10 +8968,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8916,10 +9026,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8954,10 +9063,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8995,10 +9104,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9036,10 +9144,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Laser Engraving",
+					"Rotary Laser"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9073,10 +9181,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9113,10 +9221,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer",
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9166,10 +9277,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9247,10 +9357,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9294,10 +9404,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9362,10 +9471,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9412,10 +9521,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9448,10 +9556,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9482,10 +9589,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9525,10 +9631,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9556,10 +9661,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9598,10 +9702,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9640,10 +9743,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9682,10 +9784,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9726,10 +9827,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9769,10 +9868,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9812,10 +9910,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9853,10 +9951,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9895,10 +9992,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9937,10 +10033,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9979,10 +10073,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10010,10 +10104,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10045,10 +10138,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10136,10 +10229,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10249,10 +10341,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10321,10 +10413,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10386,10 +10478,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10453,10 +10544,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10507,10 +10597,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10562,10 +10651,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10608,10 +10696,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10660,10 +10747,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10763,10 +10849,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10840,10 +10925,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10926,10 +11010,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11021,10 +11104,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11097,10 +11179,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing",
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11138,10 +11220,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11188,10 +11268,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11273,10 +11351,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11358,10 +11435,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11443,10 +11519,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11496,10 +11571,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11547,10 +11620,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11597,10 +11669,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11681,10 +11753,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11764,10 +11835,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11850,10 +11920,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11935,10 +12005,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12019,10 +12089,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12103,10 +12175,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12145,10 +12217,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12188,10 +12259,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12275,10 +12345,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12373,10 +12442,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12417,10 +12485,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12492,10 +12559,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12548,10 +12614,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12592,10 +12657,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12647,10 +12711,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12701,10 +12764,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12749,10 +12813,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12805,10 +12870,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12858,10 +12922,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12910,10 +12973,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12962,10 +13025,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13011,10 +13076,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13063,10 +13130,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13141,10 +13210,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13185,10 +13253,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13216,10 +13284,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13289,10 +13356,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13387,10 +13455,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13432,10 +13501,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13476,10 +13546,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13524,10 +13593,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13565,10 +13633,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13603,10 +13670,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13655,10 +13723,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13717,10 +13785,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13777,10 +13844,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13829,10 +13896,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13879,10 +13945,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13939,10 +14004,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13997,10 +14061,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14048,10 +14110,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14108,10 +14168,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14167,10 +14226,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14229,10 +14289,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14280,10 +14339,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14319,10 +14377,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14357,10 +14414,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14390,10 +14446,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14433,10 +14488,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14467,10 +14521,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14503,10 +14556,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14540,10 +14591,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14576,10 +14625,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14614,10 +14661,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14653,10 +14698,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14689,10 +14736,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14724,10 +14772,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14755,10 +14801,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14783,10 +14829,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14816,10 +14862,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14850,10 +14896,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14892,10 +14938,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14935,10 +14981,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14964,10 +15012,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15005,10 +15053,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15050,10 +15098,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15088,10 +15136,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15126,10 +15174,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15168,10 +15216,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15196,10 +15246,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15232,10 +15282,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15269,10 +15321,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15306,10 +15358,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15354,10 +15406,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15395,10 +15447,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15429,10 +15481,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15463,10 +15515,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15497,10 +15549,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Hot Stamping",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15540,10 +15593,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15576,10 +15628,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15619,10 +15670,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15659,10 +15710,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15705,10 +15755,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15745,10 +15795,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15797,10 +15845,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Hot Stamping",
+					"Laser Engraving",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15839,10 +15890,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15885,10 +15934,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15927,10 +15974,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15967,10 +16012,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16009,10 +16052,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16047,10 +16088,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16097,10 +16136,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16139,10 +16176,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16177,10 +16212,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16217,10 +16250,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16257,10 +16288,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16305,10 +16334,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16345,10 +16372,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16377,10 +16402,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16428,10 +16451,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16473,10 +16494,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16538,10 +16557,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16579,10 +16596,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16621,10 +16636,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16661,10 +16674,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16700,10 +16711,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16737,10 +16746,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16777,10 +16784,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16814,10 +16819,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16852,10 +16855,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16913,10 +16914,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16969,10 +16968,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17021,10 +17018,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17065,10 +17060,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17105,10 +17098,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17156,10 +17147,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17195,10 +17184,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17229,10 +17216,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17276,10 +17261,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17316,10 +17299,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17368,10 +17349,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17402,10 +17381,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17435,10 +17412,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17480,10 +17455,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17526,10 +17499,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17568,10 +17539,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17608,10 +17577,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17642,10 +17609,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17682,10 +17647,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17726,10 +17689,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17766,10 +17727,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17805,10 +17764,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17845,10 +17802,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17877,10 +17832,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17907,10 +17860,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17942,10 +17893,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17978,10 +17927,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18021,10 +17968,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18060,10 +18005,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18092,10 +18035,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18127,10 +18068,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18159,10 +18098,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18192,10 +18129,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18227,10 +18162,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18257,10 +18190,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18289,10 +18220,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18320,10 +18249,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18352,10 +18279,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18381,10 +18306,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18412,10 +18335,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18442,10 +18363,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18477,10 +18396,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18511,10 +18428,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18550,10 +18465,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18585,10 +18498,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18636,10 +18547,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18669,10 +18578,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18709,10 +18616,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18771,10 +18676,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18840,10 +18743,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18880,10 +18781,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18919,10 +18818,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18962,10 +18859,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19003,10 +18898,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19044,10 +18937,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19082,10 +18973,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19123,10 +19012,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19171,10 +19058,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19210,10 +19095,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19257,10 +19140,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19297,10 +19178,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19333,10 +19212,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19365,10 +19242,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19428,10 +19303,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19459,10 +19332,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19496,10 +19367,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19528,10 +19397,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19582,10 +19449,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19633,10 +19498,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19680,10 +19543,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19720,10 +19581,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19754,10 +19613,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19794,10 +19651,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19827,10 +19682,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19858,10 +19711,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19890,10 +19741,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19927,10 +19776,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19963,10 +19810,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20001,10 +19846,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20046,10 +19889,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20079,10 +19920,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20114,10 +19953,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20150,10 +19987,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20199,10 +20034,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20243,10 +20076,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20282,10 +20113,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20328,10 +20157,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20378,10 +20205,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20419,10 +20244,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20456,10 +20279,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20503,10 +20324,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20537,10 +20356,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20575,10 +20392,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20611,10 +20426,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20652,10 +20465,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20688,10 +20499,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20732,10 +20541,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20776,10 +20583,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20813,10 +20618,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20852,10 +20655,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20888,10 +20689,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20925,10 +20724,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20958,10 +20755,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20996,10 +20791,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21029,10 +20822,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21063,10 +20854,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21102,10 +20891,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21140,10 +20927,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21178,10 +20963,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21221,10 +21004,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21257,10 +21038,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21295,10 +21074,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21332,10 +21109,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21383,10 +21158,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21420,10 +21193,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21459,10 +21230,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21499,10 +21268,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21565,10 +21332,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21616,10 +21381,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21661,10 +21424,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21707,10 +21468,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21738,10 +21497,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21773,10 +21530,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21807,10 +21562,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21841,10 +21594,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21882,10 +21633,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21927,10 +21676,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21973,10 +21720,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22027,10 +21772,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22076,10 +21819,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22119,10 +21860,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22154,10 +21893,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22191,10 +21928,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22230,10 +21965,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22269,10 +22002,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22304,10 +22035,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22337,10 +22066,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22372,10 +22099,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22404,10 +22129,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22437,10 +22160,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22468,10 +22189,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22510,10 +22229,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22546,10 +22263,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22599,10 +22314,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22644,10 +22357,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22688,10 +22399,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22726,10 +22435,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22780,10 +22487,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22821,10 +22526,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22860,10 +22563,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22901,10 +22602,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22936,10 +22635,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22977,10 +22674,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23011,10 +22706,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23045,10 +22738,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23090,10 +22781,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23127,10 +22816,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23163,10 +22850,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23198,10 +22883,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23234,10 +22917,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23267,10 +22948,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23302,10 +22981,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23336,10 +23013,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23403,10 +23078,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23453,10 +23126,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23492,10 +23163,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23532,10 +23201,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23567,10 +23234,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23608,10 +23273,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23642,10 +23305,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23676,10 +23337,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23711,10 +23370,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23746,10 +23403,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23782,10 +23437,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23818,10 +23471,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23849,10 +23500,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23881,10 +23530,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23922,10 +23569,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23959,10 +23604,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23996,10 +23639,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24032,10 +23673,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24068,10 +23707,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24107,10 +23744,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24142,10 +23777,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24178,10 +23811,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24223,10 +23854,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24264,10 +23893,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24310,10 +23937,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24343,10 +23968,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24380,10 +24003,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24430,10 +24051,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24470,10 +24089,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24507,10 +24124,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24544,10 +24159,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24580,10 +24193,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24610,10 +24221,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24666,10 +24275,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24700,10 +24307,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24734,10 +24339,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24768,10 +24371,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24807,10 +24408,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24849,10 +24448,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24882,10 +24479,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24913,10 +24508,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24946,10 +24539,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24992,10 +24583,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25037,10 +24626,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25073,10 +24660,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25111,10 +24696,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25148,10 +24731,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25191,10 +24772,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25227,10 +24806,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25269,10 +24846,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25302,10 +24877,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25337,10 +24910,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25376,10 +24947,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25410,10 +24979,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25457,10 +25024,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25494,10 +25059,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25531,10 +25094,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25564,10 +25125,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25596,10 +25155,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25626,10 +25183,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25657,10 +25212,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25688,10 +25241,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25719,10 +25270,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25752,10 +25301,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25782,10 +25329,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25814,10 +25359,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25845,10 +25388,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25885,10 +25426,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25917,10 +25456,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25956,10 +25493,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26006,10 +25541,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26053,10 +25586,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26104,10 +25635,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26161,10 +25690,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26201,10 +25728,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26249,10 +25774,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26286,10 +25809,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26334,10 +25855,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26376,10 +25895,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26436,10 +25953,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26475,10 +25990,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26511,10 +26024,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26554,10 +26065,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26596,10 +26105,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26641,10 +26148,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26683,10 +26188,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26717,10 +26220,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26750,10 +26251,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26794,10 +26293,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26830,10 +26327,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26866,10 +26361,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26910,10 +26403,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26949,10 +26440,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26989,10 +26478,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27021,10 +26508,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27058,10 +26543,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27099,10 +26582,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27140,10 +26621,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27176,10 +26655,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27214,10 +26691,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27253,10 +26728,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27289,10 +26762,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27321,10 +26792,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27356,10 +26825,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27396,10 +26863,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27429,10 +26895,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Digital Transfer",
+					"Transfer",
+					"Digital Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27466,10 +26934,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27513,10 +26979,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27556,10 +27020,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27588,10 +27051,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27622,10 +27086,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer",
+					"Hot Stamping"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27658,10 +27124,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27698,10 +27164,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27752,10 +27219,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Hot Stamping",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27783,10 +27252,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer",
+					"Hot Stamping"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27813,10 +27284,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27848,10 +27319,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Hot Stamping",
+					"Laser Engraving",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27892,10 +27366,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27938,10 +27411,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27974,10 +27448,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28007,10 +27483,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28040,10 +27518,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Hot Stamping",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28073,10 +27553,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28107,10 +27587,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28141,10 +27622,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28174,10 +27655,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Hot Stamping",
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28208,10 +27688,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing - High Temperature",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28241,10 +27720,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing - High Temperature",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28339,10 +27817,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing - High Temperature",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28368,10 +27846,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28398,10 +27874,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28436,10 +27910,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28468,10 +27940,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28502,10 +27973,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28536,10 +28006,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing",
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28572,10 +28042,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing - High Temperature",
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28606,10 +28076,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Dye-Sublimation"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28667,10 +28136,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28696,10 +28164,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28729,10 +28197,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28759,10 +28226,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28790,10 +28255,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing",
+					"Pad Printing",
+					"Sandblasting"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28823,10 +28288,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing",
+					"Pad Printing",
+					"Sandblasting"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28852,10 +28317,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28885,10 +28350,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28914,10 +28380,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28952,10 +28418,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29001,10 +28469,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29035,10 +28503,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29070,10 +28537,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29102,10 +28569,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29137,10 +28603,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29165,10 +28630,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29218,10 +28685,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Dye-Sublimation"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29254,10 +28720,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29301,10 +28766,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29343,10 +28809,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29381,10 +28848,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing",
+					"Screen Printing",
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29413,10 +28880,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29455,10 +28922,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29494,10 +28960,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29530,10 +28996,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29578,10 +29043,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29610,10 +29074,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29650,10 +29112,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29687,10 +29147,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29725,10 +29183,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29769,10 +29227,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29812,10 +29269,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29849,10 +29304,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29886,10 +29341,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29925,10 +29378,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29960,10 +29412,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29993,10 +29444,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30040,10 +29490,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30081,10 +29530,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30118,10 +29565,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30150,10 +29595,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30184,10 +29628,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30216,10 +29662,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30254,10 +29699,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30288,10 +29736,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30329,10 +29779,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30366,10 +29816,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30408,10 +29856,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30439,10 +29885,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30476,10 +29923,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30512,10 +29958,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30547,10 +29993,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30579,10 +30026,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30649,10 +30095,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30723,10 +30171,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Pad Printing",
+					"Screen Printing",
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30758,10 +30208,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30803,10 +30253,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30847,10 +30297,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Cylindrical UV",
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30880,10 +30331,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30919,10 +30370,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30952,10 +30403,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30988,10 +30439,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31029,10 +30480,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31064,10 +30515,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31100,10 +30549,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31131,10 +30578,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31165,10 +30611,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Firing - High Temperature",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31199,10 +30644,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31233,10 +30678,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31263,10 +30707,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31302,10 +30745,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31346,10 +30788,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31383,10 +30823,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31418,10 +30858,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Rotary Laser",
+					"Laser Engraving",
+					"Screen Printing",
+					"Cylindrical UV"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31450,10 +30892,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31485,10 +30925,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31516,10 +30954,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Pad Printing",
+					"Digital Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31546,10 +30985,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31584,10 +31023,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31613,10 +31052,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31644,10 +31082,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31677,10 +31113,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31707,10 +31142,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31744,10 +31178,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31777,10 +31211,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31811,10 +31243,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31849,10 +31280,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31886,10 +31319,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31919,10 +31351,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31953,10 +31384,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31988,10 +31417,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32024,10 +31451,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32059,10 +31484,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32091,10 +31515,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32124,10 +31547,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32157,10 +31579,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32190,10 +31611,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32222,10 +31641,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32257,10 +31674,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32293,10 +31708,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32329,10 +31743,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32358,10 +31771,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32395,10 +31806,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32445,10 +31854,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32496,10 +31904,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32530,10 +31936,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32570,10 +31975,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32612,10 +32017,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Digital Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32649,10 +32054,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32679,10 +32083,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32724,10 +32126,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32760,10 +32161,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Laser Engraving",
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32795,10 +32197,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Laser Engraving",
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32826,10 +32229,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32860,10 +32262,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32894,10 +32296,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Pad Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32928,10 +32331,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32974,10 +32377,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33006,10 +32407,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Screen Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33046,10 +32447,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33085,10 +32484,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33114,10 +32513,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33151,10 +32549,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33184,10 +32581,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33219,10 +32616,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33253,10 +32650,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33288,10 +32684,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33321,10 +32715,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33352,10 +32746,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Stickers",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33381,10 +32775,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33419,10 +32812,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33447,10 +32840,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33476,10 +32868,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33513,10 +32904,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33551,10 +32940,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33594,10 +32981,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33628,10 +33015,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33665,10 +33051,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33719,10 +33105,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33757,10 +33143,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33799,10 +33183,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33833,10 +33215,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33866,10 +33246,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33905,10 +33285,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33944,10 +33324,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33980,10 +33358,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34018,10 +33397,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34054,10 +33432,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34088,10 +33465,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34125,10 +33501,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34161,10 +33536,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34195,10 +33569,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34225,10 +33598,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34266,10 +33638,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34304,10 +33675,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34338,10 +33710,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34377,10 +33748,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34422,10 +33791,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34459,10 +33826,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34492,10 +33859,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34532,10 +33899,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34569,10 +33934,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34600,10 +33964,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34633,10 +33996,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34664,10 +34026,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34750,10 +34113,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34788,10 +34150,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34836,10 +34197,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34881,10 +34243,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34928,10 +34289,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34962,10 +34322,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34997,10 +34358,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35053,10 +34414,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35095,10 +34457,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35140,10 +34503,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35181,10 +34545,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35217,10 +34582,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35260,10 +34626,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35294,10 +34661,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35334,10 +34702,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35366,10 +34734,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35404,10 +34773,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing",
+					"Embroidery",
+					"3D Embroidery"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35437,10 +34806,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35473,10 +34843,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35509,10 +34878,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35546,10 +34914,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35583,10 +34950,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35618,10 +34986,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35650,10 +35019,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35682,10 +35051,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35717,10 +35086,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35749,10 +35118,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35780,10 +35149,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35816,10 +35185,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35853,10 +35222,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35889,10 +35258,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35925,10 +35294,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35960,10 +35328,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35990,10 +35358,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36023,10 +35391,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36060,10 +35426,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36090,10 +35455,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36124,10 +35490,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36158,10 +35525,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36191,10 +35559,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36230,10 +35599,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36261,10 +35629,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36301,10 +35670,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36349,10 +35719,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36394,10 +35765,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36429,10 +35802,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36463,10 +35837,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36495,10 +35871,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36536,10 +35914,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36575,10 +35955,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36609,10 +35991,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36652,10 +36034,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36684,10 +36067,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36716,10 +36100,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36754,10 +36137,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36797,10 +36178,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36847,10 +36227,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36890,10 +36269,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing",
+					"Rotary Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36924,10 +36303,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36961,10 +36340,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36995,10 +36372,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37045,10 +36422,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37077,10 +36453,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37115,10 +36491,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37151,10 +36527,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37183,10 +36558,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37218,10 +36591,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37251,10 +36622,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37294,10 +36664,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37342,10 +36712,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37386,10 +36757,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37426,10 +36798,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37459,10 +36830,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37493,10 +36867,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37531,10 +36907,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37565,10 +36939,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37606,10 +36978,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37643,10 +37014,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37681,10 +37051,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37716,10 +37084,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37750,10 +37117,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56989,10 +56357,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58212,10 +57578,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Doming",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59207,10 +58572,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59609,10 +58974,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59638,10 +59005,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59676,10 +59044,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59951,10 +59320,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61026,10 +60394,13 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"DTG",
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61078,10 +60449,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61152,10 +60525,12 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Embroidery",
+					"3D Embroidery",
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61236,10 +60611,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61264,10 +60637,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61293,10 +60664,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61349,10 +60718,8 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Stickers"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61460,10 +60827,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61491,10 +60857,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Printing",
+					"Pad Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61551,10 +60916,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61809,10 +61173,9 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Laser Engraving",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61974,10 +61337,11 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Rotary Laser",
+					"Laser Engraving",
+					"Pad Printing",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -62193,10 +61557,10 @@ const rawProducts = [
                 ],
                 "brandingZones": [],
                 "availableTechniques": [
-                        "Screen Printing",
-                        "Digital Printing",
-                        "Embroidery"
-                ],
+					"Digital Transfer",
+					"Transfer",
+					"Screen Printing"
+				],
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
