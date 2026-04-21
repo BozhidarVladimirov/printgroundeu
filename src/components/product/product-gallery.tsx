@@ -15,18 +15,25 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
   const [selectedIndex, setSelectedIndex] = useState(0)
   const [showLightbox, setShowLightbox] = useState(false)
 
+  const displayImages = (images && images.length > 0) ? images : []
+
   const goToPrevious = () => {
-    setSelectedIndex((prev) => (prev === 0 ? images.length - 1 : prev - 1))
+    setSelectedIndex((prev) => (prev === 0 ? displayImages.length - 1 : prev - 1))
   }
 
   const goToNext = () => {
-    setSelectedIndex((prev) => (prev === images.length - 1 ? 0 : prev + 1))
+    setSelectedIndex((prev) => (prev === displayImages.length - 1 ? 0 : prev + 1))
   }
 
-  if (!images || images.length === 0) {
+  if (displayImages.length === 0) {
     return (
       <div className="aspect-square bg-gray-100 rounded-xl flex items-center justify-center">
-        <p className="text-gray-400">No image available</p>
+        <div className="text-center">
+          <div className="w-16 h-16 bg-gray-200 rounded-full flex items-center justify-center mx-auto mb-3">
+            <span className="text-2xl text-gray-400">📦</span>
+          </div>
+          <p className="text-gray-400">No image available</p>
+        </div>
       </div>
     )
   }
@@ -36,7 +43,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
       {/* Main Image */}
       <div className="relative aspect-square bg-gray-100 rounded-xl overflow-hidden group">
         <Image
-          src={images[selectedIndex]}
+          src={displayImages[selectedIndex]}
           alt={`${productName} - Image ${selectedIndex + 1}`}
           fill
           className="object-cover cursor-pointer"
@@ -44,7 +51,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
           onClick={() => setShowLightbox(true)}
           sizes="(max-width: 768px) 100vw, 50vw"
         />
-        
+
         {/* Zoom indicator */}
         <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors flex items-center justify-center">
           <div className="bg-white/90 rounded-full p-3 opacity-0 group-hover:opacity-100 transition-opacity">
@@ -53,7 +60,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
         </div>
 
         {/* Navigation Arrows */}
-        {images.length > 1 && (
+        {displayImages.length > 1 && (
           <>
             <button
               onClick={goToPrevious}
@@ -74,8 +81,8 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
 
         {/* Image Counter */}
         <div className="absolute bottom-4 left-1/2 -translate-x-1/2 bg-black/50 text-white text-sm px-3 py-1 rounded-full flex items-center gap-2">
-          <span>{selectedIndex + 1} / {images.length}</span>
-          <button 
+          <span>{selectedIndex + 1} / {displayImages.length}</span>
+          <button
             onClick={() => setShowLightbox(true)}
             className="p-1 hover:bg-white/20 rounded"
             aria-label="View all images"
@@ -86,9 +93,9 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
       </div>
 
       {/* Thumbnails */}
-      {images.length > 1 && (
+      {displayImages.length > 1 && (
         <div className="flex gap-3 overflow-x-auto pb-2 scrollbar-hide">
-          {images.map((image, index) => (
+          {displayImages.map((image, index) => (
             <motion.button
               key={index}
               onClick={() => setSelectedIndex(index)}
@@ -96,8 +103,8 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
               whileTap={{ scale: 0.95 }}
               className={cn(
                 'relative w-20 h-20 flex-shrink-0 rounded-lg overflow-hidden border-2 transition-all',
-                selectedIndex === index 
-                  ? 'border-accent ring-2 ring-accent/20' 
+                selectedIndex === index
+                  ? 'border-accent ring-2 ring-accent/20'
                   : 'border-gray-200 hover:border-gray-300'
               )}
             >
@@ -132,7 +139,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
             </button>
 
             {/* Navigation */}
-            {images.length > 1 && (
+            {displayImages.length > 1 && (
               <>
                 <button
                   onClick={(e) => { e.stopPropagation(); goToPrevious() }}
@@ -161,7 +168,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
               onClick={(e) => e.stopPropagation()}
             >
               <Image
-                src={images[selectedIndex]}
+                src={displayImages[selectedIndex]}
                 alt={`${productName} - Image ${selectedIndex + 1}`}
                 fill
                 className="object-contain"
@@ -170,14 +177,14 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
 
             {/* Thumbnail strip */}
             <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2 p-4 bg-black/50 rounded-xl max-w-[90vw] overflow-x-auto">
-              {images.map((image, index) => (
+              {displayImages.map((image, index) => (
                 <button
                   key={index}
                   onClick={(e) => { e.stopPropagation(); setSelectedIndex(index) }}
                   className={cn(
                     'relative w-16 h-16 flex-shrink-0 rounded-lg overflow-hidden border-2 transition-all',
-                    selectedIndex === index 
-                      ? 'border-white ring-2 ring-white/50' 
+                    selectedIndex === index
+                      ? 'border-white ring-2 ring-white/50'
                       : 'border-transparent opacity-60 hover:opacity-100'
                   )}
                 >
@@ -193,7 +200,7 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
 
             {/* Counter */}
             <div className="absolute top-4 left-1/2 -translate-x-1/2 bg-black/50 text-white px-4 py-2 rounded-full">
-              {selectedIndex + 1} / {images.length}
+              {selectedIndex + 1} / {displayImages.length}
             </div>
           </motion.div>
         )}
