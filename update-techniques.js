@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const techniquesJson = fs.readFileSync('./techniques-result.json', 'utf8');
+const techniquesJson = fs.readFileSync('./correct-techniques.json', 'utf8');
 const techniquesData = JSON.parse(techniquesJson);
 
 const productsFile = './src/data/products-imported.ts';
@@ -29,26 +29,18 @@ function normalizeTechnique(tech) {
   return techniqueMapping[tech] || tech;
 }
 
-function getBaseSku(sku) {
-  const dashIndex = sku.indexOf('-');
-  return dashIndex > 0 ? sku.substring(0, dashIndex) : sku;
-}
-
 const baseSkuToTechniques = {};
 for (const [fullSku, techs] of Object.entries(techniquesData)) {
-  const baseSku = getBaseSku(fullSku);
+  const dashIndex = fullSku.indexOf('-');
+  const baseSku = dashIndex > 0 ? fullSku.substring(0, dashIndex) : fullSku;
+
   if (!baseSkuToTechniques[baseSku]) {
     baseSkuToTechniques[baseSku] = new Set();
   }
   techs.forEach(t => {
-    if (typeof t === 'string') {
-      t.split(',').forEach(s => {
-        const trimmed = s.trim();
-        if (trimmed) {
-          const normalized = normalizeTechnique(trimmed);
-          if (normalized) baseSkuToTechniques[baseSku].add(normalized);
-        }
-      });
+    if (typeof t === 'string' && t.trim()) {
+      const normalized = normalizeTechnique(t.trim());
+      if (normalized) baseSkuToTechniques[baseSku].add(normalized);
     }
   });
 }
@@ -57,8 +49,8 @@ Object.keys(baseSkuToTechniques).forEach(sku => {
   baseSkuToTechniques[sku] = Array.from(baseSkuToTechniques[sku]);
 });
 
-console.log('Sample baseSkuToTechniques:');
-console.log('11031:', baseSkuToTechniques['11031']);
+console.log('Total base SKUs with techniques:', Object.keys(baseSkuToTechniques).length);
+console.log('Sample:', '11081:', baseSkuToTechniques['11081']);
 
 const skuRegex = /"sku": "(\d+)"/g;
 let match;
@@ -71,10 +63,10 @@ while ((match = skuRegex.exec(productsContent)) !== null) {
   });
 }
 
-console.log('Total SKUs found:', skuPositions.length);
-console.log('First 5 SKUs:', skuPositions.slice(0, 5).map(s => s.sku));
+console.log('Total SKUs in products file:', skuPositions.length);
 
 let updateCount = 0;
+let noTechCount = 0;
 
 for (const { sku, index } of skuPositions) {
   const techniques = baseSkuToTechniques[sku];
@@ -91,10 +83,13 @@ for (const { sku, index } of skuPositions) {
 
     productsContent = productsContent.replace(oldTechBlock, newTechBlock);
     updateCount++;
+  } else {
+    noTechCount++;
   }
 }
 
 console.log('Updated:', updateCount, 'products');
+console.log('No techniques found:', noTechCount, 'products');
 
 fs.writeFileSync(productsFile, productsContent);
 console.log('Done!');
