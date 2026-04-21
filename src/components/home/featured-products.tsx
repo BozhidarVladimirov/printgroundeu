@@ -10,7 +10,7 @@ import { Button } from '@/components/ui/button'
 function cleanProductName(name: string): string {
   return name
     .replace(/\s*\.\s*$/, '')
-    .replace(/[^\x00-\x7F]+/g, ' ')
+    .replace(/[^\x00-\x7F²³®™]+/g, ' ')
     .replace(/\s{2,}/g, ' ')
     .replace(/\(\s*\)/g, '')
     .trim()
