@@ -19,7 +19,6 @@ const footerLinks = {
     { label: 'Printing Services', href: '/printing' },
     { label: 'Get a Quote', href: '/quote' },
     { label: 'Design Support', href: '/contact' },
-    { label: 'Sample Requests', href: '/contact' },
     { label: 'Bulk Orders', href: '/contact' },
   ],
   company: [
