@@ -46,12 +46,28 @@ function CatalogContent() {
         const nameLower = p.name.toLowerCase()
         const categoryLower = p.category.toLowerCase()
         const skuLower = p.sku.toLowerCase()
-        
+        const tagsLower = (p.searchTags || []).join(' ').toLowerCase()
+
         const nameMatch = nameLower.includes(query)
         const categoryMatch = categoryLower.includes(query)
         const skuMatch = skuLower.includes(query)
-        
-        return nameMatch || categoryMatch || skuMatch
+        const tagsMatch = tagsLower.includes(query)
+
+        const queryWords = query.replace(/[-_\s]/g, ' ').split(' ').filter(w => w.length > 1)
+        const categoryAliasMatch = (
+          (queryWords.some(w => ['pen', 'pencil', 'marker', 'ballpoint'].includes(w)) && categoryLower === 'write') ||
+          (queryWords.some(w => ['bag', 'backpack', 'trolley', 'rucksack', 'cotton'].includes(w)) && categoryLower === 'bags') ||
+          (queryWords.some(w => ['tshirt', 'shirt', 'polo', 'hoodie', 'jacket', 'sweatshirt', 'cap', 'hat', 'beanie', 'sock'].includes(w)) && categoryLower === 'textile') ||
+          (queryWords.some(w => ['umbrella'].includes(w)) && categoryLower === 'sports & outdoor') ||
+          (queryWords.some(w => ['mug', 'cup', 'bottle', 'water', 'thermos', 'flask', 'glass'].includes(w)) && categoryLower === 'drinkware') ||
+          (queryWords.some(w => ['usb', 'flash', 'drive', 'powerbank', 'charger', 'cable', 'speaker', 'earphone', 'headphone', 'mouse', 'keyboard'].includes(w)) && categoryLower === 'technology') ||
+          (queryWords.some(w => ['key', 'keychain', 'tool', 'multitool', 'knife', 'lighter'].includes(w)) && categoryLower === 'keychains & tools') ||
+          (queryWords.some(w => ['toy', 'game', 'gift', 'xmas', 'christmas', 'kids', 'balloon'].includes(w)) && categoryLower === 'kids & xmas') ||
+          (queryWords.some(w => ['notebook', 'notepad', 'diary', 'folder', 'binder', 'organizer'].includes(w)) && categoryLower === 'office') ||
+          (queryWords.some(w => ['travel', 'luggage', 'wallet', 'passport', 'pillow', 'mirror'].includes(w)) && categoryLower === 'personal & travel')
+        )
+
+        return nameMatch || categoryMatch || skuMatch || tagsMatch || categoryAliasMatch
       })
     }
 

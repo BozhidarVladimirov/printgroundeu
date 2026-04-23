@@ -30,10 +30,11 @@ export function getProductById(id: string) {
 
 export function searchProducts(query: string) {
   const q = query.toLowerCase()
-  return products.filter(p => 
+  return products.filter(p =>
     p.name.toLowerCase().includes(q) ||
     p.description.toLowerCase().includes(q) ||
-    p.sku.toLowerCase().includes(q)
+    p.sku.toLowerCase().includes(q) ||
+    p.category.toLowerCase().includes(q)
   )
 }
 
