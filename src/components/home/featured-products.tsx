@@ -39,7 +39,9 @@ const getFeaturedProducts = () => {
     .map(p => ({
       ...p,
       name: cleanProductName(p.name),
-      description: categoryDescriptions[p.category] || 'Premium corporate merchandise for your brand.',
+      description: p.sku === '13212'
+        ? 'Elegant pen case — perfect for gifting and premium corporate branding.'
+        : categoryDescriptions[p.category] || 'Premium corporate merchandise for your brand.',
     }))
 }
 

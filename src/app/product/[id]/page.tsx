@@ -21,6 +21,20 @@ const techniqueIcons: Record<string, typeof Printer> = {
   'Sublimation': Palette,
 }
 
+const categoryDescriptions: Record<string, string> = {
+  'Technology': 'Modern tech accessory with your logo — practical and memorable.',
+  'Bags': 'Durable bag with ample storage, perfect for everyday corporate use.',
+  'Textile': 'Premium quality apparel for events, workwear and brand promotion.',
+  'Office': 'Professional office essential with elegant branding possibilities.',
+  'Drinkware': 'Quality drinkware that keeps your brand top-of-mind all day.',
+  'Keychains & Tools': 'Compact and practical — a cost-effective branded giveaway.',
+  'Write': 'Smooth-writing instrument, ideal for corporate branding and office use.',
+  'Sports & Outdoor': 'Performance gear for active lifestyles — your brand on the move.',
+  'Personal & Travel': 'Travel companion that represents your brand wherever you go.',
+  'Kids & Xmas': 'Fun and festive items perfect for seasonal promotions and events.',
+  'Other': 'Unique branded merchandise to make your business stand out.',
+}
+
 export default function ProductPage({ params }: { params: { id: string } }) {
   const { id } = params
   const product = getProductById(id)
@@ -90,7 +104,11 @@ export default function ProductPage({ params }: { params: { id: string } }) {
               {/* Product Details Tab */}
               <div>
                 <h3 className="text-lg font-semibold mb-4">Product Information</h3>
-                <p className="text-gray-600 mb-6">{product.description}</p>
+                <p className="text-gray-600 mb-6">
+                  {product.description?.trim() && !product.description.includes('High-quality promotional product')
+                    ? product.description
+                    : categoryDescriptions[product.category?.toLowerCase()] || "High-quality branded merchandise for corporate use."}
+                </p>
                 
                 {/* SKU */}
                 <div className="mb-4">

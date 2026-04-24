@@ -145,7 +145,9 @@ export const techniques: Technique[] = [
     { "id": "2", "name": "Digital Printing", "description": "Ideal for complex, full-color designs and photographs", "priceModifier": 1.2 },
     { "id": "3", "name": "Embroidery", "description": "Premium finish for textiles with a professional look", "priceModifier": 1.5 },
     { "id": "4", "name": "Laser Engraving", "description": "Durable marking for metal, wood, and plastic items", "priceModifier": 1.3 },
-    { "id": "5", "name": "UV Printing", "description": "High-quality full-color printing on various materials", "priceModifier": 1.4 }
+    { "id": "5", "name": "UV Printing", "description": "High-quality full-color printing on various materials", "priceModifier": 1.4 },
+    { "id": "6", "name": "Digital Transfer", "description": "Full-color digital transfer. Ideal for complex logos and gradients.", "priceModifier": 1.15 },
+    { "id": "7", "name": "Transfer", "description": "Heat transfer printing. Works on most fabric types, durable finish.", "priceModifier": 1.1 }
 ]
 
 export const trustStats: TrustStat[] = [
@@ -184,13 +186,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/11003_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -216,9 +212,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/11031_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -247,13 +241,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/11070_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -281,14 +269,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/11078_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -326,10 +307,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/11081_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -364,12 +342,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/11083_127.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -398,12 +371,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/11087_109.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -430,9 +398,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/13212_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -475,13 +441,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/14000_390.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -525,12 +485,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/14001_390.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -574,10 +529,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/14002_390.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -604,12 +556,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/23087_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -638,14 +585,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/23200_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -682,12 +622,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30101_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -828,11 +763,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30102_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -869,12 +800,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30103_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1010,11 +936,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/30104_123-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1051,12 +973,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30105_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1190,11 +1107,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30106_1_4_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1234,12 +1147,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30107_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1363,11 +1271,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30108_1_4_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1404,14 +1308,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30109_1_1_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1514,13 +1411,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30110_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1557,9 +1448,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30111_1_1_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1661,13 +1550,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30112_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1705,14 +1588,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30113_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1804,13 +1680,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30114_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1846,12 +1716,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30115_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1903,11 +1768,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30116_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -1943,12 +1804,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30117_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2000,11 +1856,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30118_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2039,12 +1891,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30119_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2093,11 +1940,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30120_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2133,12 +1976,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30121_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2184,11 +2022,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/30122_194-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2224,12 +2058,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30123_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2305,11 +2134,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30124_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2347,12 +2172,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30125_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2425,11 +2245,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/30126_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2482,14 +2298,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30127_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2534,14 +2343,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/30130_1_4_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2660,13 +2462,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30131_1_4_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2711,13 +2507,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30132_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2831,13 +2621,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30133_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2881,14 +2665,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30134_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -2993,13 +2770,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30135_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3067,13 +2838,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30137_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3115,14 +2880,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30138_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3166,14 +2924,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30140_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3253,13 +3004,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30141_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3303,9 +3048,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30142_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3373,13 +3116,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30143_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3423,14 +3160,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30144_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3494,13 +3224,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30145_1_3_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3545,10 +3269,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30149_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3589,10 +3310,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30150_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3642,13 +3360,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30151_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3698,13 +3410,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30152_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3752,13 +3458,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30153_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3808,13 +3508,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30154_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3856,13 +3550,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30157_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -3905,13 +3593,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30158_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4012,13 +3694,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30159_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4147,13 +3823,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30160_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4225,13 +3895,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30161_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4300,13 +3964,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30162_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4370,13 +4028,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30163_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4426,10 +4078,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30164_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4483,10 +4132,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30165_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4531,10 +4177,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30166_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4571,12 +4214,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30168_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4682,11 +4320,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30169_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4723,12 +4357,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30170_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4804,11 +4433,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30171_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4851,14 +4476,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30172_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -4923,13 +4541,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30173_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5010,13 +4622,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30174_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5058,14 +4664,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30175_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5138,13 +4737,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30176_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5187,10 +4780,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30177_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5263,12 +4853,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/30180_1_4_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5339,12 +4924,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30181_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5382,10 +4962,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30182_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5430,10 +5007,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30183_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5475,14 +5049,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30187_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5571,13 +5138,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30188_1_4_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5644,13 +5205,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30189_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5690,14 +5245,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30194_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5736,14 +5284,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30195_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5783,14 +5324,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/30196_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5828,14 +5362,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30197_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5873,13 +5400,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30200_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5917,14 +5438,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30201_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -5966,14 +5480,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30202_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6018,14 +5525,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30203_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6066,13 +5566,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30206_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6130,13 +5624,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30208_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6178,14 +5666,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30209_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6232,10 +5713,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30246_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6274,10 +5752,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30247_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6322,11 +5797,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30248_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6372,13 +5843,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30249_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6426,10 +5891,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30251_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6478,12 +5940,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30252_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6533,13 +5990,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/30253_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6572,10 +6023,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30254_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6612,13 +6060,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30256_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6659,13 +6101,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30257_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6712,10 +6148,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30258_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6763,10 +6196,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30259_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6818,12 +6248,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30260_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6864,14 +6289,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30261_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -6953,13 +6371,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30262_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7001,14 +6413,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30263_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7075,13 +6480,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/30264_129-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7123,14 +6522,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30265_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7206,13 +6598,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30266_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7256,10 +6642,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30267_1_2_6.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7329,13 +6712,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30268_1_3_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7381,11 +6758,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30269_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7426,11 +6799,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30270_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7470,11 +6839,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30271_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7507,11 +6872,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30272_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7569,10 +6930,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30273_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7603,10 +6961,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30274_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7661,10 +7016,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30275_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7697,10 +7049,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/30276_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7750,11 +7099,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30277_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7803,11 +7148,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30278_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7844,11 +7185,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30279_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7887,10 +7224,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30280_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -7940,10 +7274,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30281_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8001,13 +7332,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30287_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8046,13 +7371,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30288_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8086,11 +7405,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30289_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8145,13 +7460,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30290_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8191,13 +7500,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30291_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8252,13 +7555,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30292_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8298,13 +7595,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30293_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8356,13 +7647,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30294_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8398,13 +7683,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30295_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8443,10 +7722,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30296_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8473,10 +7749,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30297_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8515,10 +7788,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30298_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8545,10 +7815,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30299_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8593,9 +7860,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/30300_134-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8640,9 +7905,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/30301_134-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8699,12 +7962,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30302_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8747,12 +8005,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30303_2_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8784,12 +8037,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30304_2_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8830,10 +8078,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30305_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8863,10 +8108,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30306_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8903,12 +8145,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30307_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8936,12 +8173,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30308_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -8978,12 +8210,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30309_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9011,12 +8238,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30310_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9071,11 +8293,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30311_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9109,11 +8327,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30312_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9150,10 +8364,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30313_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9190,10 +8401,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30314_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9226,10 +8434,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/30315_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9265,12 +8470,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/30316_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9319,11 +8519,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/30317_1_4_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9400,11 +8596,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/33200_114-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9447,10 +8639,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/33201_103-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9514,13 +8703,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/33202_134-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9566,10 +8749,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/33203_103-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9601,10 +8781,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/34047_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9634,10 +8811,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/34394_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9676,10 +8850,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35800_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9706,10 +8877,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35804_100-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9747,10 +8915,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35808_100-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9788,10 +8953,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35812_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9829,10 +8991,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35815_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9872,13 +9031,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35818_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9917,10 +9070,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35823_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -9959,11 +9109,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35828_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10000,10 +9146,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35831_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10041,10 +9184,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35834_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10082,13 +9222,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35837_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10126,11 +9260,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35842_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10157,10 +9287,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35847_100.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10191,11 +9318,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35851_100-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10282,10 +9405,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36003_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10394,11 +9514,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36004_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10466,11 +9582,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36008_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10531,10 +9643,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36017_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10597,10 +9706,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36018_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10650,10 +9756,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36020_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10704,10 +9807,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36021_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10749,10 +9849,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36025_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10800,9 +9897,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/36029_113.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10901,10 +9996,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36031_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -10977,10 +10069,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/36034_223-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11062,10 +10151,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36039_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11156,10 +10242,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36044_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11231,11 +10314,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36047_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11272,10 +10351,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36048_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11321,12 +10397,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36050_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11407,10 +10478,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36052_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11491,10 +10559,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36054_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11575,10 +10640,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36056_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11627,11 +10689,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36058_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11678,10 +10736,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36059_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11727,11 +10782,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36060_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11811,11 +10862,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36063_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11894,10 +10941,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36065_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -11979,11 +11023,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36067_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12064,11 +11104,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36069_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12148,13 +11184,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36073_1_5_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12234,11 +11264,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36075_1_5_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12276,10 +11302,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36077_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12318,10 +11341,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36078_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12404,10 +11424,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36079_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12501,10 +11518,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36082_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12544,10 +11558,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36085_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12618,10 +11629,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36086_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12673,10 +11681,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36087_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12716,10 +11721,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36089_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12770,10 +11772,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36093_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12823,12 +11822,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36094_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12872,12 +11866,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36096_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12929,10 +11918,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36100_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -12981,10 +11967,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36101_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13032,11 +12015,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36104_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13084,13 +12063,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36105_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13135,13 +12108,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36108_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13189,13 +12156,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36109_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13269,10 +12230,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36112_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13312,11 +12270,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36113_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13343,10 +12297,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36114_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13415,12 +12366,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36115_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13514,12 +12460,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36116_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13560,9 +12501,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36118_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13602,10 +12541,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36123_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13649,10 +12585,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36126_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13689,10 +12622,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36129_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13726,12 +12656,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36131_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13779,11 +12704,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36132_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13841,10 +12762,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36133_1_5_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13900,11 +12818,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36135_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -13952,10 +12866,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36136_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14001,10 +12912,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36138_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14060,10 +12968,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36139_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14117,11 +13022,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36140_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14168,10 +13069,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36141_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14227,10 +13125,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36144_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14285,12 +13180,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36145_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14348,10 +13238,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36148_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14398,10 +13285,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36149_1_3_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14436,10 +13320,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/51110_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14473,12 +13354,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/51437_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14507,10 +13383,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/53569_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14549,10 +13422,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/53844_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14582,10 +13452,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/54139_3_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14617,9 +13484,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/54142_3_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14652,9 +13517,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/54267_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14686,9 +13549,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/54326_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14722,9 +13583,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/54623_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14759,10 +13618,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/57951_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14794,10 +13650,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/58412_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14828,9 +13681,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/58823_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14857,11 +13708,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/70005_100-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14885,11 +13732,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/70006_100-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14918,11 +13761,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/70060_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14952,11 +13791,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/70080_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -14994,11 +13829,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/70204_104-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15037,13 +13868,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/70210_134-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15068,11 +13893,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/73018_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15109,9 +13930,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/75089_372.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15152,9 +13971,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/75090_372.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15188,9 +14005,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/75091_set.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15224,9 +14039,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/75092_set.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15264,9 +14077,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/75093_383.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15290,11 +14101,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/75096_set.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15326,13 +14133,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/75124_set.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15365,11 +14166,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/75125_308.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15402,11 +14199,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/75126_set.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15450,11 +14243,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/81000_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15491,10 +14280,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/81008_105-a-logo.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15524,11 +14310,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/81009_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15558,13 +14340,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/81010_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15594,11 +14370,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/81011_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15637,11 +14409,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/81013_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15673,9 +14441,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/81129_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15714,10 +14480,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/81132_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15753,10 +14516,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/81133_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15798,10 +14558,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/81134_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15837,11 +14594,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/81136_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15889,10 +14642,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/81140_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15930,11 +14680,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/81141_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -15976,11 +14722,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/81144_147-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16018,14 +14760,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/81147_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16061,11 +14796,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/81155_127-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16103,10 +14834,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/81156_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16140,11 +14868,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/81158_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16190,10 +14914,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/81160_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16231,10 +14952,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/81162a_160_c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16268,10 +14986,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/81163_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16307,11 +15022,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/81165_105.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16347,10 +15058,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/81168_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16394,10 +15102,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/81174_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16433,10 +15138,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/81175_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16464,10 +15166,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/81179_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16514,10 +15213,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/81182_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16558,10 +15254,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/81185_127-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16622,10 +15315,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/81189_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16662,10 +15352,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/81192_128-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16703,10 +15390,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/81193_3_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16742,9 +15426,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/81194_3_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16779,11 +15461,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/81195_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16816,10 +15494,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/81196_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16855,11 +15530,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/81201_2_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16892,9 +15563,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/81203_1_4_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16928,11 +15597,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/81208_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -16989,10 +15654,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91019_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17044,11 +15706,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91216_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17096,10 +15754,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91247_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17139,10 +15794,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91256_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17178,9 +15830,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91292_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17227,11 +15877,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91311_123.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17266,10 +15912,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91339_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17299,10 +15942,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/91348_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17345,10 +15985,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91396_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17384,11 +16021,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91495_104-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17436,10 +16069,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91498_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17469,11 +16099,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91615_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17502,11 +16128,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91621_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17547,11 +16169,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91624_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17593,10 +16211,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91628_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17634,10 +16249,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91634_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17673,10 +16285,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91642_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17706,9 +16315,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91647_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17744,10 +16351,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/91671_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17787,10 +16391,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91693_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17826,11 +16427,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91694_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17865,10 +16462,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/91696_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17904,10 +16498,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91699_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17935,11 +16526,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/91716_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -17965,13 +16552,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91721_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18002,11 +16583,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/91722_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18038,10 +16615,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91725_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18080,10 +16654,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91731_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18118,10 +16689,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91736_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18149,10 +16717,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91737_2_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18183,10 +16748,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91746_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18214,10 +16776,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91747_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18246,10 +16805,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91750_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18280,11 +16836,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91751_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18310,10 +16862,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91752_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18341,12 +16890,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91754_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18373,12 +16917,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/91755_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18406,10 +16945,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91756_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18434,10 +16970,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91757_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18464,11 +16997,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91758_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18494,13 +17023,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91759_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18531,13 +17054,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91767_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18567,13 +17084,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91768_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18608,9 +17119,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91769_amb-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18641,11 +17150,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91770_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18692,9 +17197,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91772_amb-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18723,12 +17226,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91773_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18764,12 +17262,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91775_amb-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18827,10 +17320,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91777_115-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18895,10 +17385,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91778_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18934,10 +17421,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91779_127-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -18972,10 +17456,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91780_127-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19014,12 +17495,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91781_127-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19056,11 +17532,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91782_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19097,10 +17569,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91783_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19134,11 +17603,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91788_160-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19175,10 +17640,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91792_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19222,9 +17684,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91794_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19259,10 +17719,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91795_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19305,9 +17762,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91799_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19343,9 +17798,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91816_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19377,10 +17830,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91820_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19408,12 +17858,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91835_2_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19472,11 +17917,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/91849_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19503,10 +17944,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/91917_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19539,10 +17977,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91932_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19570,10 +18005,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91940_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19623,10 +18055,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91944_amb-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19673,10 +18102,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91945_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19719,10 +18145,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91946_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19758,9 +18181,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91947_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19790,10 +18211,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/91970_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19829,10 +18247,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92040_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19861,9 +18276,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92044_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19890,13 +18303,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92046_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19924,12 +18331,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92061_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19962,11 +18364,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92066_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -19998,11 +18396,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92067_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20036,11 +18430,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92069_2_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20081,13 +18471,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92070_123.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20116,11 +18500,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92073_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20151,11 +18531,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/92077_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20187,13 +18563,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92078_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20238,11 +18608,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92079_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20282,11 +18648,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92080_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20321,11 +18683,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92081_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20367,11 +18725,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92083_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20417,11 +18771,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/92084_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20429,7 +18779,7 @@ const rawProducts = [
         {
                 "id": "pg-92086",
                 "sku": "92086",
-                "name": "GENOA. Padded laptop bag in 600D high-density recycled polyester 15",
+                "name": "GENOA. Padded laptop bag in 600D high-density recycled polyester 15\"",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Bags",
                 "subcategory": "",
@@ -20458,13 +18808,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92086_113-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20497,11 +18841,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92091_amb-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20544,10 +18884,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92092_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20577,11 +18914,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92093_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20589,7 +18922,7 @@ const rawProducts = [
         {
                 "id": "pg-92094",
                 "sku": "92094",
-                "name": "DENIM BPACK. (300 g/m )",
+                "name": "DENIM BPACK. Backpack (300g/m²)",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Bags",
                 "subcategory": "",
@@ -20615,11 +18948,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92094_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20651,11 +18980,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/92095_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20692,11 +19017,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92096_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20728,11 +19049,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92097_103-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20772,10 +19089,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92098_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20815,10 +19129,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92099_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20851,10 +19162,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92132_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20889,10 +19197,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92145_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20924,11 +19229,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92146_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20961,10 +19262,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92147_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -20993,10 +19291,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92148_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21030,10 +19325,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92164_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21041,7 +19333,7 @@ const rawProducts = [
         {
                 "id": "pg-92170",
                 "sku": "92170",
-                "name": "SHADES BPACK. 14'' 600D",
+                "name": "SHADES BPACK. 14'' Laptop Backpack 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Bags",
                 "subcategory": "",
@@ -21062,14 +19354,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92170_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21077,7 +19362,7 @@ const rawProducts = [
         {
                 "id": "pg-92171",
                 "sku": "92171",
-                "name": "SHADES LAPTOP. 14'' 600D",
+                "name": "SHADES LAPTOP. 14'' Laptop Bag 600D",
                 "description": "High-quality promotional product perfect for corporate branding and marketing campaigns.",
                 "category": "Bags",
                 "subcategory": "",
@@ -21099,9 +19384,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92171_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21136,10 +19419,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92174_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21173,10 +19453,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92176_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21210,9 +19487,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92177_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21251,10 +19526,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92184_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21286,9 +19558,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92187_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21322,9 +19592,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92188_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21357,9 +19625,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92189_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21406,9 +19672,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92190_113-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21441,9 +19705,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92191_103-i.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21478,9 +19740,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92192_amb-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21516,9 +19776,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92193_103-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21580,9 +19838,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92195_133-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21629,9 +19885,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92199_131-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21672,12 +19926,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92236_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21719,12 +19968,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/92257_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21751,9 +19995,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92266_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21784,9 +20026,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/92280_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21816,10 +20056,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92286_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21849,10 +20086,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92289_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21889,11 +20123,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92316_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21934,9 +20164,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92318_103-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -21978,9 +20206,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92323_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22030,13 +20256,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92326_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22081,13 +20301,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92327_129-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22126,13 +20340,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92328_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22163,9 +20371,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92329_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22198,9 +20404,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92330_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22235,9 +20439,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92330_92331_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22272,9 +20474,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92332_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22305,10 +20505,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92352_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22337,11 +20534,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/92357_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22372,9 +20565,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92363_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22402,9 +20593,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92369_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22433,9 +20622,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92370_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22462,9 +20649,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92374_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22502,9 +20687,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92377_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22536,9 +20719,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92378_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22587,9 +20768,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92380_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22630,9 +20809,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92381_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22672,9 +20849,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92382_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22708,9 +20883,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92383_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22760,9 +20933,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92384_1_5_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22799,9 +20970,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92385_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22836,9 +21005,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92386_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22875,9 +21042,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92387_amb-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22908,9 +21073,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92388_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22947,9 +21110,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92389_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -22979,9 +21140,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92391_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23011,9 +21170,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92392_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23054,9 +21211,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92395_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23089,9 +21244,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92396_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23123,9 +21276,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92397_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23156,9 +21307,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92398_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23190,9 +21339,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92399_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23221,9 +21368,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92414_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23254,9 +21399,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92415_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23286,9 +21429,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/92456_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23351,10 +21492,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92471_109-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23400,12 +21538,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92511_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23440,9 +21573,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92516_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23478,12 +21609,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92518_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23514,9 +21640,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92520_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23553,12 +21677,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92521_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23588,9 +21707,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92524_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23620,9 +21737,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92525_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23653,9 +21768,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92526_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23686,9 +21799,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92527_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23720,9 +21831,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92528_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23754,10 +21863,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92544_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23784,10 +21890,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92546_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23815,10 +21918,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92547_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23855,12 +21955,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92567_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23893,9 +21988,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92614_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23928,11 +22021,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92617_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23964,9 +22053,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92619_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -23998,10 +22085,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92622_104-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24036,9 +22120,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92627_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24069,9 +22151,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92628_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24103,11 +22183,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92637_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24148,10 +22224,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92667_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24188,10 +22261,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92668_1_5_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24233,10 +22303,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92669_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24265,9 +22332,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92670_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24300,9 +22365,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92671_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24348,10 +22411,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92675_1_5_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24387,12 +22447,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92681_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24425,9 +22480,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92682_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24460,10 +22513,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92683_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24495,10 +22545,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92717_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24524,9 +22571,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92720_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24578,10 +22623,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92721_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24611,9 +22653,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92722_3_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24643,10 +22683,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92724_104-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24676,10 +22713,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92728_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24714,10 +22748,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92731_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24755,10 +22786,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92732_124.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24787,9 +22815,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92733_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24816,9 +22842,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92734_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24847,9 +22871,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92735_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24891,9 +22913,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92737_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24934,9 +22954,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92741_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -24968,9 +22986,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92798_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25004,9 +23020,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92820_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25039,9 +23053,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92821_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25080,13 +23092,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92822_1_3_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25118,9 +23124,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92823_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25158,12 +23162,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92824_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25192,9 +23191,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92827_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25225,9 +23222,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92833_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25262,11 +23257,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92835_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25296,9 +23287,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92836_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25341,11 +23330,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92839_134.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25378,11 +23363,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/92843_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25415,11 +23396,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/92845_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25448,9 +23425,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/92851_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25478,9 +23453,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92853_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25506,9 +23479,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92871_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25535,9 +23506,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92872_106-a-logo.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25564,9 +23533,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92873_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25593,9 +23560,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92874_106-a-logo.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25624,9 +23589,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92875_b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25652,9 +23615,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92876_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25682,9 +23643,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92877_b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25711,9 +23670,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92878_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25749,9 +23706,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92882_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25779,9 +23734,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92883_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25816,11 +23769,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/92895_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25866,13 +23815,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92902_123.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25915,11 +23858,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92904_134.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -25966,11 +23905,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92906_114-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26023,11 +23958,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92910_132.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26063,11 +23994,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92913_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26111,11 +24038,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92915_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26148,9 +24071,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92919_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26194,13 +24115,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92920_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26238,9 +24153,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92922_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26296,11 +24209,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92925_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26335,9 +24244,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92926_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26369,9 +24276,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92927_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26410,13 +24315,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92928_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26454,11 +24353,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92929_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26499,11 +24394,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92930_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26541,11 +24432,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92931_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26575,9 +24462,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92934_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26606,9 +24491,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92935_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26648,11 +24531,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92936_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26684,9 +24563,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92937_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26718,9 +24595,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92938_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26760,11 +24635,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92993_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26799,9 +24670,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92999_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26837,11 +24706,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93077_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26869,9 +24734,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93084_box.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26904,12 +24767,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93087_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26946,10 +24804,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93124_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -26986,10 +24841,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93141_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27021,11 +24873,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93143_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27059,9 +24907,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93145_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27096,10 +24942,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93151_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27131,9 +24974,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93158_box.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27161,9 +25002,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/93167_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27194,9 +25033,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93171_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27232,11 +25069,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93177_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27265,9 +25098,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93265_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27300,9 +25131,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93268_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27345,14 +25174,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93269_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27391,10 +25213,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/93271_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27422,13 +25241,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93272_160-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27458,13 +25271,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93274_160-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27496,12 +25303,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93275_160-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27537,10 +25339,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93276_c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27590,13 +25389,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93277_133-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27623,13 +25416,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/93281_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27655,11 +25442,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93282_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27690,14 +25473,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93285_2_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27737,10 +25513,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93286_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27782,12 +25555,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93287_104-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27819,13 +25587,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93288_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27854,13 +25616,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93289_104-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27889,13 +25645,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93290_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27924,11 +25674,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93291_150-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27958,12 +25704,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93292_104-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -27993,11 +25734,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93293_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28026,10 +25763,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93294_150-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28059,10 +25793,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93295_104-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28091,10 +25822,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93296_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28188,11 +25916,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93297_129-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28217,9 +25941,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93307_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28245,9 +25967,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93309_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28281,9 +26001,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93314_3_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28311,9 +26029,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93318_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28343,10 +26059,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93319_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28376,9 +26089,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/93320_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28410,9 +26121,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93321_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28442,9 +26151,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93333_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28501,12 +26208,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93338_111-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28531,11 +26233,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93339_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28564,10 +26262,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93354_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28593,9 +26288,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93357_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28622,13 +26315,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93359_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28657,11 +26344,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93363_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28686,10 +26369,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93394_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28718,11 +26398,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93399_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28747,12 +26423,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93421_160.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28786,13 +26457,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/93422_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28837,13 +26502,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93425_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28873,11 +26532,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93426_160-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28908,11 +26563,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/93439_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28940,12 +26591,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93443_105.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -28976,11 +26622,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93461_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29004,13 +26646,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93463_160.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29059,12 +26695,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93481_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29096,11 +26727,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93485_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29143,13 +26770,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93487_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29187,13 +26808,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93494_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29227,11 +26842,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/93495_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29259,14 +26870,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93565_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29304,10 +26908,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93578_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29342,10 +26943,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93579_103-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29377,11 +26975,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93580_103-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29425,14 +27019,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93592_1_2_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29460,9 +27047,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93607_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29498,10 +27083,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93614_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29534,9 +27116,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93635_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29570,11 +27150,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93636_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29614,10 +27190,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93637_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29656,9 +27229,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93638_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29691,11 +27262,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93639_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29728,9 +27295,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93640_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29765,12 +27330,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/93707_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29801,13 +27361,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93709_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29836,13 +27390,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93715_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29885,13 +27433,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93717_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29928,11 +27470,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93788_2_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29965,9 +27503,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93789_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -29995,12 +27531,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93791_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30030,13 +27561,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93792_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30064,11 +27589,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93793_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30102,10 +27623,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93799_104-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30135,13 +27653,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93804_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30178,11 +27690,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93805_2_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30215,9 +27723,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93807_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30255,9 +27761,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93808_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30284,12 +27788,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93826_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30322,10 +27821,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93827_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30357,11 +27853,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93828_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30392,10 +27884,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93830_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30423,10 +27912,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93831_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30492,10 +27978,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93832_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30565,10 +28048,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93833_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30599,11 +28079,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93834_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30644,11 +28120,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93836_131.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30688,10 +28160,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93837_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30720,11 +28189,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93839_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30759,11 +28224,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93840_124-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30792,11 +28253,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93841_105-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30828,9 +28285,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93847_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30867,9 +28322,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93848_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30900,9 +28353,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/93851_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30934,10 +28385,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93853_104-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30964,10 +28412,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93861_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -30997,10 +28442,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93870_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31030,10 +28472,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93872_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31063,10 +28502,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93873_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31092,10 +28528,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93880_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31130,11 +28563,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93886_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31174,11 +28603,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93887_111.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31211,11 +28636,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93888_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31246,13 +28667,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93895_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31280,10 +28695,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/93897_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31314,9 +28726,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93937_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31343,10 +28753,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/93957_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31372,11 +28779,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93966_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31410,11 +28813,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/93967_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31439,10 +28838,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93968_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31469,9 +28865,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93969_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31500,11 +28894,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93989_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31530,10 +28920,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93990_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31566,11 +28953,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93995_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31599,9 +28982,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93996_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31631,10 +29012,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/93998_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31668,11 +29046,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94014_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31705,10 +29079,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94016_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31737,10 +29108,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94019_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31770,9 +29138,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94022_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31803,9 +29169,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94024_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31837,9 +29201,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94025_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31870,10 +29232,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94028_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31901,10 +29260,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94030_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31933,10 +29289,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94031_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31965,10 +29318,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94033_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -31997,9 +29347,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94035_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32027,11 +29375,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94036_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32062,9 +29406,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94037_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32096,10 +29438,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94038_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32131,9 +29470,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94041_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32158,9 +29495,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94042_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32193,9 +29528,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94043_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32241,11 +29574,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94044_1_5_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32292,11 +29621,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94045_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32326,10 +29651,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94046_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32365,11 +29687,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94059_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32407,12 +29725,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94063_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32445,11 +29758,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94069_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32475,9 +29784,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94077_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32518,13 +29825,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94078_114-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32556,10 +29857,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94079_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32590,12 +29888,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94097_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32622,10 +29915,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94098_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32655,11 +29945,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94114_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32689,11 +29975,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94115_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32723,11 +30005,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94116_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32769,10 +30047,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94117_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32800,11 +30075,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94118_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32840,9 +30111,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94119_3_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32877,11 +30146,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94124_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32906,10 +30171,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94129_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32942,10 +30204,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94134_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -32974,11 +30233,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94147_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33009,11 +30264,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94159_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33043,10 +30294,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94189_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33077,9 +30325,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94190_2_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33108,11 +30354,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94191_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33139,10 +30381,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94193_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33167,10 +30406,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94194_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33204,10 +30440,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94210_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33231,10 +30464,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94228_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33259,10 +30489,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94229_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33295,10 +30522,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94230_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33332,9 +30556,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94239_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33373,13 +30595,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94240_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33409,10 +30625,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94241_160-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33445,10 +30658,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94242_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33498,10 +30708,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94244_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33535,9 +30742,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94245_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33575,12 +30780,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94246_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33610,9 +30810,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94247_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33641,11 +30839,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94249_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33680,12 +30874,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94250_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33720,11 +30909,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94251_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33756,12 +30941,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94252_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33795,11 +30975,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94253_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33831,10 +31007,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94254_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33864,10 +31037,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94255_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33900,10 +31070,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94257_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33935,10 +31102,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94259_amb-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33968,10 +31132,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94261_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -33997,10 +31158,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94264_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34037,10 +31195,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94265_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34074,11 +31229,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94269_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34108,10 +31259,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94271_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34146,10 +31294,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94272_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34190,9 +31335,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94273_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34225,9 +31368,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94274_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34256,11 +31397,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94275_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34296,9 +31433,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94276_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34331,10 +31466,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94277_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34361,10 +31493,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94278_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34393,10 +31522,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94279_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34423,12 +31549,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94280_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34510,10 +31631,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94281_134-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34547,10 +31665,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94282_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34594,12 +31709,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94283_134-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34640,10 +31750,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94284_134.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34686,10 +31793,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94285_134.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34719,12 +31823,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94286_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34755,10 +31854,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94287_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34810,12 +31906,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94288_147.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34853,12 +31944,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94289_170-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34899,12 +31985,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94290_170-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34941,12 +32022,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94291_170-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -34978,12 +32054,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94292_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35022,12 +32093,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94293_170-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35057,12 +32123,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94294_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35098,11 +32159,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94299_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35130,12 +32187,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94305_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35169,11 +32221,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94306_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35202,12 +32250,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94307_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35239,10 +32282,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94312_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35274,10 +32314,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94314_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35310,10 +32347,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94315_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35346,12 +32380,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94316_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35382,12 +32411,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94317_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35415,11 +32439,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94318_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35447,11 +32467,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94320_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35482,11 +32498,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94321_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35514,9 +32526,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94322_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35543,11 +32553,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94324_110_logo.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35579,11 +32585,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94327_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35616,9 +32618,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94329_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35650,11 +32650,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94335_amb-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35686,10 +32682,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94344_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35720,11 +32713,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94345_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35750,11 +32739,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94346_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35783,13 +32768,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94347_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35822,10 +32801,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94348_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35851,12 +32827,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94356_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35886,12 +32857,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94362a_106_logo.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35921,12 +32887,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94366_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35955,12 +32916,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94367_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -35995,10 +32951,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94368_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36025,12 +32978,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94369_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36066,10 +33014,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94401_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36113,10 +33058,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94402_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36157,10 +33099,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94405_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36191,10 +33130,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94408_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36224,13 +33160,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94410_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36258,13 +33188,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94411_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36301,9 +33225,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94446_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36338,9 +33260,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94501_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36370,10 +33290,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94510_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36412,13 +33329,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94550_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36446,12 +33357,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94573_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36479,10 +33385,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94574_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36516,10 +33419,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94575_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36558,14 +33458,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94601_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36611,13 +33504,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94602_127-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36656,11 +33543,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94603_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36690,9 +33573,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94607_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36725,9 +33606,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94609_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36757,11 +33636,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94610_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36807,9 +33682,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94612_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36837,11 +33710,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94614_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36875,12 +33744,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94615_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36912,10 +33776,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94616_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36943,11 +33804,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94621_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -36978,12 +33835,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94625_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37012,10 +33864,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94630_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37054,13 +33903,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94631_105-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37104,13 +33947,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94646_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37150,11 +33987,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94661_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37190,11 +34023,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94662_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37223,12 +34052,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94663_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37258,13 +34082,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94664_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37298,9 +34116,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94665_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37330,9 +34146,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94667_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37369,11 +34183,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94669_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37406,10 +34216,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94673_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37443,11 +34250,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94677_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37478,10 +34281,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94679_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37511,11 +34311,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94680_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37548,11 +34344,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94681_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37587,11 +34379,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94682_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37623,10 +34411,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94683_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37655,10 +34440,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94684_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37687,9 +34469,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94685_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37720,9 +34500,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94687_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37756,10 +34534,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94688_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37792,10 +34567,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94692_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37834,11 +34606,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94699_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37867,10 +34635,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94720_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37901,10 +34666,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94736_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37930,9 +34692,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94738_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37961,9 +34721,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94744_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -37992,12 +34750,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94747_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38025,11 +34778,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94749_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38055,11 +34804,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94751_105.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38088,10 +34833,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94758_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38123,9 +34865,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94759_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38156,10 +34896,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94760_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38190,10 +34927,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94761_160-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38228,9 +34962,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94762_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38265,9 +34997,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/94767_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38302,11 +35032,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94770_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38343,13 +35069,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94771_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38384,9 +35104,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94772_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38415,10 +35133,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94781_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38459,9 +35174,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94783_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38492,9 +35205,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94785_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38521,9 +35232,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94800_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38553,12 +35262,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94843_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38585,10 +35289,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94849_103.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38626,11 +35327,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94851_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38662,11 +35359,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94853_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38694,9 +35387,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94855_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38724,9 +35415,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/94860_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38762,9 +35451,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94861_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38798,10 +35485,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94879_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38833,10 +35517,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94880_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38865,9 +35546,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94882_box.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38902,10 +35581,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94891_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38938,10 +35614,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94897_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38969,9 +35642,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94898_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -38999,10 +35670,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94899_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39027,11 +35695,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94913_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39062,11 +35726,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94942_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39090,10 +35750,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94945_170.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39125,9 +35782,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94952_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39160,10 +35815,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94956_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39190,12 +35842,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94957_106-logo.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39223,12 +35870,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94958_106-logo.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39267,10 +35909,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/94959_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39312,11 +35951,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94970_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39339,12 +35974,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94971_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39367,11 +35997,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94972_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39395,9 +36021,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94973_106-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39421,11 +36045,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94974_106-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39448,9 +36068,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94975_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39473,11 +36091,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94976_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39500,10 +36114,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94977_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39531,10 +36142,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/94992_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39567,11 +36175,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95046_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39603,9 +36207,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/95048_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39634,10 +36236,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/95051_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39669,9 +36268,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95053_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39701,11 +36298,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95054_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39738,11 +36331,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95055_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39777,10 +36366,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/95056_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39811,11 +36397,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95057_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39847,10 +36429,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95063_2_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39886,9 +36465,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/95067_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39922,9 +36499,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95068_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39958,10 +36533,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95069_3_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -39993,11 +36565,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95070_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40028,10 +36596,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95075_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40059,11 +36624,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/95077_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40092,11 +36653,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95078_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40122,9 +36679,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/95082_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40150,9 +36705,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/95083_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40193,9 +36746,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/95084_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40235,9 +36786,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/95085_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40266,11 +36815,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95088_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40298,9 +36843,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95089_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40330,12 +36873,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95090_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40364,10 +36902,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95091_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40404,10 +36939,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95092_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40435,10 +36967,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95093_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40467,10 +36996,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95094_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40502,10 +37028,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/95095_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40535,9 +37058,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/95103_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40564,10 +37085,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/95107_110-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40599,10 +37117,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95500_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40630,12 +37145,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95504_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40663,10 +37173,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/95505_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40690,9 +37197,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/95817_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40717,9 +37222,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/95836_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40745,11 +37248,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97060_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40774,11 +37273,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97065_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40807,9 +37302,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97070_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40851,10 +37344,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97078_1_3_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40885,10 +37375,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97088_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40922,10 +37409,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97090_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40955,10 +37439,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97091_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -40988,10 +37469,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97093_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41019,10 +37497,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97094_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41052,12 +37527,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97095_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41090,10 +37560,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97096_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41125,9 +37592,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97097_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41156,12 +37621,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97098_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41195,11 +37655,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97099_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41232,9 +37688,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97121_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41270,12 +37724,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97122_amb-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41304,12 +37753,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97123_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41337,12 +37781,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97125_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41374,12 +37813,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97126_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41409,12 +37843,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97127_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41444,12 +37873,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97128_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41481,9 +37905,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97129_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41511,12 +37933,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97130_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41552,11 +37969,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97132_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41584,12 +37997,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97133_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41619,10 +38027,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97134_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41652,10 +38057,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/97135_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41686,10 +38088,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97136_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41721,10 +38120,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97137_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41756,12 +38152,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97138_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41791,10 +38182,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97139_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41822,11 +38210,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97140_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41858,9 +38242,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97141_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41890,9 +38272,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97152_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41920,10 +38300,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97153_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41951,11 +38328,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97156_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -41993,11 +38366,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97163_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42030,11 +38399,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97164_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42066,10 +38431,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97165_103.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42100,11 +38462,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/97166_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42135,11 +38493,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/97167_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42168,9 +38522,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97168_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42205,10 +38557,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97169_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42238,12 +38587,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97176_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42278,12 +38622,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97178_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42316,12 +38655,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/97179_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42357,12 +38691,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97180_114-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42404,10 +38733,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97181_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42440,12 +38766,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97183_133-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42477,12 +38798,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97184_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42511,12 +38827,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97186_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42547,13 +38858,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97187_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42583,12 +38888,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97188_amb-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42616,13 +38916,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97189_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42652,13 +38946,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97191_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42697,13 +38985,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97193_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42736,13 +39018,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97197_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42779,11 +39055,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97198_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42817,12 +39089,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97199_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42849,9 +39116,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97207_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42883,10 +39148,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97208_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42914,10 +39176,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97210_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42953,10 +39212,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97212_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -42989,11 +39245,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97252_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43023,11 +39275,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97258_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43058,11 +39306,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97304_box.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43091,10 +39335,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97318_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43124,9 +39365,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97331_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43156,10 +39395,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97338_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43195,12 +39431,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97344_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43236,12 +39467,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97351_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43272,10 +39498,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97357_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43315,11 +39538,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97358_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43350,12 +39569,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97359_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43387,11 +39601,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97360_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43419,11 +39629,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97361_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43455,13 +39661,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97362_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43490,9 +39690,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97365_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43528,11 +39726,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97367_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43558,9 +39752,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97388_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43585,13 +39777,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97389_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43620,9 +39806,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/97395_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43663,9 +39847,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97426_amb-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43701,11 +39883,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97433_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43737,10 +39915,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97434_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43769,10 +39944,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97435_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43806,10 +39978,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97436_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43839,9 +40008,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97437_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43870,12 +40037,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97438_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43902,11 +40064,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97441_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43937,11 +40095,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97524_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -43981,11 +40135,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97549_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44019,11 +40169,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97569_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44047,11 +40193,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97765_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44078,11 +40220,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97903_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44111,10 +40249,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97907_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44139,11 +40274,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97908_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44176,11 +40307,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97909_160-logo.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44210,11 +40337,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97911_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44246,11 +40369,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97912_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44279,11 +40398,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97913_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44314,11 +40429,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97915_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44350,11 +40461,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97919_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44386,11 +40493,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97922_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44419,11 +40522,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97923_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44452,11 +40551,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97932_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44486,11 +40581,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97934_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44520,11 +40611,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97938_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44555,11 +40642,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97939_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44587,11 +40670,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97953_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44623,11 +40702,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97954_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44659,11 +40734,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97955_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44698,11 +40769,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/97956_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44735,11 +40802,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97960_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44766,11 +40829,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98001_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44801,11 +40860,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98002_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44839,11 +40894,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/98003_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44869,11 +40920,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98004_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44899,11 +40946,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98006_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44931,11 +40974,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98007_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44965,11 +41004,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98012_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -44996,11 +41031,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98031_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45039,9 +41070,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98035_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45075,11 +41104,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98054_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45106,11 +41131,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98059_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45138,11 +41159,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98067_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45174,11 +41191,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98074_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45222,11 +41235,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98076_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45256,11 +41265,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98077_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45291,10 +41296,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98081_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45321,11 +41323,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98092_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45352,11 +41350,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/98093_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45387,11 +41381,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/98095a_105_c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45422,11 +41412,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98097_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45456,11 +41442,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98098_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45488,11 +41470,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/98111_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45517,11 +41495,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98113_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45551,11 +41525,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98114_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45583,11 +41553,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98117_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45615,11 +41581,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98122_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45653,10 +41615,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98124_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45685,11 +41644,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98131_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45718,10 +41673,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/98132_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45751,11 +41703,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98133_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45782,11 +41730,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/98135_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45814,11 +41758,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/98136_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45850,11 +41790,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98137_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45888,11 +41824,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/98138_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45924,11 +41856,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98140_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45954,11 +41882,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/98142_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -45987,11 +41911,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/98143_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46027,11 +41947,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/98144_2_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46059,11 +41975,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98145_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46096,11 +42008,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/98147_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46126,11 +42034,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98148_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46162,11 +42066,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/98149_103-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46195,11 +42095,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98152_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46230,11 +42126,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98171_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46266,9 +42158,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98180_2_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46295,9 +42185,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98184_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46322,11 +42210,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98196_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46361,11 +42245,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98197_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46398,11 +42278,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98219_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46427,11 +42303,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/98264_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46461,10 +42333,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98266_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46492,11 +42361,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/98269_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46535,11 +42400,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/98274_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46573,11 +42434,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/98293_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46611,9 +42468,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98313_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46640,9 +42495,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98317_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46671,9 +42524,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98319_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46716,11 +42567,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98320_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46748,11 +42595,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98324_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46800,11 +42643,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98332_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46843,9 +42682,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98349_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46880,12 +42717,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98377_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46941,10 +42773,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98406_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -46990,10 +42819,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98408_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47049,10 +42875,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98409_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47086,10 +42909,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98410_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47130,10 +42950,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98413_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47165,10 +42982,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98418_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47204,10 +43018,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98420_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47238,11 +43049,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98422_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47288,10 +43095,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98423_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47334,12 +43138,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98425_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47374,10 +43173,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98426_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47412,11 +43208,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98428_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47447,9 +43239,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98454_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47477,9 +43267,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/98457_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47511,11 +43299,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98491_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47550,11 +43334,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98501_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47592,11 +43372,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98503_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47624,11 +43400,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98504_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47658,9 +43430,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/98505_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47690,11 +43460,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98510_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47722,11 +43488,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/98515_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47756,11 +43518,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98519_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47789,11 +43547,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/98816_1_2_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47820,10 +43574,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/98821_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47855,10 +43606,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98824_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47892,10 +43640,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99009_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47929,12 +43674,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99011_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47959,11 +43699,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99016_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -47995,10 +43731,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99021_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48029,10 +43762,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99022_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48079,12 +43809,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99029_1_4_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48118,11 +43843,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99031_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48157,11 +43878,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99032_2_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48202,11 +43919,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99035_150-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48243,10 +43956,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99038_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48284,10 +43994,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99039_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48336,12 +44043,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99041_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48376,11 +44078,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99044_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48431,12 +44129,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99045_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48486,12 +44179,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99046_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48531,12 +44219,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99047_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48570,12 +44253,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99048_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48609,12 +44287,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99049_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48654,12 +44327,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/99051_1_2_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48693,12 +44361,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99074_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48726,11 +44389,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99075_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48765,12 +44424,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99076_103.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48806,11 +44460,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99078_114-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48851,12 +44501,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99079_129-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48883,10 +44528,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99080_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48912,10 +44554,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99082_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48939,11 +44578,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/99083_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48969,10 +44604,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99084_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -48997,11 +44629,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/99085_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49033,11 +44661,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/99086_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49070,12 +44694,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99088_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49128,12 +44747,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99090_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49179,11 +44793,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99091_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49249,11 +44859,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99094_104-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49288,11 +44894,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99095_103-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49324,11 +44926,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99096_131-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49371,11 +44969,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99097_134-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49441,11 +45035,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99098_106-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49492,11 +45082,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99100_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49553,11 +45139,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99116_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49595,11 +45177,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99126_1_5_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49638,11 +45216,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99131_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49680,11 +45254,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99133_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49725,11 +45295,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99134_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49768,11 +45334,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99136_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49816,11 +45378,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99137_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49870,11 +45428,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99138_1_5_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49925,11 +45479,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99139_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -49958,11 +45508,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/99143_1_4_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50001,11 +45547,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99144_1_4_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50045,11 +45587,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99145_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50089,10 +45627,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99146_1_6_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50138,11 +45673,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99149_1_3_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50185,11 +45716,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99151_1_5_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50233,11 +45760,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99157_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50274,11 +45797,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99159_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50331,11 +45850,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99160_1_2_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50369,11 +45884,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99162_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50402,9 +45913,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99213_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50438,10 +45947,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99214_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50468,11 +45974,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99312_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50499,11 +46001,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99316_1_2_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50529,11 +46027,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99323_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50562,11 +46056,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99324_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50593,11 +46083,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99325_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50623,11 +46109,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99334_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50657,11 +46139,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99335_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50691,11 +46169,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99336_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50732,11 +46206,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99341_3_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50765,11 +46235,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99409_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50807,11 +46273,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99410_1_4_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50854,12 +46316,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99412_1_5_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50910,12 +46367,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99415_128-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50953,12 +46405,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99418_128-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -50981,11 +46428,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99419_160.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51012,11 +46455,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99423_150-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51046,12 +46485,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99426_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51082,11 +46516,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/99427_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51117,10 +46547,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99428_124.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51151,12 +46578,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99453_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51199,12 +46621,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99456_1_4_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51247,11 +46664,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99457_1_6_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51276,11 +46689,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/99458_1_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51331,12 +46740,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99547_1_5_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51378,11 +46782,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/99568_1_4_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51411,11 +46811,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99572_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51454,13 +46850,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99800_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51496,12 +46886,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/99811_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51543,13 +46928,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99812_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51587,11 +46966,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99815_1_3_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51633,13 +47008,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/10/99816_2_1_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51681,13 +47050,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99822_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51716,11 +47079,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99826_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51755,13 +47114,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99830_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51795,11 +47148,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99831_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51829,11 +47178,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99832_1_1_3.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51862,11 +47207,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99834_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51896,11 +47237,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99835_1_1_5.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51927,11 +47264,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/99962_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -51960,11 +47293,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99963_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52003,12 +47332,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99964_1_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52046,12 +47370,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99967_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52092,10 +47411,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99969_2_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52127,11 +47443,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/99970_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52193,11 +47505,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/11167_168-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52242,11 +47550,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/11168_108-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52277,11 +47581,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/33210_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52312,11 +47612,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/33211_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52347,11 +47643,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35856_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52380,11 +47672,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35857_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52413,11 +47701,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35858_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52445,11 +47729,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35859_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52478,11 +47758,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35862_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52512,11 +47788,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35863_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52546,11 +47818,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35864_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52579,11 +47847,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35865_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52612,11 +47876,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35866_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52661,11 +47921,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/36122_106-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52694,11 +47950,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/70070_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52731,11 +47983,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91789_160-box.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52776,11 +48024,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91949_123-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52824,11 +48068,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91974_147-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52871,11 +48111,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/10/91977_2_1_4.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52924,11 +48160,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/91980_104-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -52963,11 +48195,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92315_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53000,11 +48228,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92361_133-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53039,11 +48263,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92393_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53077,11 +48297,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92529_133-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53108,11 +48324,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92570_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53147,11 +48359,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92571_114-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53189,11 +48397,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92572_133-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53225,11 +48429,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92573_114-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53259,11 +48459,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/92574_133-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53298,11 +48494,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/10/93653_1_1_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53335,11 +48527,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93654_104-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53374,11 +48562,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93655_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53409,11 +48593,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/93656_104-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53441,11 +48621,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94319_106-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53476,11 +48652,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94370_104-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53521,11 +48693,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/10/94371_1_3_1.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53564,11 +48732,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94372_134-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53609,11 +48773,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94373_134-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53643,11 +48803,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94374_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53688,11 +48844,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94375_149-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53725,11 +48877,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94376_134-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53769,11 +48917,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/94377_149-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53808,11 +48952,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/95098_133-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53848,11 +48988,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/95099_160-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53888,11 +49024,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/95100_133-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53925,11 +49057,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/95106_160-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53957,11 +49085,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/95108_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -53998,11 +49122,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97142_133-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54038,11 +49158,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97143_133-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54074,11 +49190,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97144_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54110,11 +49222,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97146_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54148,11 +49256,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97148_113-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54184,11 +49288,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/97214_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54219,11 +49319,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97921_133-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54251,11 +49347,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97933_103-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54285,11 +49377,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97940_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54323,11 +49411,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97957_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54365,11 +49449,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/98153_150-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54396,11 +49476,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/98154_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54428,11 +49504,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/98155_160.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54464,11 +49536,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/98157_160-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54505,11 +49573,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/10/99163_1_5_2.png"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54555,11 +49619,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99164_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54596,11 +49656,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99165_134-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54640,11 +49696,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99166_131-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54683,11 +49735,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99167_134-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54714,11 +49762,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99314_105.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54742,9 +49786,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/11061_108.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54777,10 +49819,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/11082_159.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54806,11 +49845,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/11147_106-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54835,11 +49870,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/11195_160-pouch.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54877,11 +49908,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/11196_133-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54904,11 +49931,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/11197_150.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -54961,11 +49984,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30128_179-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55002,11 +50021,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30186_183-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55029,11 +50044,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/35860_100.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55056,11 +50067,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/35861_100.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55085,11 +50092,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/54143_160-box.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55123,10 +50126,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/81161_132.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55157,11 +50157,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91635_132.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55191,11 +50187,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91645_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55234,9 +50226,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91771_150-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55261,11 +50251,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/91978_123-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55292,11 +50278,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/91981_107-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55350,11 +50332,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/91982_132-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55380,11 +50358,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/91983_160-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55415,11 +50389,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/91984_128-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55451,11 +50421,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/91985_128-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55480,11 +50446,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/91986_160-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55527,11 +50489,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/91987_119-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55569,11 +50527,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92082_134-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55598,10 +50552,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92197_104.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55649,11 +50600,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92375_129-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55685,11 +50632,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92499_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55728,11 +50671,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92533_160-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55770,11 +50709,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92534_113-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55810,11 +50745,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92535_160-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55849,11 +50780,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92536_150-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55889,11 +50816,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92537_131-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55918,11 +50841,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92538_160-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55954,11 +50873,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92539_150-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -55987,11 +50902,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92541_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56024,11 +50935,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92575_129-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56061,11 +50968,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92576_113-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56091,11 +50994,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92577_105-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56119,11 +51018,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/92631_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56149,11 +51044,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/92854_131.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56196,11 +51087,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92997_128-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56225,11 +51112,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93089_107-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56257,10 +51140,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93575_124-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56288,11 +51168,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/93658_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56317,11 +51193,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/93659_150.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56346,11 +51218,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/93660_150.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56375,11 +51243,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/93661_150.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56404,11 +51268,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/93662_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56434,11 +51294,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/93663_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56465,11 +51321,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/93664_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56505,11 +51357,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/93665_123-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56535,11 +51383,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/93666_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56567,9 +51411,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93971_set.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56596,11 +51438,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94323_134.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56624,9 +51462,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94353_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56655,11 +51491,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94362a_134.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56697,11 +51529,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94382_131-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56729,11 +51557,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94383_127-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56767,11 +51591,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94384_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56804,11 +51624,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94385_116-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56844,11 +51660,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94386_134-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56875,11 +51687,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94387_127-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56907,11 +51715,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94388_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56940,11 +51744,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94389_103-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -56985,11 +51785,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94390_134-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57029,11 +51825,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94391_149-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57063,11 +51855,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94392_127.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57093,11 +51881,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94393_160-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57125,11 +51909,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94395_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57159,11 +51939,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94396_134-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57192,11 +51968,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94397_119.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57222,11 +51994,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94412_301-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57249,11 +52017,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94413_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57278,11 +52042,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94414_301-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57305,11 +52065,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94415_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57333,11 +52089,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94416_302.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57360,11 +52112,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94417_302.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57388,11 +52136,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94418_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57415,11 +52159,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94419_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57442,11 +52182,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94420_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57470,11 +52206,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94421_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57500,11 +52232,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94422_366.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57530,11 +52258,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94423_372.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57560,11 +52284,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94424_357.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57590,11 +52310,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94425_358.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57619,11 +52335,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94426_357.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57649,11 +52361,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94427_358.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57676,11 +52384,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94428_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57703,11 +52407,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94429_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57730,11 +52430,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94430_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57757,11 +52453,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94431_301.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57785,11 +52477,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94432_110.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57813,11 +52501,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94433_110.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57845,10 +52529,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94668_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57887,11 +52568,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/94782_128-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57919,11 +52596,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/95071_160-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57961,11 +52634,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95096_109-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -57997,11 +52666,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95097_157-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58029,11 +52694,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95111_157-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58061,11 +52722,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95112_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58091,11 +52748,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95113_160-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58120,11 +52773,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95114_160-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58148,11 +52797,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/95115_110-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58177,11 +52822,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95116_160.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58209,11 +52850,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95117_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58239,11 +52876,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95118_160-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58271,11 +52904,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95119_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58302,11 +52931,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95120_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58334,11 +52959,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95121_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58360,11 +52981,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95123_103.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58396,11 +53013,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95125_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58426,11 +53039,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/95126_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58457,11 +53066,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97145_106-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58486,11 +53091,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97149_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58514,11 +53115,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97159_103.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58544,11 +53141,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97161_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58574,11 +53167,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97192_100-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58606,11 +53195,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97194_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58644,11 +53229,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97195_113-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58677,11 +53258,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/97196_106-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58708,11 +53285,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97215_103-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58741,11 +53314,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97216_103-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58771,11 +53340,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97217_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58803,11 +53368,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/97218_103-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58839,11 +53400,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97548_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58869,11 +53426,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97929_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58899,11 +53452,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98158_131-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58929,11 +53478,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98159_111-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58960,11 +53505,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98160_160-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -58990,11 +53531,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98161_124-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59023,11 +53560,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98162_103-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59055,11 +53588,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98163_103-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59086,11 +53615,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98164_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59115,11 +53640,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98165_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59145,11 +53666,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98166_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59175,11 +53692,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98167_103-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59204,11 +53717,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/98168_113-pouch.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59241,13 +53750,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/98375_128-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59272,12 +53775,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99018_105.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59311,12 +53809,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99077_128-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59344,11 +53837,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/99158_134-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59374,11 +53863,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/99168_100-b.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59436,11 +53921,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/99169_134-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59491,11 +53972,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/99170_134-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59518,11 +53995,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/99172_103-logo.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59552,11 +54025,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/01/99173_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59587,10 +54056,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/99449_131.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59617,11 +54083,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/11101_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59645,11 +54107,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/11152_127.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59682,11 +54140,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11154_184-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59731,11 +54185,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11155_184-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59762,11 +54212,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11156_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59793,11 +54239,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11157_119-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59824,11 +54266,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11158_183-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59858,11 +54296,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11159_114-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59892,11 +54326,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11160_194-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59929,11 +54359,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11164_199-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59960,11 +54386,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11165_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -59991,11 +54413,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11166_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60034,11 +54452,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/11169_183-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60065,11 +54479,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11170_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60099,11 +54509,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11171_184-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60130,11 +54536,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11172_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60164,11 +54566,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11173_183-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60201,11 +54599,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11174_183-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60232,11 +54626,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11175_124-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60263,11 +54653,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11176_124-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60294,11 +54680,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11177_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60326,11 +54708,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11179_195-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60362,11 +54740,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11180_195-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60396,11 +54770,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11182_113-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60433,11 +54803,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11183_134-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60464,11 +54830,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/11185_184-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60496,11 +54858,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11187_105-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60529,11 +54887,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11188_105-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60563,11 +54917,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11189_183-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60599,11 +54949,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11190_183-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60630,11 +54976,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/11191_104-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60661,14 +55003,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30136_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60716,13 +55051,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30139_183-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60760,11 +55089,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30178_134-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60792,13 +55117,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/30250_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60823,11 +55142,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/34048_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60850,11 +55165,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/35600_106.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60878,9 +55189,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35603_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60904,9 +55213,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35607_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60931,9 +55238,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35608_108-amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60957,11 +55262,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/35610_amb.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -60985,9 +55286,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/35614_set.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61007,11 +55306,7 @@ const rawProducts = [
                 "image": "",
                 "images": [],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61031,11 +55326,7 @@ const rawProducts = [
                 "image": "",
                 "images": [],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61063,11 +55354,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/81135_132-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61094,10 +55381,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/81170_117.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61124,10 +55408,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/91613_109-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61152,11 +55433,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/02/92053_103.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61183,10 +55460,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92076_160-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61208,11 +55482,7 @@ const rawProducts = [
                 "image": "",
                 "images": [],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61247,11 +55517,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/92471a_128.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61281,11 +55547,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/92540_103-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61311,11 +55573,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/02/92621_106-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61348,11 +55606,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/92667a_131.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61377,9 +55631,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92850_117.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61406,11 +55658,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/92881_119.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61438,10 +55686,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93178_124.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61469,11 +55714,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/93273_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61495,11 +55736,7 @@ const rawProducts = [
                 "image": "",
                 "images": [],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61529,11 +55766,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94258_160-e.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61562,11 +55795,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94260_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61602,12 +55831,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/94262_131-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61633,11 +55857,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/94955_160-a.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61664,11 +55884,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/95058_160-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61690,11 +55906,7 @@ const rawProducts = [
                 "image": "",
                 "images": [],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61719,11 +55931,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2023/11/97905_103-c.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61750,11 +55958,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2024/01/97930_160-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61784,11 +55988,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2026/03/99036_100-f.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null
@@ -61822,11 +56022,7 @@ const rawProducts = [
                         "https://printground.net/wp-content/uploads/2025/11/99040_123-d.jpg"
                 ],
                 "brandingZones": [],
-                "availableTechniques": [
-
-
-
-																																																																																																																																																																								]
+                "availableTechniques": [],,
                 "featured": false,
                 "onSale": false,
                 "salePrice": null

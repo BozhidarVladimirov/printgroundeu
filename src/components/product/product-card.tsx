@@ -58,7 +58,7 @@ export function ProductCard({ product }: ProductCardProps) {
             <Eye className="w-5 h-5" />
           </Link>
           <Link
-            href={`/quote?product=${product.id}`}
+            href={`/quote?product=${product.sku}&name=${encodeURIComponent(product.name)}`}
             className="bg-accent text-white rounded-full p-3 hover:bg-accent/90 transition-colors"
           >
             <FileText className="w-5 h-5" />

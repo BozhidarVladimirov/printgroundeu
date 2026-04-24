@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { CheckCircle, Send, Loader2, ArrowLeft, Package, Clock, Shield, Phone, Mail, MessageCircle } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
@@ -70,6 +70,9 @@ const euCountries = [
 
 export default function QuotePage() {
   const router = useRouter()
+  const searchParams = useSearchParams()
+  const productSku = searchParams.get('product') || ''
+  const productName = searchParams.get('name') || ''
   const [isSubmitting, setIsSubmitting] = useState(false)
   const [isSubmitted, setIsSubmitted] = useState(false)
   const [form, setForm] = useState<QuoteForm>({
@@ -79,12 +82,12 @@ export default function QuotePage() {
     phone: '',
     country: '',
     productCategory: '',
-    productInterest: '',
+    productInterest: productName,
     quantity: '',
     brandingTechnique: '',
     deadline: '',
     budget: '',
-    additionalInfo: '',
+    additionalInfo: productSku ? `Product SKU: ${productSku}` : '',
   })
 
   const handleSubmit = async (e: React.FormEvent) => {
