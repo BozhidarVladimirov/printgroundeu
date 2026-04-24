@@ -42,7 +42,7 @@ export default function ProductPage({ params }: { params: { id: string } }) {
   const product = getProductById(id)
 
   if (!product) {
-    notFound()
+    return notFound()
   }
 
   const relatedProducts = products
