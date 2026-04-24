@@ -1,3 +1,5 @@
+'use client'
+
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { ChevronRight, Check, Printer, Palette, Scissors, Zap } from 'lucide-react'
