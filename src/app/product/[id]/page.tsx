@@ -60,7 +60,6 @@ export default function ProductPage({ params }: { params: { id: string } }) {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Breadcrumb */}
       <div className="bg-white border-b">
         <div className="container mx-auto px-4 py-3">
           <nav className="flex items-center gap-2 text-sm text-gray-600">
@@ -77,22 +76,16 @@ export default function ProductPage({ params }: { params: { id: string } }) {
         </div>
       </div>
 
-      {/* Product Section */}
       <div className="container mx-auto px-4 py-8">
         <div className="bg-white rounded-xl shadow-sm overflow-hidden">
           <div className="grid lg:grid-cols-2 gap-8 p-6 lg:p-8">
-            {/* Gallery */}
             <ProductGallery images={product.images} productName={product.name} />
-
-            {/* Info */}
             <ProductInfo product={product} />
           </div>
         </div>
 
-        {/* Product Details Tabs */}
         <div className="mt-8">
           <div className="bg-white rounded-xl shadow-sm overflow-hidden">
-            {/* Tab Headers */}
             <div className="border-b">
               <div className="flex gap-8 px-6">
                 <button className="py-4 border-b-2 border-primary text-primary font-medium">
@@ -101,9 +94,7 @@ export default function ProductPage({ params }: { params: { id: string } }) {
               </div>
             </div>
 
-            {/* Tab Content */}
             <div className="p-6">
-              {/* Product Details Tab */}
               <div>
                 <h3 className="text-lg font-semibold mb-4">Product Information</h3>
                 <p className="text-gray-600 mb-6">
@@ -111,14 +102,12 @@ export default function ProductPage({ params }: { params: { id: string } }) {
                     ? product.description
                     : categoryDescriptions[product.category?.toLowerCase()] || "High-quality branded merchandise for corporate use."}
                 </p>
-                
-                {/* SKU */}
+
                 <div className="mb-4">
                   <span className="font-medium text-gray-700">SKU: </span>
                   <span className="text-gray-600">{product.sku}</span>
                 </div>
 
-                {/* Colors */}
                 {product.colors.length > 0 && (
                   <div className="mb-6">
                     <h4 className="font-medium text-gray-700 mb-3">Available Colors</h4>
@@ -132,7 +121,6 @@ export default function ProductPage({ params }: { params: { id: string } }) {
                   </div>
                 )}
 
-                {/* Materials */}
                 {product.materials.length > 0 && (
                   <div className="mb-6">
                     <h4 className="font-medium text-gray-700 mb-3">Materials</h4>
@@ -146,7 +134,6 @@ export default function ProductPage({ params }: { params: { id: string } }) {
                   </div>
                 )}
 
-                {/* Dimensions */}
                 {product.dimensions && (
                   <div className="mb-6">
                     <h4 className="font-medium text-gray-700 mb-2">Dimensions</h4>
@@ -154,10 +141,10 @@ export default function ProductPage({ params }: { params: { id: string } }) {
                   </div>
                 )}
               </div>
+            </div>
           </div>
         </div>
 
-        {/* Related Products */}
         {relatedProducts.length > 0 && (
           <div className="mt-12">
             <div className="flex items-center justify-between mb-6">
@@ -174,7 +161,6 @@ export default function ProductPage({ params }: { params: { id: string } }) {
           </div>
         )}
 
-        {/* CTA */}
         <div className="mt-12 bg-gradient-to-r from-primary to-accent rounded-xl p-8 text-white text-center">
           <h2 className="text-2xl font-bold mb-4">Need Help Choosing?</h2>
           <p className="text-white/90 mb-6 max-w-2xl mx-auto">

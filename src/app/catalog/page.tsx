@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useMemo, useEffect, Suspense } from 'react'
-import { useSearchParams } from 'next/navigation'
+import { useSearchParams, useRouter, usePathname } from 'next/navigation'
 import Link from 'next/link'
 import { Search, SlidersHorizontal, X, ChevronDown } from 'lucide-react'
 import { Button } from '@/components/ui/button'
@@ -9,8 +9,11 @@ import { Input } from '@/components/ui/input'
 import { Badge } from '@/components/ui/badge'
 import { ProductCard } from '@/components/product/product-card'
 import { products, categories, techniques } from '@/data/products'
+import { expandSearchQuery } from '@/lib/searchSynonyms'
 
 function CatalogContent() {
+  const router = useRouter()
+  const pathname = usePathname()
   const searchParams = useSearchParams()
   const categoryParam = searchParams.get('category')
   const searchParam = searchParams.get('search')
@@ -37,52 +40,50 @@ function CatalogContent() {
     return () => clearTimeout(timer)
   }, [selectedCategory, selectedTechnique, searchQuery])
 
+  useEffect(() => {
+    const params = new URLSearchParams(searchParams.toString())
+    if (searchQuery) {
+      params.set('search', searchQuery)
+    } else {
+      params.delete('search')
+    }
+    const newUrl = `${pathname}?${params.toString()}`
+    window.history.replaceState(null, '', newUrl)
+  }, [searchQuery, pathname, searchParams])
+
   const filteredProducts = useMemo(() => {
     let result = [...products]
+    console.log('[Catalog] Total products:', result.length, 'searchQuery:', searchQuery)
 
     if (searchQuery) {
-      const query = searchQuery.toLowerCase()
+      const terms = expandSearchQuery(searchQuery)
+      console.log('[Catalog] Expanded terms:', terms)
+      const beforeFilter = result.length
       result = result.filter(p => {
-        const nameLower = p.name.toLowerCase()
-        const categoryLower = p.category.toLowerCase()
-        const skuLower = p.sku.toLowerCase()
-        const tagsLower = (p.searchTags || []).join(' ').toLowerCase()
-
-        const nameMatch = nameLower.includes(query)
-        const categoryMatch = categoryLower.includes(query)
-        const skuMatch = skuLower.includes(query)
-        const tagsMatch = tagsLower.includes(query)
-
-        const queryWords = query.replace(/[-_\s]/g, ' ').split(' ').filter(w => w.length > 1)
-        const categoryAliasMatch = (
-          (queryWords.some(w => ['pen', 'pencil', 'marker', 'ballpoint'].includes(w)) && categoryLower === 'write') ||
-          (queryWords.some(w => ['bag', 'backpack', 'trolley', 'rucksack', 'cotton'].includes(w)) && categoryLower === 'bags') ||
-          (queryWords.some(w => ['tshirt', 'shirt', 'polo', 'hoodie', 'jacket', 'sweatshirt', 'cap', 'hat', 'beanie', 'sock'].includes(w)) && categoryLower === 'textile') ||
-          (queryWords.some(w => ['umbrella'].includes(w)) && categoryLower === 'sports & outdoor') ||
-          (queryWords.some(w => ['mug', 'cup', 'bottle', 'water', 'thermos', 'flask', 'glass'].includes(w)) && categoryLower === 'drinkware') ||
-          (queryWords.some(w => ['usb', 'flash', 'drive', 'powerbank', 'charger', 'cable', 'speaker', 'earphone', 'headphone', 'mouse', 'keyboard'].includes(w)) && categoryLower === 'technology') ||
-          (queryWords.some(w => ['key', 'keychain', 'tool', 'multitool', 'knife', 'lighter'].includes(w)) && categoryLower === 'keychains & tools') ||
-          (queryWords.some(w => ['toy', 'game', 'gift', 'xmas', 'christmas', 'kids', 'balloon'].includes(w)) && categoryLower === 'kids & xmas') ||
-          (queryWords.some(w => ['notebook', 'notepad', 'diary', 'folder', 'binder', 'organizer'].includes(w)) && categoryLower === 'office') ||
-          (queryWords.some(w => ['travel', 'luggage', 'wallet', 'passport', 'pillow', 'mirror'].includes(w)) && categoryLower === 'personal & travel')
-        )
-
-        return nameMatch || categoryMatch || skuMatch || tagsMatch || categoryAliasMatch
+        const searchableText = [
+          p.name || '',
+          p.category || '',
+          p.sku || '',
+          p.description || '',
+          p.subcategory || '',
+          (p.searchTags || []).join(' '),
+        ].join(' ').toLowerCase()
+        return terms.some(term => searchableText.includes(term))
       })
+      console.log('[Catalog] After search filter:', result.length, 'from', beforeFilter)
+      console.log('[Catalog] Sample matches:', result.slice(0,3).map(p => ({sku: p.sku, name: p.name.substring(0,30), cat: p.category})))
     }
 
     if (selectedCategory) {
-      const catSlug = selectedCategory.toLowerCase()
-        .replace(/-/g, ' ')
-        .replace(/&/g, ' ')
-        .replace(/\s+/g, ' ')
-        .trim()
       result = result.filter(p => {
-        const pCat = p.category.toLowerCase()
-          .replace(/&/g, ' ')
-          .replace(/\s+/g, ' ')
-          .trim()
-        return pCat === catSlug || pCat.includes(catSlug) || catSlug.includes(pCat)
+        const pCat = p.category.toLowerCase().trim()
+        const sCat = selectedCategory.toLowerCase().trim()
+        return (
+          pCat === sCat ||
+          pCat.includes(sCat) ||
+          sCat.includes(pCat) ||
+          pCat.replace(/[^a-z0-9]/g, '') === sCat.replace(/[^a-z0-9]/g, '')
+        )
       })
     }
 

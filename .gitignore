@@ -39,9 +39,16 @@ next-env.d.ts
 *.swp
 *.swo
 
+# Deploy scripts with secrets
+deploy.js
+deploy-prod.js
+rebuild.js
+
 # Uploads (if any)
 uploads/
 
 # Logs
 logs
 *.log
+
+.vercel
