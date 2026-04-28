@@ -18927,7 +18927,7 @@ const rawProducts = [
                 "category": "Bags",
                 "subcategory": "",
                 "basePrice": 4.83,
-                "colors": ["Yellow"],
+                "colors": ["Denim Blue"],
                 "materials": [],
                 "dimensions": "",
                 "minOrderQuantity": 25,
