@@ -22,9 +22,34 @@ export default function ContactPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setIsSubmitting(true)
-    await new Promise(resolve => setTimeout(resolve, 1500))
+    
+    try {
+      const response = await fetch('/api/send-email', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          type: 'contact',
+          name: form.name,
+          email: form.email,
+          phone: form.phone,
+          companyName: form.company,
+          subject: form.subject,
+          products: form.products,
+          message: form.message,
+        }),
+      })
+      
+      if (!response.ok) {
+        throw new Error('Failed to send message')
+      }
+      
+      setIsSubmitted(true)
+    } catch (error) {
+      console.error('Error sending message:', error)
+      alert('Failed to send message. Please try again or contact us directly.')
+    }
+    
     setIsSubmitting(false)
-    setIsSubmitted(true)
   }
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
