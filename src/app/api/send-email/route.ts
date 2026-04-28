@@ -23,22 +23,26 @@ export async function POST(request: Request) {
       products
     } = body
 
-    if (!process.env.SENDGRID_API_KEY) {
+    const RESEND_API_KEY = process.env.RESEND_API_KEY
+    
+    if (!RESEND_API_KEY) {
+      console.error('RESEND_API_KEY not configured')
       return NextResponse.json({ 
         error: 'Email service not configured'
       }, { status: 500 })
     }
 
-    const SENDGRID_ENDPOINT = 'https://api.sendgrid.com/v3/mail/send'
-    
-    let emailSubject: string
-    let emailContent: string
+    const to = process.env.EMAIL_TO || 'info@printground.net'
+    const from = process.env.EMAIL_FROM || 'info@printground.net'
     const senderName = name || contactName || 'Website Visitor'
     const senderEmail = email || 'noreply@printground.net'
     
+    let emailSubject: string
+    let emailHtml: string
+    
     if (type === 'contact') {
       emailSubject = `New Contact Form Message from ${senderName}`
-      emailContent = `
+      emailHtml = `
         <h2>New Contact Form Message</h2>
         <hr />
         <h3>Contact Information</h3>
@@ -56,7 +60,7 @@ export async function POST(request: Request) {
       `
     } else {
       emailSubject = `New Quote Request from ${senderName}${companyName ? ` - ${companyName}` : ''}`
-      emailContent = `
+      emailHtml = `
         <h2>New Quote Request</h2>
         <hr />
         <h3>Contact Information</h3>
@@ -79,30 +83,25 @@ export async function POST(request: Request) {
       `
     }
     
-    const data = {
-      personalizations: [{
-        to: [{ email: process.env.SENDGRID_TO || 'info@printground.net' }],
-      }],
-      from: { email: process.env.SENDGRID_FROM || 'info@printground.net', name: 'PrintGround EU' },
-      reply_to: { email: senderEmail },
-      subject: emailSubject,
-      content: [{
-        type: 'text/html',
-        value: emailContent
-      }]
-    }
-
-    const response = await fetch(SENDGRID_ENDPOINT, {
+    const response = await fetch('https://api.resend.com/emails', {
       method: 'POST',
       headers: {
-        'Authorization': `Bearer ${process.env.SENDGRID_API_KEY}`,
+        'Authorization': `Bearer ${RESEND_API_KEY}`,
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify(data),
+      body: JSON.stringify({
+        from: `${senderName} <${from}>`,
+        to: [to],
+        reply_to: senderEmail,
+        subject: emailSubject,
+        html: emailHtml,
+      }),
     })
 
     if (!response.ok) {
-      throw new Error(`SendGrid error: ${response.status}`)
+      const errorData = await response.json()
+      console.error('Resend error:', errorData)
+      throw new Error(`Resend error: ${JSON.stringify(errorData)}`)
     }
 
     return NextResponse.json({ success: true })
